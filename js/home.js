@@ -1,50 +1,52 @@
-// Wait until the page is fully loaded
-document.addEventListener("DOMContentLoaded", () => {
-    loadCareers();
-});
+document.addEventListener("DOMContentLoaded", loadCareers);
 
-// Load careers from JSON
 async function loadCareers() {
 
-    try {
+    const response = await fetch("data/careers.json");
+    const careers = await response.json();
 
-        // Read careers.json
-        const response = await fetch("data/careers.json");
+    const careerGrid = document.getElementById("careerGrid");
 
-        // Convert JSON into JavaScript objects
-        const careers = await response.json();
+    careerGrid.innerHTML = "";
 
-        // Select the container
-        const careerGrid = document.getElementById("careerGrid");
+    careers.forEach(career => {
 
-        // Clear existing content
-        careerGrid.innerHTML = "";
+        careerGrid.innerHTML += `
 
-        // Create one card for each career
-        careers.forEach(career => {
+        <div class="col-md-6 col-lg-4">
 
-            careerGrid.innerHTML += `
-                <div class="category-card">
+            <div class="card h-100 shadow-sm border-0 rounded-4 p-3 career-card"
+                 onclick="openCareer(${career.id})"
+                 style="cursor:pointer;">
 
-                    <div style="font-size:40px;">
-                        ${career.icon}
-                    </div>
-
-                    <span>${career.title}</span>
-
-                    <small>${career.specializations} Specializations</small>
-
+                <div class="display-4">
+                    ${career.icon}
                 </div>
-            `;
 
-        });
+                <h4 class="mt-3">
+                    ${career.title}
+                </h4>
 
-    }
+                <p class="text-muted">
+                    ${career.specializations} Specializations
+                </p>
 
-    catch(error){
+                <button class="btn btn-outline-primary mt-auto">
+                    Explore
+                </button>
 
-        console.error("Unable to load careers.", error);
+            </div>
 
-    }
+        </div>
+
+        `;
+
+    });
+
+}
+
+function openCareer(id){
+
+    window.location.href = `pages/career.html?id=${id}`;
 
 }

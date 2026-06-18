@@ -1,152 +1,23 @@
-/* ===========================
-   Header
-=========================== */
+.career-card{
 
-.header{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    margin-top:20px;
-}
-
-.logo-section{
-    display:flex;
-    align-items:center;
-    gap:12px;
-}
-
-.logo{
-    width:55px;
-    height:55px;
-    border-radius:12px;
-    object-fit:cover;
-    background:#E5E7EB;
-}
-
-.logo-section h2{
-    font-size:22px;
-    color:#2563EB;
-    margin:0;
-}
-
-.logo-section p{
-    margin-top:2px;
-    font-size:13px;
-    color:#6B7280;
-}
-
-.menu-icon{
-    font-size:28px;
-    cursor:pointer;
-}
-/* ===========================
-   Hero Section
-=========================== */
-
-.hero{
-    margin-top:40px;
-}
-
-.hero h1{
-    font-size:28px;
-    color:#111827;
-    margin-bottom:8px;
-}
-
-.hero h3{
-    font-size:20px;
-    color:#2563EB;
-    margin-bottom:15px;
-}
-
-.hero p{
-    font-size:15px;
-    line-height:1.7;
-    color:#6B7280;
-}
-/* ===========================
-   Search Section
-=========================== */
-
-.search-section{
-    margin-top:30px;
-}
-
-.search-box{
-    display:flex;
-    align-items:center;
-    background:#ffffff;
-    border-radius:16px;
-    padding:15px 18px;
-    box-shadow:0 8px 20px rgba(0,0,0,0.08);
-}
-
-.search-icon{
-    font-size:20px;
-    margin-right:12px;
-}
-
-.search-box input{
-    width:100%;
-    border:none;
-    outline:none;
-    font-size:16px;
-    font-family:'Poppins', sans-serif;
-    background:transparent;
-}
-
-.search-box input::placeholder{
-    color:#9CA3AF;
-}
-/* ===========================
-   Categories
-=========================== */
-
-.categories{
-    margin-top:40px;
-}
-
-.section-title{
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    margin-bottom:20px;
-}
-
-.section-title h2{
-    font-size:22px;
-}
-
-.section-title a{
-    text-decoration:none;
-    color:#2563EB;
-    font-weight:600;
-}
-
-.category-grid{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:16px;
-}
-
-.category-card{
-    background:#ffffff;
-    border-radius:18px;
-    padding:25px 15px;
-    text-align:center;
-    box-shadow:0 8px 20px rgba(0,0,0,.08);
     transition:.3s;
+
     cursor:pointer;
-    font-size:34px;
+
+    border-radius:18px;
+
 }
 
-.category-card span{
-    display:block;
-    margin-top:12px;
-    font-size:15px;
-    font-weight:600;
+.career-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 30px rgba(0,0,0,.12);
+
 }
 
-.category-card:hover{
-    transform:translateY(-6px);
+.career-card .display-4{
+
+    font-size:50px;
+
 }

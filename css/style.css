@@ -1,41 +1,132 @@
-/* ===========================
-   Global Styles
-=========================== */
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
+/* ==============================
+   GOOGLE FONT
+============================== */
 
 body{
-    font-family:'Poppins', sans-serif;
-    background:#F8FAFC;
-    color:#1F2937;
+    font-family:'Poppins',sans-serif;
+    background:#f8fafc;
+    color:#1f2937;
 }
 
-/* Main App */
+/* ==============================
+   COLORS
+============================== */
 
-#app{
-    max-width:430px;
-    margin:auto;
-    min-height:100vh;
-    background:#ffffff;
-    padding:20px;
+:root{
+
+    --primary:#2563eb;
+    --primary-dark:#1d4ed8;
+
+    --secondary:#64748b;
+
+    --background:#f8fafc;
+
+    --white:#ffffff;
+
+    --success:#16a34a;
+
+    --danger:#dc2626;
+
+    --radius:18px;
+
+    --shadow:0 10px 25px rgba(0,0,0,.08);
+
 }
 
-/* Heading */
+/* ==============================
+   NAVBAR
+============================== */
 
-h1{
-    font-size:32px;
+.navbar{
+
+    background:white !important;
+
+}
+
+.navbar-brand{
+
     font-weight:700;
-    color:#2563EB;
-    margin-top:40px;
+
 }
 
-p{
-    margin-top:12px;
-    font-size:16px;
-    color:#6B7280;
-    line-height:1.6;
+.nav-link{
+
+    font-weight:500;
+
+    color:#334155 !important;
+
+}
+
+.nav-link:hover{
+
+    color:var(--primary) !important;
+
+}
+
+/* ==============================
+   BUTTON
+============================== */
+
+.btn-primary{
+
+    background:var(--primary);
+
+    border:none;
+
+    border-radius:12px;
+
+    padding:12px 30px;
+
+}
+
+.btn-primary:hover{
+
+    background:var(--primary-dark);
+
+}
+
+/* ==============================
+   HERO
+============================== */
+
+.hero-title{
+
+    font-weight:700;
+
+}
+
+.hero-subtitle{
+
+    color:#64748b;
+
+    font-size:18px;
+
+}
+
+/* ==============================
+   SEARCH
+============================== */
+
+.form-control{
+
+    border-radius:12px;
+
+}
+
+.input-group-text{
+
+    border-radius:12px 0 0 12px;
+
+}
+
+/* ==============================
+   SECTION
+============================== */
+
+section{
+
+    padding-top:70px;
+
+    padding-bottom:70px;
+
 }
