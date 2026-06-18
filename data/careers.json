@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Engineering",
+    "icon": "💻",
+    "color": "#2563EB",
+    "specializations": 22,
+    "description": "Engineering is one of the most versatile career domains spanning technology, infrastructure, healthcare, manufacturing, aerospace and innovation."
+  },
+  {
+    "id": 2,
+    "title": "Medicine",
+    "icon": "⚕️",
+    "color": "#10B981",
+    "specializations": 18,
+    "description": "Medicine focuses on diagnosing, treating and preventing diseases while improving human health."
+  },
+  {
+    "id": 3,
+    "title": "Design",
+    "icon": "🎨",
+    "color": "#EC4899",
+    "specializations": 15,
+    "description": "Design combines creativity and problem-solving to create products, experiences and visual communication."
+  },
+  {
+    "id": 4,
+    "title": "Law",
+    "icon": "⚖️",
+    "color": "#F59E0B",
+    "specializations": 10,
+    "description": "Law deals with legal systems, justice, governance and advocacy."
+  },
+  {
+    "id": 5,
+    "title": "Management",
+    "icon": "📈",
+    "color": "#8B5CF6",
+    "specializations": 12,
+    "description": "Management focuses on planning, organizing and leading businesses and organizations."
+  },
+  {
+    "id": 6,
+    "title": "Data Science & Artificial Intelligence",
+    "icon": "🤖",
+    "color": "#EF4444",
+    "specializations": 9,
+    "description": "AI and Data Science involve building intelligent systems and extracting insights from data."
+  }
+]
