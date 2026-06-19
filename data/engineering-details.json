@@ -944,10 +944,324 @@
     "Limited seats and opportunities",
     "Highly competitive field"
   ]
+},
+
+{
+  "id": "aeronautical-engineer",
+  "name": "Aeronautical Engineer",
+
+  "overview": "Aeronautical Engineers design, develop, test and maintain aircraft, aviation systems and flight technologies.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Aeronautical Engineering",
+
+  "skills": [
+    "Aerodynamics",
+    "Aircraft Design",
+    "Mathematics",
+    "Simulation",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+
+  "topColleges": [
+    "IIT Kanpur",
+    "IIT Bombay",
+    "IIST Thiruvananthapuram",
+    "MIT Manipal"
+  ],
+
+  "careerOpportunities": [
+    "Aircraft Design Engineer",
+    "Flight Test Engineer",
+    "Aerodynamics Engineer",
+    "Maintenance Engineer"
+  ],
+
+  "salary": "6-25 LPA",
+
+  "recruiters": [
+    "HAL",
+    "Airbus",
+    "Boeing",
+    "DRDO",
+    "ISRO"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Prestigious field",
+    "Opportunities in aviation sector"
+  ],
+
+  "cons": [
+    "Limited job openings",
+    "Highly specialized domain"
+  ]
+},
+
+{
+  "id": "chemical-engineer",
+  "name": "Chemical Engineer",
+
+  "overview": "Chemical Engineers apply chemistry, physics and engineering principles to develop industrial processes, fuels, pharmaceuticals and chemicals.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Chemical Engineering",
+
+  "skills": [
+    "Process Design",
+    "Chemistry",
+    "Analytical Thinking",
+    "Problem Solving",
+    "Safety Management"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+
+  "topColleges": [
+    "IIT Bombay",
+    "IIT Delhi",
+    "IIT Madras",
+    "NIT Trichy"
+  ],
+
+  "careerOpportunities": [
+    "Process Engineer",
+    "Plant Engineer",
+    "Production Engineer",
+    "Research Scientist"
+  ],
+
+  "salary": "6-22 LPA",
+
+  "recruiters": [
+    "Reliance Industries",
+    "ONGC",
+    "Indian Oil",
+    "BPCL",
+    "Shell"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Strong industrial demand",
+    "Diverse industries"
+  ],
+
+  "cons": [
+    "Industrial plant environment",
+    "Safety responsibilities"
+  ]
+},
+
+{
+  "id": "biotechnology-engineer",
+  "name": "Biotechnology Engineer",
+
+  "overview": "Biotechnology Engineers use biological systems and technology to develop healthcare products, medicines, agricultural innovations and environmental solutions.",
+
+  "eligibility": "10+2 with PCM or PCB",
+
+  "educationPath": "B.Tech / B.E. in Biotechnology Engineering",
+
+  "skills": [
+    "Biology",
+    "Research",
+    "Laboratory Techniques",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE"
+  ],
+
+  "topColleges": [
+    "IIT Delhi",
+    "IIT Kharagpur",
+    "VIT Vellore",
+    "Manipal Institute of Technology"
+  ],
+
+  "careerOpportunities": [
+    "Biotech Engineer",
+    "Research Associate",
+    "Clinical Research Professional",
+    "Bioprocess Engineer"
+  ],
+
+  "salary": "5-18 LPA",
+
+  "recruiters": [
+    "Biocon",
+    "Serum Institute",
+    "Dr. Reddy's",
+    "Syngene"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Growing healthcare sector",
+    "Strong research opportunities"
+  ],
+
+  "cons": [
+    "May require higher studies",
+    "Research-intensive field"
+  ]
+},
+
+{
+  "id": "environmental-engineer",
+  "name": "Environmental Engineer",
+
+  "overview": "Environmental Engineers develop solutions to environmental challenges such as pollution control, waste management and sustainable development.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Environmental Engineering",
+
+  "skills": [
+    "Environmental Analysis",
+    "Research",
+    "Problem Solving",
+    "Data Interpretation",
+    "Project Management"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "State Engineering Exams"
+  ],
+
+  "topColleges": [
+    "IIT Delhi",
+    "IIT Bombay",
+    "NIT Trichy",
+    "Anna University"
+  ],
+
+  "careerOpportunities": [
+    "Environmental Engineer",
+    "Sustainability Consultant",
+    "Waste Management Specialist",
+    "Environmental Analyst"
+  ],
+
+  "salary": "5-18 LPA",
+
+  "recruiters": [
+    "CPCB",
+    "TERI",
+    "L&T",
+    "Environmental Consultancies"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Strong future relevance",
+    "Positive social impact"
+  ],
+
+  "cons": [
+    "Regulatory challenges",
+    "Project-based work"
+  ]
+},
+
+{
+  "id": "industrial-engineer",
+  "name": "Industrial Engineer",
+
+  "overview": "Industrial Engineers optimize systems, processes and resources to improve productivity, efficiency and quality in manufacturing and service industries.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Industrial Engineering",
+
+  "skills": [
+    "Operations Management",
+    "Data Analysis",
+    "Process Optimization",
+    "Problem Solving",
+    "Project Management"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "State Engineering Exams"
+  ],
+
+  "topColleges": [
+    "IIT Kharagpur",
+    "NIT Trichy",
+    "BITS Pilani",
+    "VIT Vellore"
+  ],
+
+  "careerOpportunities": [
+    "Industrial Engineer",
+    "Operations Analyst",
+    "Supply Chain Engineer",
+    "Quality Engineer"
+  ],
+
+  "salary": "6-20 LPA",
+
+  "recruiters": [
+    "Amazon",
+    "Flipkart",
+    "Tata Steel",
+    "L&T",
+    "Unilever"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Applicable across industries",
+    "Strong management pathway"
+  ],
+
+  "cons": [
+    "Requires analytical mindset",
+    "Process-focused role"
+  ]
 }
 
   ]
 }
+
 
 
 
