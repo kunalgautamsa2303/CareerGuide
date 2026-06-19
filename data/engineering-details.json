@@ -631,9 +631,323 @@
     "Rapid technology changes",
     "Requires continuous learning"
   ]
+},
+
+{
+  "id": "electronics-communication-engineer",
+  "name": "Electronics & Communication Engineer",
+
+  "overview": "Electronics and Communication Engineers design, develop and maintain communication systems, telecommunications networks, embedded systems and electronic devices.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Electronics & Communication Engineering",
+
+  "skills": [
+    "Communication Systems",
+    "Signal Processing",
+    "Circuit Design",
+    "Embedded Systems",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+
+  "topColleges": [
+    "IIT Delhi",
+    "IIT Kharagpur",
+    "IIT Madras",
+    "NIT Trichy"
+  ],
+
+  "careerOpportunities": [
+    "Communication Engineer",
+    "Embedded Systems Engineer",
+    "Network Engineer",
+    "Telecom Engineer"
+  ],
+
+  "salary": "6-25 LPA",
+
+  "recruiters": [
+    "Qualcomm",
+    "Nokia",
+    "Ericsson",
+    "Samsung",
+    "Intel"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Strong telecom demand",
+    "Opportunities in electronics and software"
+  ],
+
+  "cons": [
+    "Rapid technology evolution",
+    "Requires continuous upskilling"
+  ]
+},
+
+{
+  "id": "robotics-engineer",
+  "name": "Robotics Engineer",
+
+  "overview": "Robotics Engineers design, build and program robotic systems used in manufacturing, healthcare, defense, space and automation industries.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech in Robotics / Mechanical / Electronics Engineering",
+
+  "skills": [
+    "Programming",
+    "Automation",
+    "Artificial Intelligence",
+    "Mechanical Design",
+    "Electronics"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE"
+  ],
+
+  "topColleges": [
+    "IIT Kanpur",
+    "IIT Delhi",
+    "BITS Pilani",
+    "VIT Vellore"
+  ],
+
+  "careerOpportunities": [
+    "Robotics Engineer",
+    "Automation Engineer",
+    "Research Engineer",
+    "Control Systems Engineer"
+  ],
+
+  "salary": "8-30 LPA",
+
+  "recruiters": [
+    "ABB",
+    "Siemens",
+    "Tesla",
+    "ISRO",
+    "Bosch"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Creator",
+
+  "pros": [
+    "Future-oriented field",
+    "High innovation potential"
+  ],
+
+  "cons": [
+    "Requires multidisciplinary knowledge",
+    "Limited undergraduate specialization options"
+  ]
+},
+
+{
+  "id": "mechatronics-engineer",
+  "name": "Mechatronics Engineer",
+
+  "overview": "Mechatronics Engineers combine mechanical, electronics and computer engineering to create intelligent systems and automated machinery.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech in Mechatronics Engineering",
+
+  "skills": [
+    "Automation",
+    "Programming",
+    "Mechanical Systems",
+    "Electronics",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "State Engineering Exams"
+  ],
+
+  "topColleges": [
+    "VIT Vellore",
+    "SRM University",
+    "Manipal Institute of Technology"
+  ],
+
+  "careerOpportunities": [
+    "Automation Engineer",
+    "Mechatronics Engineer",
+    "Robotics Specialist",
+    "Systems Engineer"
+  ],
+
+  "salary": "6-22 LPA",
+
+  "recruiters": [
+    "Bosch",
+    "Siemens",
+    "ABB",
+    "Schneider Electric"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Creator",
+
+  "pros": [
+    "Interdisciplinary career",
+    "Strong automation demand"
+  ],
+
+  "cons": [
+    "Broad skill requirements",
+    "Requires continuous learning"
+  ]
+},
+
+{
+  "id": "automobile-engineer",
+  "name": "Automobile Engineer",
+
+  "overview": "Automobile Engineers design, develop, test and manufacture vehicles, engines and transportation systems.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech in Automobile Engineering",
+
+  "skills": [
+    "Vehicle Design",
+    "Mechanical Systems",
+    "CAD Software",
+    "Problem Solving",
+    "Testing"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "State Engineering Exams"
+  ],
+
+  "topColleges": [
+    "IIT Madras",
+    "BITS Pilani",
+    "VIT Vellore",
+    "Anna University"
+  ],
+
+  "careerOpportunities": [
+    "Automobile Engineer",
+    "Vehicle Design Engineer",
+    "Testing Engineer",
+    "Production Engineer"
+  ],
+
+  "salary": "5-20 LPA",
+
+  "recruiters": [
+    "Tata Motors",
+    "Mahindra",
+    "Maruti Suzuki",
+    "Hyundai",
+    "Mercedes-Benz"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Large automotive industry",
+    "Innovation in EV technology"
+  ],
+
+  "cons": [
+    "Industry cycles affect hiring",
+    "Field-specific specialization"
+  ]
+},
+
+{
+  "id": "aerospace-engineer",
+  "name": "Aerospace Engineer",
+
+  "overview": "Aerospace Engineers design, develop and test aircraft, spacecraft, satellites and missile systems.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech in Aerospace Engineering",
+
+  "skills": [
+    "Aerodynamics",
+    "Mathematics",
+    "Simulation",
+    "Research",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+
+  "topColleges": [
+    "IIT Bombay",
+    "IIT Kanpur",
+    "IIT Madras",
+    "IIST Thiruvananthapuram"
+  ],
+
+  "careerOpportunities": [
+    "Aerospace Engineer",
+    "Aircraft Design Engineer",
+    "Space Research Engineer",
+    "Flight Systems Engineer"
+  ],
+
+  "salary": "8-30 LPA",
+
+  "recruiters": [
+    "ISRO",
+    "HAL",
+    "DRDO",
+    "Boeing",
+    "Airbus"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Prestigious career",
+    "Space sector growth"
+  ],
+
+  "cons": [
+    "Limited seats and opportunities",
+    "Highly competitive field"
+  ]
 }
 
   ]
-
 }
+
+
 
