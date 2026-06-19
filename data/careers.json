@@ -1,44 +1,203 @@
-[
-  {
-    "id": 1,
-    "title": "Engineering",
-    "icon": "💻",
-    "specializations": 24,
-    "description": "Engineering is one of the most versatile career domains spanning technology, infrastructure, healthcare, manufacturing, aerospace and innovation."
-  },
-  {
-    "id": 2,
-    "title": "Medicine",
-    "icon": "🩺",
-    "specializations": 18,
-    "description": "Medicine focuses on diagnosing, treating and preventing diseases while improving healthcare and quality of life."
-  },
-  {
-    "id": 3,
-    "title": "Design",
-    "icon": "🎨",
-    "specializations": 15,
-    "description": "Design combines creativity with problem solving to create products, experiences and communication."
-  },
-  {
-    "id": 4,
-    "title": "Law",
-    "icon": "⚖️",
-    "specializations": 12,
-    "description": "Law involves understanding legal systems, protecting rights and representing individuals or organizations."
-  },
-  {
-    "id": 5,
-    "title": "Management",
-    "icon": "📈",
-    "specializations": 20,
-    "description": "Management focuses on planning, organizing and leading businesses and organizations."
-  },
-  {
-    "id": 6,
-    "title": "Data Science & AI",
-    "icon": "🤖",
-    "specializations": 10,
-    "description": "Data Science and Artificial Intelligence use data, algorithms and machine learning to solve complex problems."
-  }
-]
+{
+  "domains": [
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "icon": "💻",
+      "careers": [
+        {
+          "id": "computer-science-engineer",
+          "name": "Computer Science Engineer",
+          "salary": "8-25 LPA",
+          "futureScope": "Excellent",
+          "education": "B.Tech / B.E.",
+          "aiImpact": "Medium"
+        },
+        {
+          "id": "mechanical-engineer",
+          "name": "Mechanical Engineer",
+          "salary": "5-18 LPA",
+          "futureScope": "Good",
+          "education": "B.Tech / B.E.",
+          "aiImpact": "Low"
+        },
+        {
+          "id": "civil-engineer",
+          "name": "Civil Engineer",
+          "salary": "4-15 LPA",
+          "futureScope": "Good",
+          "education": "B.Tech / B.E.",
+          "aiImpact": "Low"
+        }
+      ]
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine",
+      "icon": "🩺",
+      "careers": [
+        {
+          "id": "doctor",
+          "name": "Doctor",
+          "salary": "8-50 LPA",
+          "futureScope": "Excellent",
+          "education": "MBBS",
+          "aiImpact": "Low"
+        },
+        {
+          "id": "dentist",
+          "name": "Dentist",
+          "salary": "5-25 LPA",
+          "futureScope": "Good",
+          "education": "BDS",
+          "aiImpact": "Low"
+        },
+        {
+          "id": "physiotherapist",
+          "name": "Physiotherapist",
+          "salary": "4-15 LPA",
+          "futureScope": "Good",
+          "education": "BPT",
+          "aiImpact": "Low"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "icon": "🎨",
+      "careers": [
+        {
+          "id": "ux-designer",
+          "name": "UX Designer",
+          "salary": "6-25 LPA",
+          "futureScope": "Excellent",
+          "education": "Design Degree / Certification",
+          "aiImpact": "Medium"
+        },
+        {
+          "id": "fashion-designer",
+          "name": "Fashion Designer",
+          "salary": "4-20 LPA",
+          "futureScope": "Good",
+          "education": "Fashion Design Degree",
+          "aiImpact": "Low"
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "name": "Law",
+      "icon": "⚖️",
+      "careers": [
+        {
+          "id": "advocate",
+          "name": "Advocate",
+          "salary": "5-30 LPA",
+          "futureScope": "Excellent",
+          "education": "LLB",
+          "aiImpact": "Low"
+        }
+      ]
+    },
+    {
+      "id": "management",
+      "name": "Management",
+      "icon": "📈",
+      "careers": [
+        {
+          "id": "product-manager",
+          "name": "Product Manager",
+          "salary": "12-40 LPA",
+          "futureScope": "Excellent",
+          "education": "MBA Preferred",
+          "aiImpact": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "ai-data-science",
+      "name": "AI & Data Science",
+      "icon": "🤖",
+      "careers": [
+        {
+          "id": "ai-engineer",
+          "name": "Artificial Intelligence Engineer",
+          "salary": "10-40 LPA",
+          "futureScope": "Excellent",
+          "education": "B.Tech / AI Specialization",
+          "aiImpact": "Creator"
+        },
+        {
+          "id": "data-scientist",
+          "name": "Data Scientist",
+          "salary": "8-35 LPA",
+          "futureScope": "Excellent",
+          "education": "B.Tech / Statistics",
+          "aiImpact": "Creator"
+        }
+      ]
+    },
+    {
+      "id": "commerce-finance",
+      "name": "Commerce & Finance",
+      "icon": "💰",
+      "careers": [
+        {
+          "id": "chartered-accountant",
+          "name": "Chartered Accountant",
+          "salary": "7-30 LPA",
+          "futureScope": "Excellent",
+          "education": "CA",
+          "aiImpact": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "icon": "🧠",
+      "careers": [
+        {
+          "id": "clinical-psychologist",
+          "name": "Clinical Psychologist",
+          "salary": "5-20 LPA",
+          "futureScope": "Excellent",
+          "education": "M.A./M.Sc. Psychology",
+          "aiImpact": "Low"
+        }
+      ]
+    },
+    {
+      "id": "media-communication",
+      "name": "Media & Communication",
+      "icon": "🎥",
+      "careers": [
+        {
+          "id": "journalist",
+          "name": "Journalist",
+          "salary": "4-18 LPA",
+          "futureScope": "Good",
+          "education": "Mass Communication",
+          "aiImpact": "Medium"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "icon": "🏗️",
+      "careers": [
+        {
+          "id": "architect",
+          "name": "Architect",
+          "salary": "6-25 LPA",
+          "futureScope": "Excellent",
+          "education": "B.Arch",
+          "aiImpact": "Low"
+        }
+      ]
+    }
+  ]
+}
+
