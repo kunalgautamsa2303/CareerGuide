@@ -1,0 +1,880 @@
+{
+  "careers": [
+
+    {
+      "id": "doctor",
+      "name": "Doctor (MBBS)",
+
+      "overview": "Doctors diagnose, treat and prevent diseases and injuries. They work in hospitals, clinics, research institutions and healthcare organizations to improve patient health and quality of life.",
+
+      "eligibility": "10+2 with Physics, Chemistry and Biology",
+
+      "educationPath": "MBBS → Internship → MD/MS (Optional Specialization)",
+
+      "skills": [
+        "Medical Knowledge",
+        "Critical Thinking",
+        "Communication",
+        "Empathy",
+        "Decision Making"
+      ],
+
+      "entranceExams": [
+        "NEET UG",
+        "NEET PG"
+      ],
+
+      "topColleges": [
+        "AIIMS Delhi",
+        "CMC Vellore",
+        "JIPMER",
+        "MAMC Delhi",
+        "KGMU Lucknow"
+      ],
+
+      "careerOpportunities": [
+        "General Physician",
+        "Surgeon",
+        "Cardiologist",
+        "Neurologist",
+        "Pediatrician"
+      ],
+
+      "salary": "8-50 LPA",
+
+      "recruiters": [
+        "Hospitals",
+        "Medical Colleges",
+        "Healthcare Chains",
+        "Government Health Services"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Low",
+
+      "pros": [
+        "Highly respected profession",
+        "Excellent job security",
+        "Strong earning potential"
+      ],
+
+      "cons": [
+        "Long study duration",
+        "High stress and responsibility"
+      ]
+    },
+
+    {
+      "id": "dentist",
+      "name": "Dentist",
+
+      "overview": "Dentists diagnose and treat oral health problems, perform dental procedures and help patients maintain healthy teeth and gums.",
+
+      "eligibility": "10+2 with Physics, Chemistry and Biology",
+
+      "educationPath": "BDS → MDS (Optional)",
+
+      "skills": [
+        "Attention to Detail",
+        "Patient Care",
+        "Manual Dexterity",
+        "Communication"
+      ],
+
+      "entranceExams": [
+        "NEET UG"
+      ],
+
+      "topColleges": [
+        "Maulana Azad Institute of Dental Sciences",
+        "Manipal College of Dental Sciences",
+        "Saveetha Dental College",
+        "Government Dental College Mumbai"
+      ],
+
+      "careerOpportunities": [
+        "General Dentist",
+        "Orthodontist",
+        "Oral Surgeon",
+        "Dental Consultant"
+      ],
+
+      "salary": "6-25 LPA",
+
+      "recruiters": [
+        "Dental Clinics",
+        "Hospitals",
+        "Private Practice",
+        "Dental Colleges"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Low",
+
+      "pros": [
+        "High earning potential",
+        "Can start private clinic",
+        "Good work-life balance"
+      ],
+
+      "cons": [
+        "Requires investment for practice",
+        "Competitive in urban areas"
+      ]
+    },
+
+    {
+      "id": "physiotherapist",
+      "name": "Physiotherapist",
+
+      "overview": "Physiotherapists help patients recover mobility and physical function after injury, illness or surgery.",
+
+      "eligibility": "10+2 with PCB",
+
+      "educationPath": "BPT → MPT (Optional)",
+
+      "skills": [
+        "Patient Care",
+        "Physical Assessment",
+        "Communication",
+        "Empathy"
+      ],
+
+      "entranceExams": [
+        "University Specific Entrance Tests"
+      ],
+
+      "topColleges": [
+        "CMC Vellore",
+        "Jamia Hamdard",
+        "Manipal University",
+        "Amity University"
+      ],
+
+      "careerOpportunities": [
+        "Clinical Physiotherapist",
+        "Sports Physiotherapist",
+        "Rehabilitation Specialist"
+      ],
+
+      "salary": "4-15 LPA",
+
+      "recruiters": [
+        "Hospitals",
+        "Sports Teams",
+        "Rehabilitation Centres",
+        "Clinics"
+      ],
+
+      "futureScope": "Good",
+
+      "aiImpact": "Low",
+
+      "pros": [
+        "Growing demand",
+        "Meaningful patient impact"
+      ],
+
+      "cons": [
+        "Physically demanding",
+        "Moderate starting salaries"
+      ]
+    },
+
+    {
+      "id": "nurse",
+      "name": "Nurse",
+
+      "overview": "Nurses provide direct patient care, monitor health conditions and support doctors during treatment.",
+
+      "eligibility": "10+2 with PCB",
+
+      "educationPath": "B.Sc Nursing / GNM",
+
+      "skills": [
+        "Patient Care",
+        "Communication",
+        "Teamwork",
+        "Attention to Detail"
+      ],
+
+      "entranceExams": [
+        "AIIMS Nursing",
+        "State Nursing Entrance Exams"
+      ],
+
+      "topColleges": [
+        "AIIMS Delhi",
+        "CMC Vellore",
+        "PGIMER Chandigarh"
+      ],
+
+      "careerOpportunities": [
+        "Staff Nurse",
+        "ICU Nurse",
+        "Nurse Educator",
+        "Nurse Manager"
+      ],
+
+      "salary": "3-12 LPA",
+
+      "recruiters": [
+        "Hospitals",
+        "Healthcare Institutions",
+        "Government Health Services"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Low",
+
+      "pros": [
+        "High demand globally",
+        "Strong job stability"
+      ],
+
+      "cons": [
+        "Shift work",
+        "Physically demanding"
+      ]
+    },
+
+    {
+      "id": "pharmacist",
+      "name": "Pharmacist",
+
+      "overview": "Pharmacists prepare, dispense and advise patients on the safe use of medicines.",
+
+      "eligibility": "10+2 with PCB or PCM",
+
+      "educationPath": "B.Pharm → M.Pharm (Optional)",
+
+      "skills": [
+        "Pharmaceutical Knowledge",
+        "Attention to Detail",
+        "Communication",
+        "Analytical Thinking"
+      ],
+
+      "entranceExams": [
+        "CUET",
+        "State Pharmacy Entrance Exams"
+      ],
+
+      "topColleges": [
+        "NIPER",
+        "Jamia Hamdard",
+        "BITS Pilani",
+        "Manipal University"
+      ],
+
+      "careerOpportunities": [
+        "Clinical Pharmacist",
+        "Drug Safety Associate",
+        "Pharma Sales Manager",
+        "Research Associate"
+      ],
+
+      "salary": "4-18 LPA",
+
+      "recruiters": [
+        "Sun Pharma",
+        "Cipla",
+        "Dr. Reddy's",
+        "Apollo Pharmacy"
+      ],
+
+      "futureScope": "Good",
+
+      "aiImpact": "Medium",
+
+      "pros": [
+        "Diverse career options",
+        "Growing pharmaceutical industry"
+      ],
+
+      "cons": [
+        "Regulatory requirements",
+        "Competitive market"
+      ]
+    },
+
+{
+  "id": "occupational-therapist",
+  "name": "Occupational Therapist",
+
+  "overview": "Occupational Therapists help individuals develop, recover and improve the skills needed for daily living and working after illness, injury or disability.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "BOT (Bachelor of Occupational Therapy) → MOT (Optional)",
+
+  "skills": [
+    "Patient Assessment",
+    "Communication",
+    "Problem Solving",
+    "Empathy",
+    "Rehabilitation Planning"
+  ],
+
+  "entranceExams": [
+    "University Specific Entrance Exams"
+  ],
+
+  "topColleges": [
+    "AIIPMR Mumbai",
+    "Jamia Hamdard",
+    "Manipal University",
+    "Christian Medical College Vellore"
+  ],
+
+  "careerOpportunities": [
+    "Occupational Therapist",
+    "Rehabilitation Specialist",
+    "Paediatric Therapist",
+    "Mental Health Therapist"
+  ],
+
+  "salary": "4-12 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Rehabilitation Centres",
+    "Special Schools",
+    "Healthcare NGOs"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Meaningful impact on lives",
+    "Growing demand"
+  ],
+
+  "cons": [
+    "Emotionally demanding",
+    "Requires patience"
+  ]
+},
+
+{
+  "id": "audiologist",
+  "name": "Audiologist",
+
+  "overview": "Audiologists diagnose and treat hearing and balance disorders using advanced diagnostic tools and therapies.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "BASLP → MASLP (Optional)",
+
+  "skills": [
+    "Listening Skills",
+    "Patient Care",
+    "Technical Knowledge",
+    "Communication"
+  ],
+
+  "entranceExams": [
+    "University Specific Entrance Exams"
+  ],
+
+  "topColleges": [
+    "AIISH Mysuru",
+    "Manipal University",
+    "Ali Yavar Jung Institute"
+  ],
+
+  "careerOpportunities": [
+    "Clinical Audiologist",
+    "Hearing Aid Specialist",
+    "Research Associate"
+  ],
+
+  "salary": "4-10 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Hearing Clinics",
+    "Research Institutes"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Specialized profession",
+    "Growing healthcare need"
+  ],
+
+  "cons": [
+    "Limited awareness",
+    "Smaller job market"
+  ]
+},
+
+{
+  "id": "speech-therapist",
+  "name": "Speech Therapist",
+
+  "overview": "Speech Therapists assess and treat communication, speech and swallowing disorders in children and adults.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "BASLP → MASLP (Optional)",
+
+  "skills": [
+    "Communication",
+    "Patience",
+    "Assessment Skills",
+    "Empathy"
+  ],
+
+  "entranceExams": [
+    "University Specific Entrance Exams"
+  ],
+
+  "topColleges": [
+    "AIISH Mysuru",
+    "Manipal University",
+    "Jamia Hamdard"
+  ],
+
+  "careerOpportunities": [
+    "Speech Therapist",
+    "Language Specialist",
+    "Special Education Consultant"
+  ],
+
+  "salary": "4-12 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Schools",
+    "Rehabilitation Centres"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Strong social impact",
+    "Growing awareness"
+  ],
+
+  "cons": [
+    "Requires patience",
+    "Moderate starting salary"
+  ]
+},
+
+{
+  "id": "nutritionist",
+  "name": "Nutritionist",
+
+  "overview": "Nutritionists guide individuals and organizations on healthy eating, diet planning and disease prevention through nutrition.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "B.Sc Nutrition & Dietetics → M.Sc Nutrition (Optional)",
+
+  "skills": [
+    "Diet Planning",
+    "Communication",
+    "Health Awareness",
+    "Analytical Skills"
+  ],
+
+  "entranceExams": [
+    "CUET",
+    "University Entrance Exams"
+  ],
+
+  "topColleges": [
+    "Lady Irwin College",
+    "SNDT University",
+    "Jamia Hamdard"
+  ],
+
+  "careerOpportunities": [
+    "Clinical Nutritionist",
+    "Sports Nutritionist",
+    "Diet Consultant"
+  ],
+
+  "salary": "4-15 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Fitness Centres",
+    "Sports Teams",
+    "Wellness Companies"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Growing health awareness",
+    "Flexible work opportunities"
+  ],
+
+  "cons": [
+    "Requires personal branding",
+    "Competitive field"
+  ]
+},
+
+{
+  "id": "public-health-specialist",
+  "name": "Public Health Specialist",
+
+  "overview": "Public Health Specialists work on disease prevention, health policies and community healthcare programs at local, national and global levels.",
+
+  "eligibility": "Bachelor's Degree in Health Sciences or Medicine",
+
+  "educationPath": "Relevant Graduation → MPH (Master of Public Health)",
+
+  "skills": [
+    "Research",
+    "Data Analysis",
+    "Leadership",
+    "Policy Development"
+  ],
+
+  "entranceExams": [
+    "University Specific Admissions"
+  ],
+
+  "topColleges": [
+    "PHFI",
+    "TISS Mumbai",
+    "AIIMS Delhi"
+  ],
+
+  "careerOpportunities": [
+    "Public Health Consultant",
+    "Health Policy Analyst",
+    "Program Manager"
+  ],
+
+  "salary": "6-20 LPA",
+
+  "recruiters": [
+    "WHO",
+    "UNICEF",
+    "Government Agencies",
+    "NGOs"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Large-scale social impact",
+    "International opportunities"
+  ],
+
+  "cons": [
+    "Policy-driven work",
+    "Less direct patient interaction"
+  ]
+},
+
+{
+  "id": "veterinarian",
+  "name": "Veterinarian",
+
+  "overview": "Veterinarians diagnose, treat and prevent diseases in animals. They work with pets, livestock, wildlife and zoo animals to ensure animal health and welfare.",
+
+  "eligibility": "10+2 with Physics, Chemistry and Biology",
+
+  "educationPath": "BVSc & AH → MVSc (Optional)",
+
+  "skills": [
+    "Animal Care",
+    "Diagnosis",
+    "Decision Making",
+    "Communication",
+    "Empathy"
+  ],
+
+  "entranceExams": [
+    "NEET UG",
+    "State Veterinary Admissions"
+  ],
+
+  "topColleges": [
+    "IVRI Bareilly",
+    "TANUVAS Chennai",
+    "Guru Angad Dev Veterinary University",
+    "KVAFSU Bengaluru"
+  ],
+
+  "careerOpportunities": [
+    "Veterinary Doctor",
+    "Livestock Consultant",
+    "Wildlife Veterinarian",
+    "Research Scientist"
+  ],
+
+  "salary": "5-18 LPA",
+
+  "recruiters": [
+    "Veterinary Hospitals",
+    "Animal Clinics",
+    "Government Departments",
+    "Research Institutes"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Work with animals",
+    "Growing pet healthcare industry"
+  ],
+
+  "cons": [
+    "Emotionally demanding",
+    "Emergency work may be required"
+  ]
+},
+
+{
+  "id": "radiographer",
+  "name": "Radiographer",
+
+  "overview": "Radiographers use imaging technologies such as X-rays, MRI and CT scans to assist doctors in diagnosing and treating medical conditions.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "B.Sc Radiography / Medical Imaging Technology",
+
+  "skills": [
+    "Technical Knowledge",
+    "Attention to Detail",
+    "Patient Care",
+    "Equipment Handling"
+  ],
+
+  "entranceExams": [
+    "CUET",
+    "University Entrance Exams"
+  ],
+
+  "topColleges": [
+    "AIIMS Delhi",
+    "CMC Vellore",
+    "Manipal University"
+  ],
+
+  "careerOpportunities": [
+    "Radiographer",
+    "MRI Technician",
+    "CT Scan Technologist",
+    "Imaging Specialist"
+  ],
+
+  "salary": "4-12 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Diagnostic Centres",
+    "Healthcare Chains"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "High demand in healthcare",
+    "Technology-driven profession"
+  ],
+
+  "cons": [
+    "Shift work",
+    "Exposure to imaging environments"
+  ]
+},
+
+{
+  "id": "medical-laboratory-technologist",
+  "name": "Medical Laboratory Technologist",
+
+  "overview": "Medical Laboratory Technologists perform diagnostic tests on blood, tissue and body fluids to help doctors diagnose diseases.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "B.Sc Medical Laboratory Technology",
+
+  "skills": [
+    "Laboratory Techniques",
+    "Analytical Thinking",
+    "Attention to Detail",
+    "Data Interpretation"
+  ],
+
+  "entranceExams": [
+    "CUET",
+    "University Entrance Exams"
+  ],
+
+  "topColleges": [
+    "CMC Vellore",
+    "Manipal University",
+    "AIIMS Delhi"
+  ],
+
+  "careerOpportunities": [
+    "Lab Technologist",
+    "Pathology Technician",
+    "Research Associate"
+  ],
+
+  "salary": "3-10 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Diagnostic Laboratories",
+    "Research Centres"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Strong healthcare demand",
+    "Research opportunities"
+  ],
+
+  "cons": [
+    "Limited patient interaction",
+    "Repetitive laboratory work"
+  ]
+},
+
+{
+  "id": "optometrist",
+  "name": "Optometrist",
+
+  "overview": "Optometrists examine eyes, diagnose vision problems and prescribe corrective lenses and treatments.",
+
+  "eligibility": "10+2 with PCB",
+
+  "educationPath": "Bachelor of Optometry (B.Optom)",
+
+  "skills": [
+    "Vision Assessment",
+    "Patient Care",
+    "Attention to Detail",
+    "Communication"
+  ],
+
+  "entranceExams": [
+    "University Entrance Exams"
+  ],
+
+  "topColleges": [
+    "AIIMS Delhi",
+    "Manipal University",
+    "Amity University"
+  ],
+
+  "careerOpportunities": [
+    "Optometrist",
+    "Vision Consultant",
+    "Clinical Specialist"
+  ],
+
+  "salary": "4-15 LPA",
+
+  "recruiters": [
+    "Eye Hospitals",
+    "Optical Chains",
+    "Healthcare Institutions"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Growing demand",
+    "Good work-life balance"
+  ],
+
+  "cons": [
+    "Specialized field",
+    "Continuous skill updates needed"
+  ]
+},
+
+{
+  "id": "emergency-medical-technician",
+  "name": "Emergency Medical Technician",
+
+  "overview": "Emergency Medical Technicians provide immediate medical assistance during emergencies and transport patients safely to healthcare facilities.",
+
+  "eligibility": "10+2 with Science",
+
+  "educationPath": "EMT Certification / Diploma Programs",
+
+  "skills": [
+    "Emergency Response",
+    "Decision Making",
+    "Communication",
+    "Physical Fitness"
+  ],
+
+  "entranceExams": [
+    "Institute Specific Admissions"
+  ],
+
+  "topColleges": [
+    "Apollo MedSkills",
+    "Medvarsity",
+    "State Emergency Training Institutes"
+  ],
+
+  "careerOpportunities": [
+    "EMT",
+    "Ambulance Specialist",
+    "Emergency Response Officer"
+  ],
+
+  "salary": "3-8 LPA",
+
+  "recruiters": [
+    "Hospitals",
+    "Ambulance Services",
+    "Emergency Response Agencies"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "High social impact",
+    "Exciting work environment"
+  ],
+
+  "cons": [
+    "High-pressure situations",
+    "Irregular working hours"
+  ]
+}
+  ]
+}
+

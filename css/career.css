@@ -1,0 +1,141 @@
+/* =====================================================
+   Career Guide v1.0
+   Career Detail Page
+   Designed & Developed by Kunal Gautam
+===================================================== */
+
+/* =========================
+   HERO
+========================= */
+
+.career-hero{
+
+    padding:50px 0 30px;
+}
+
+.career-hero h1{
+
+    font-size:40px;
+
+    font-weight:700;
+
+    color:#111827;
+
+    margin-bottom:12px;
+}
+
+.career-hero p{
+
+    font-size:16px;
+
+    color:#6B7280;
+
+    max-width:900px;
+
+    line-height:1.8;
+}
+
+/* =========================
+   DETAILS
+========================= */
+
+.career-details{
+
+    padding-bottom:50px;
+}
+
+.career-details .container{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:20px;
+}
+
+.detail-card{
+
+    background:#FFFFFF;
+
+    border-radius:20px;
+
+    padding:25px;
+
+    box-shadow:0 4px 15px rgba(0,0,0,.05);
+
+    transition:.3s ease;
+}
+
+.detail-card:hover{
+
+    transform:translateY(-4px);
+}
+
+.detail-card h3{
+
+    font-size:20px;
+
+    font-weight:600;
+
+    margin-bottom:15px;
+
+    color:#2563EB;
+}
+
+.detail-card p{
+
+    margin:0;
+
+    color:#4B5563;
+
+    line-height:1.8;
+}
+
+.detail-card ul{
+
+    margin:0;
+
+    padding-left:20px;
+}
+
+.detail-card li{
+
+    margin-bottom:10px;
+
+    color:#4B5563;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media(max-width:992px){
+
+    .career-details .container{
+
+        grid-template-columns:1fr;
+    }
+}
+
+@media(max-width:768px){
+
+    .career-hero h1{
+
+        font-size:30px;
+    }
+
+    .career-hero p{
+
+        font-size:14px;
+    }
+
+    .detail-card{
+
+        padding:20px;
+    }
+
+    .detail-card h3{
+
+        font-size:18px;
+    }
+}

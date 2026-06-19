@@ -1,0 +1,639 @@
+{
+  "careers": [
+
+    {
+      "id": "computer-science-engineer",
+      "name": "Computer Science Engineer",
+
+      "overview": "Computer Science Engineers design, develop and maintain software systems, applications, websites, databases and intelligent technologies used across industries.",
+
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics",
+
+      "educationPath": "B.Tech / B.E. in Computer Science Engineering",
+
+      "skills": [
+        "Programming",
+        "Problem Solving",
+        "Algorithms",
+        "Data Structures",
+        "Software Development"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE"
+      ],
+
+      "topColleges": [
+        "IIT Delhi",
+        "IIT Bombay",
+        "IIT Kanpur",
+        "BITS Pilani",
+        "NIT Trichy"
+      ],
+
+      "careerOpportunities": [
+        "Software Engineer",
+        "Full Stack Developer",
+        "Cloud Engineer",
+        "System Architect",
+        "Technology Consultant"
+      ],
+
+      "salary": "8-25 LPA",
+
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Infosys",
+        "TCS"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Medium",
+
+      "pros": [
+        "High salary potential",
+        "Strong global demand",
+        "Remote work opportunities"
+      ],
+
+      "cons": [
+        "Highly competitive",
+        "Requires continuous learning"
+      ]
+    },
+
+    {
+      "id": "information-technology-engineer",
+      "name": "Information Technology Engineer",
+
+      "overview": "IT Engineers manage computer systems, networks, databases and enterprise technology infrastructure used by organizations.",
+
+      "eligibility": "10+2 with PCM",
+
+      "educationPath": "B.Tech / B.E. in Information Technology",
+
+      "skills": [
+        "Networking",
+        "Database Management",
+        "System Administration",
+        "Problem Solving"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "BITSAT",
+        "VITEEE"
+      ],
+
+      "topColleges": [
+        "IIT Kharagpur",
+        "NIT Surathkal",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+
+      "careerOpportunities": [
+        "IT Engineer",
+        "Network Administrator",
+        "System Analyst",
+        "Cloud Administrator"
+      ],
+
+      "salary": "6-20 LPA",
+
+      "recruiters": [
+        "Accenture",
+        "IBM",
+        "Wipro",
+        "Infosys",
+        "TCS"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Medium",
+
+      "pros": [
+        "Large job market",
+        "Strong career growth"
+      ],
+
+      "cons": [
+        "Fast-changing technology",
+        "Continuous upskilling required"
+      ]
+    },
+
+    {
+      "id": "artificial-intelligence-engineer",
+      "name": "Artificial Intelligence Engineer",
+
+      "overview": "AI Engineers build intelligent systems capable of learning, reasoning and making decisions using machine learning and artificial intelligence technologies.",
+
+      "eligibility": "10+2 with PCM",
+
+      "educationPath": "B.Tech in AI / Computer Science with AI Specialization",
+
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Deep Learning",
+        "Data Analysis",
+        "Mathematics"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT"
+      ],
+
+      "topColleges": [
+        "IIT Hyderabad",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani"
+      ],
+
+      "careerOpportunities": [
+        "AI Engineer",
+        "Machine Learning Engineer",
+        "AI Research Associate",
+        "AI Consultant"
+      ],
+
+      "salary": "10-40 LPA",
+
+      "recruiters": [
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "NVIDIA",
+        "Amazon"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Creator",
+
+      "pros": [
+        "Very high demand",
+        "Future-focused career",
+        "Strong salaries"
+      ],
+
+      "cons": [
+        "Requires strong mathematics",
+        "Highly competitive field"
+      ]
+    },
+
+    {
+      "id": "data-science-engineer",
+      "name": "Data Science Engineer",
+
+      "overview": "Data Science Engineers collect, analyze and interpret large datasets to help organizations make informed business and technical decisions.",
+
+      "eligibility": "10+2 with PCM",
+
+      "educationPath": "B.Tech in Data Science / Computer Science",
+
+      "skills": [
+        "Statistics",
+        "Python",
+        "Machine Learning",
+        "Data Visualization",
+        "Analytical Thinking"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "BITSAT",
+        "VITEEE"
+      ],
+
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "BITS Pilani",
+        "IIIT Hyderabad"
+      ],
+
+      "careerOpportunities": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Engineer",
+        "Analytics Consultant"
+      ],
+
+      "salary": "8-35 LPA",
+
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Flipkart",
+        "Accenture",
+        "Deloitte"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Creator",
+
+      "pros": [
+        "High industry demand",
+        "Excellent salary growth"
+      ],
+
+      "cons": [
+        "Requires statistics knowledge",
+        "Constant learning needed"
+      ]
+    },
+
+    {
+      "id": "machine-learning-engineer",
+      "name": "Machine Learning Engineer",
+
+      "overview": "Machine Learning Engineers develop systems that learn from data and improve performance without being explicitly programmed.",
+
+      "eligibility": "10+2 with PCM",
+
+      "educationPath": "B.Tech in Computer Science / AI / Data Science",
+
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Mathematics",
+        "Deep Learning",
+        "Data Engineering"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT"
+      ],
+
+      "topColleges": [
+        "IIT Delhi",
+        "IIT Hyderabad",
+        "IIIT Hyderabad",
+        "BITS Pilani"
+      ],
+
+      "careerOpportunities": [
+        "Machine Learning Engineer",
+        "AI Developer",
+        "Research Engineer",
+        "Data Scientist"
+      ],
+
+      "salary": "10-40 LPA",
+
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "NVIDIA"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Creator",
+
+      "pros": [
+        "Among the fastest growing careers",
+        "Excellent salaries",
+        "Global opportunities"
+      ],
+
+      "cons": [
+        "Requires advanced technical skills",
+        "High competition"
+      ]
+    },
+    
+{
+  "id": "software-engineer",
+  "name": "Software Engineer",
+
+  "overview": "Software Engineers design, develop, test and maintain software applications, systems and digital products used by businesses and consumers worldwide.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Computer Science, IT or Related Field",
+
+  "skills": [
+    "Programming",
+    "Software Development",
+    "Problem Solving",
+    "Testing",
+    "System Design"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE"
+  ],
+
+  "topColleges": [
+    "IIT Delhi",
+    "IIT Bombay",
+    "BITS Pilani",
+    "NIT Trichy"
+  ],
+
+  "careerOpportunities": [
+    "Software Developer",
+    "Backend Engineer",
+    "Frontend Engineer",
+    "Full Stack Developer"
+  ],
+
+  "salary": "6-30 LPA",
+
+  "recruiters": [
+    "Google",
+    "Microsoft",
+    "Amazon",
+    "Adobe",
+    "Infosys"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "High demand worldwide",
+    "Remote work opportunities",
+    "Excellent salary growth"
+  ],
+
+  "cons": [
+    "Long screen time",
+    "Requires continuous learning"
+  ]
+},
+
+{
+  "id": "mechanical-engineer",
+  "name": "Mechanical Engineer",
+
+  "overview": "Mechanical Engineers design, manufacture and maintain machines, engines, industrial equipment and mechanical systems.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Mechanical Engineering",
+
+  "skills": [
+    "Design Thinking",
+    "Mathematics",
+    "CAD Software",
+    "Problem Solving",
+    "Engineering Analysis"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "JEE Advanced",
+    "BITSAT"
+  ],
+
+  "topColleges": [
+    "IIT Madras",
+    "IIT Bombay",
+    "IIT Kanpur",
+    "NIT Trichy"
+  ],
+
+  "careerOpportunities": [
+    "Design Engineer",
+    "Production Engineer",
+    "Automobile Engineer",
+    "Maintenance Engineer"
+  ],
+
+  "salary": "5-18 LPA",
+
+  "recruiters": [
+    "Tata Motors",
+    "Mahindra",
+    "L&T",
+    "BHEL",
+    "ISRO"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Core engineering field",
+    "Wide industry applications"
+  ],
+
+  "cons": [
+    "Can involve field work",
+    "Moderate starting salaries"
+  ]
+},
+
+{
+  "id": "civil-engineer",
+  "name": "Civil Engineer",
+
+  "overview": "Civil Engineers plan, design and supervise infrastructure projects such as roads, bridges, dams, airports and buildings.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Civil Engineering",
+
+  "skills": [
+    "Project Planning",
+    "Structural Analysis",
+    "Surveying",
+    "Leadership",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "State Engineering Exams"
+  ],
+
+  "topColleges": [
+    "IIT Roorkee",
+    "IIT Madras",
+    "NIT Surathkal",
+    "BITS Pilani"
+  ],
+
+  "careerOpportunities": [
+    "Site Engineer",
+    "Structural Engineer",
+    "Project Engineer",
+    "Construction Manager"
+  ],
+
+  "salary": "4-15 LPA",
+
+  "recruiters": [
+    "L&T",
+    "DLF",
+    "NBCC",
+    "Shapoorji Pallonji"
+  ],
+
+  "futureScope": "Good",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Infrastructure demand remains strong",
+    "Government opportunities available"
+  ],
+
+  "cons": [
+    "Site-based work",
+    "Outdoor working conditions"
+  ]
+},
+
+{
+  "id": "electrical-engineer",
+  "name": "Electrical Engineer",
+
+  "overview": "Electrical Engineers design, develop and maintain electrical systems, power generation networks and electronic equipment.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Electrical Engineering",
+
+  "skills": [
+    "Circuit Design",
+    "Power Systems",
+    "Analytical Thinking",
+    "Mathematics",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE"
+  ],
+
+  "topColleges": [
+    "IIT Bombay",
+    "IIT Delhi",
+    "IIT Kharagpur",
+    "NIT Trichy"
+  ],
+
+  "careerOpportunities": [
+    "Power Engineer",
+    "Electrical Design Engineer",
+    "Control Systems Engineer"
+  ],
+
+  "salary": "5-20 LPA",
+
+  "recruiters": [
+    "Siemens",
+    "ABB",
+    "BHEL",
+    "NTPC",
+    "Tata Power"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Low",
+
+  "pros": [
+    "Strong demand in energy sector",
+    "Diverse career options"
+  ],
+
+  "cons": [
+    "Requires strong technical skills",
+    "Can involve field operations"
+  ]
+},
+
+{
+  "id": "electronics-engineer",
+  "name": "Electronics Engineer",
+
+  "overview": "Electronics Engineers design and develop electronic devices, communication systems and embedded technologies.",
+
+  "eligibility": "10+2 with PCM",
+
+  "educationPath": "B.Tech / B.E. in Electronics Engineering",
+
+  "skills": [
+    "Circuit Design",
+    "Embedded Systems",
+    "Programming",
+    "Problem Solving"
+  ],
+
+  "entranceExams": [
+    "JEE Main",
+    "BITSAT",
+    "VITEEE"
+  ],
+
+  "topColleges": [
+    "IIT Delhi",
+    "IIT Bombay",
+    "IIT Madras",
+    "BITS Pilani"
+  ],
+
+  "careerOpportunities": [
+    "Embedded Engineer",
+    "Electronics Design Engineer",
+    "Hardware Engineer"
+  ],
+
+  "salary": "6-22 LPA",
+
+  "recruiters": [
+    "Samsung",
+    "Intel",
+    "Qualcomm",
+    "Texas Instruments",
+    "NVIDIA"
+  ],
+
+  "futureScope": "Excellent",
+
+  "aiImpact": "Medium",
+
+  "pros": [
+    "Growing semiconductor industry",
+    "High technology exposure"
+  ],
+
+  "cons": [
+    "Rapid technology changes",
+    "Requires continuous learning"
+  ]
+}
+
+  ]
+
+}
+

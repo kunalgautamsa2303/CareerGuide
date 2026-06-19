@@ -1,0 +1,188 @@
+{
+  "careers": [
+    {
+      "id": "computer-science-engineer",
+      "name": "Computer Science Engineer",
+
+      "overview": "Computer Science Engineers design, develop and maintain software systems, applications, websites and intelligent technologies used across industries.",
+
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics",
+
+      "educationPath": "B.Tech / B.E. in Computer Science Engineering",
+
+      "skills": [
+        "Programming",
+        "Problem Solving",
+        "Algorithms",
+        "Data Structures",
+        "Software Development"
+      ],
+
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE"
+      ],
+
+      "topColleges": [
+        "IIT Delhi",
+        "IIT Bombay",
+        "IIT Kanpur",
+        "BITS Pilani",
+        "NIT Trichy"
+      ],
+
+      "careerOpportunities": [
+        "Software Engineer",
+        "Full Stack Developer",
+        "AI Engineer",
+        "Data Scientist",
+        "Cloud Engineer"
+      ],
+
+      "salary": "8-25 LPA",
+
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Infosys",
+        "TCS"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Medium",
+
+      "pros": [
+        "High salary potential",
+        "Strong global demand",
+        "Remote work opportunities"
+      ],
+
+      "cons": [
+        "Highly competitive",
+        "Requires continuous learning"
+      ]
+    },
+
+    {
+      "id": "doctor",
+      "name": "Doctor",
+
+      "overview": "Doctors diagnose, treat and prevent illnesses while improving patient health and wellbeing.",
+
+      "eligibility": "10+2 with Physics, Chemistry and Biology",
+
+      "educationPath": "MBBS followed by specialization if desired",
+
+      "skills": [
+        "Medical Knowledge",
+        "Communication",
+        "Empathy",
+        "Decision Making"
+      ],
+
+      "entranceExams": [
+        "NEET UG"
+      ],
+
+      "topColleges": [
+        "AIIMS Delhi",
+        "CMC Vellore",
+        "JIPMER",
+        "MAMC Delhi"
+      ],
+
+      "careerOpportunities": [
+        "General Physician",
+        "Surgeon",
+        "Pediatrician",
+        "Cardiologist"
+      ],
+
+      "salary": "8-50 LPA",
+
+      "recruiters": [
+        "Hospitals",
+        "Medical Colleges",
+        "Healthcare Chains"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Low",
+
+      "pros": [
+        "Respected profession",
+        "Strong job security"
+      ],
+
+      "cons": [
+        "Long education duration",
+        "High responsibility"
+      ]
+    },
+
+    {
+      "id": "ux-designer",
+      "name": "UX Designer",
+
+      "overview": "UX Designers create user-friendly digital products and experiences by understanding user needs and behaviours.",
+
+      "eligibility": "Any stream after Class 12",
+
+      "educationPath": "Design Degree, Certification or Related Graduation",
+
+      "skills": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Problem Solving"
+      ],
+
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "Private Design Tests"
+      ],
+
+      "topColleges": [
+        "NID Ahmedabad",
+        "IIT Bombay IDC",
+        "IIIT Delhi",
+        "MIT Institute of Design"
+      ],
+
+      "careerOpportunities": [
+        "UX Designer",
+        "UI Designer",
+        "Product Designer"
+      ],
+
+      "salary": "6-25 LPA",
+
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Flipkart"
+      ],
+
+      "futureScope": "Excellent",
+
+      "aiImpact": "Medium",
+
+      "pros": [
+        "Creative career",
+        "Growing demand"
+      ],
+
+      "cons": [
+        "Portfolio dependent",
+        "Highly competitive"
+      ]
+    }
+  ]
+}
