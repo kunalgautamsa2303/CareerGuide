@@ -8,12 +8,16 @@
 
     <title>Career Details | Career Guide</title>
 
+    <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
+    <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.css">
 
+    <!-- CSS -->
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/career.css">
 
@@ -29,9 +33,10 @@
 
             <div class="logo-section">
 
-                <img src="../assets/logo.png"
-                     alt="Career Guide"
-                     class="logo">
+                <img
+                    src="../assets/logo.png"
+                    alt="Career Guide"
+                    class="logo">
 
                 <div>
 
@@ -57,88 +62,301 @@
 
     </nav>
 
-    <!-- HERO -->
+    <!-- HERO SECTION -->
 
     <section class="career-hero">
 
         <div class="container">
 
+            <div class="hero-badge">
+
+                🚀 Career Library
+
+            </div>
+
             <h1 id="careerName">
+
                 Career Name
+
             </h1>
 
-            <p id="careerOverview">
-                Career Overview
+            <p id="careerTagline">
+
+                Explore salary, eligibility, colleges,
+                future scope and career opportunities.
+
             </p>
+
+            <!-- HERO STATS -->
+
+            <div class="career-stats">
+
+                <div class="stat-card">
+
+                    <small>Average Salary</small>
+
+                    <h4 id="salaryStat">
+                        ₹ 0 LPA
+                    </h4>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <small>Education</small>
+
+                    <h4 id="educationStat">
+                        Graduation
+                    </h4>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <small>Industry Demand</small>
+
+                    <h4>
+                        High
+                    </h4>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <small>Future Scope</small>
+
+                    <h4>
+                        Excellent
+                    </h4>
+
+                </div>
+
+            </div>
 
         </div>
 
     </section>
 
-    <!-- DETAILS -->
+    <!-- MAIN CONTENT -->
 
     <section class="career-details">
 
         <div class="container">
 
+            <!-- OVERVIEW -->
+
             <div class="detail-card">
-                <h3>Eligibility</h3>
+
+                <h3>📖 Career Overview</h3>
+
+                <p id="careerOverview"></p>
+
+            </div>
+
+            <!-- WHY CHOOSE -->
+
+            <div class="detail-card">
+
+                <h3>⭐ Why Choose This Career?</h3>
+
+                <p id="whyChoose"></p>
+
+            </div>
+
+            <!-- ELIGIBILITY -->
+
+            <div class="detail-card">
+
+                <h3>🎓 Eligibility</h3>
+
                 <p id="eligibility"></p>
+
             </div>
 
+            <!-- EDUCATION PATH -->
+
             <div class="detail-card">
-                <h3>Educational Path</h3>
+
+                <h3>🛣 Educational Pathway</h3>
+
                 <p id="educationPath"></p>
+
             </div>
 
-            <div class="detail-card">
-                <h3>Salary</h3>
-                <p id="salary"></p>
-            </div>
+            <!-- FEES -->
 
             <div class="detail-card">
-                <h3>Future Scope</h3>
+
+                <h3>💰 Fee Range</h3>
+
+                <p id="feeRange"></p>
+
+            </div>
+
+            <!-- WORK ENVIRONMENT -->
+
+            <div class="detail-card">
+
+                <h3>🏢 Work Environment</h3>
+
+                <p id="workEnvironment"></p>
+
+            </div>
+
+            <!-- SALARY SECTION -->
+
+            <div class="detail-card">
+
+                <h3>💵 Salary Progression</h3>
+
+                <div class="salary-grid">
+
+                    <div class="salary-box">
+
+                        <small>Fresher</small>
+
+                        <h4 id="salaryFresher">
+                            ₹ 0 LPA
+                        </h4>
+
+                    </div>
+
+                    <div class="salary-box">
+
+                        <small>Mid-Level</small>
+
+                        <h4 id="salaryMid">
+                            ₹ 0 LPA
+                        </h4>
+
+                    </div>
+
+                    <div class="salary-box">
+
+                        <small>Senior-Level</small>
+
+                        <h4 id="salarySenior">
+                            ₹ 0 LPA
+                        </h4>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- FUTURE SCOPE -->
+
+            <div class="detail-card">
+
+                <h3>📈 Future Scope</h3>
+
                 <p id="futureScope"></p>
+
             </div>
 
+            <!-- AI IMPACT -->
+
             <div class="detail-card">
-                <h3>AI Impact</h3>
+
+                <h3>🤖 AI Impact</h3>
+
                 <p id="aiImpact"></p>
+
             </div>
 
+            <!-- SKILLS -->
+
             <div class="detail-card">
-                <h3>Skills Required</h3>
+
+                <h3>🎯 Skills Required</h3>
+
                 <ul id="skills"></ul>
+
             </div>
 
+            <!-- EXAMS -->
+
             <div class="detail-card">
-                <h3>Entrance Exams</h3>
+
+                <h3>📝 Entrance Exams</h3>
+
                 <ul id="entranceExams"></ul>
+
             </div>
 
+            <!-- COLLEGES -->
+
             <div class="detail-card">
-                <h3>Top Colleges</h3>
+
+                <h3>🏛 Top Colleges</h3>
+
                 <ul id="topColleges"></ul>
+
             </div>
 
+            <!-- OPPORTUNITIES -->
+
             <div class="detail-card">
-                <h3>Career Opportunities</h3>
+
+                <h3>🚀 Career Opportunities</h3>
+
                 <ul id="careerOpportunities"></ul>
+
             </div>
 
+            <!-- RECRUITERS -->
+
             <div class="detail-card">
-                <h3>Top Recruiters</h3>
+
+                <h3>🏢 Top Recruiters</h3>
+
                 <ul id="recruiters"></ul>
+
             </div>
 
+            <!-- ADVANTAGES -->
+
             <div class="detail-card">
-                <h3>Pros</h3>
+
+                <h3>✅ Advantages</h3>
+
                 <ul id="pros"></ul>
+
             </div>
 
+            <!-- CHALLENGES -->
+
             <div class="detail-card">
-                <h3>Cons</h3>
+
+                <h3>⚠ Challenges</h3>
+
                 <ul id="cons"></ul>
+
+            </div>
+
+            <!-- RELATED CAREERS -->
+
+            <div class="detail-card">
+
+                <h3>🔗 Related Careers</h3>
+
+                <ul id="relatedCareers"></ul>
+
+            </div>
+
+            <!-- BACK BUTTON -->
+
+            <div class="back-section">
+
+                <button
+                    class="btn btn-primary"
+                    onclick="history.back()">
+
+                    ← Back
+
+                </button>
+
             </div>
 
         </div>
@@ -151,9 +369,13 @@
 
         <div class="container text-center">
 
-            <h4>Career Guide</h4>
+            <h4>
+                Career Guide
+            </h4>
 
-            <p>Discover. Decide. Succeed.</p>
+            <p>
+                Discover. Decide. Succeed.
+            </p>
 
             <hr>
 

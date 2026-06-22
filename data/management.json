@@ -1,0 +1,113 @@
+{
+  "domain": "Management & Business",
+  "description": "Explore careers in leadership, business strategy, marketing, finance, entrepreneurship, consulting, operations and corporate management.",
+
+  "careers": [
+
+    {
+      "id": "business-manager",
+      "name": "Business Manager",
+      "salary": "₹6-20 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "marketing-manager",
+      "name": "Marketing Manager",
+      "salary": "₹5-18 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "human-resource-manager",
+      "name": "Human Resource Manager",
+      "salary": "₹5-15 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "financial-manager",
+      "name": "Financial Manager",
+      "salary": "₹8-25 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "operations-manager",
+      "name": "Operations Manager",
+      "salary": "₹6-20 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "business-analyst",
+      "name": "Business Analyst",
+      "salary": "₹6-22 LPA",
+      "duration": "3-4 Years"
+    },
+
+    {
+      "id": "management-consultant",
+      "name": "Management Consultant",
+      "salary": "₹10-35 LPA",
+      "duration": "4-6 Years"
+    },
+
+    {
+      "id": "investment-banker",
+      "name": "Investment Banker",
+      "salary": "₹12-40 LPA",
+      "duration": "4-6 Years"
+    },
+
+    {
+      "id": "entrepreneur",
+      "name": "Entrepreneur",
+      "salary": "Unlimited Potential",
+      "duration": "No Fixed Duration"
+    },
+
+    {
+      "id": "product-manager",
+      "name": "Product Manager",
+      "salary": "₹12-35 LPA",
+      "duration": "4-6 Years"
+    },
+
+    {
+      "id": "project-manager",
+      "name": "Project Manager",
+      "salary": "₹8-25 LPA",
+      "duration": "4-6 Years"
+    },
+
+    {
+      "id": "retail-manager",
+      "name": "Retail Manager",
+      "salary": "₹4-12 LPA",
+      "duration": "3-4 Years"
+    },
+
+    {
+      "id": "supply-chain-manager",
+      "name": "Supply Chain Manager",
+      "salary": "₹6-22 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "digital-marketing-manager",
+      "name": "Digital Marketing Manager",
+      "salary": "₹5-20 LPA",
+      "duration": "3-5 Years"
+    },
+
+    {
+      "id": "international-business-manager",
+      "name": "International Business Manager",
+      "salary": "₹8-30 LPA",
+      "duration": "4-6 Years"
+    }
+
+  ]
+}

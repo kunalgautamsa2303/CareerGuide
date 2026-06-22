@@ -1,0 +1,1161 @@
+{
+  "domain": "Finance & Commerce",
+  "description": "Professional finance career library covering accounting, banking, investments, risk management and financial services.",
+  "careers": [
+    {
+      "id": "chartered-accountant",
+      "name": "Chartered Accountant (CA)",
+      "overview": "Chartered Accountant (CA) is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "investment-banker",
+      "name": "Investment Banker",
+      "overview": "Investment Banker is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "financial-analyst",
+      "name": "Financial Analyst",
+      "overview": "Financial Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "actuary",
+      "name": "Actuary",
+      "overview": "Actuary is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "certified-public-accountant",
+      "name": "Certified Public Accountant (CPA)",
+      "overview": "Certified Public Accountant (CPA) is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "wealth-manager",
+      "name": "Wealth Manager",
+      "overview": "Wealth Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "portfolio-manager",
+      "name": "Portfolio Manager",
+      "overview": "Portfolio Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "risk-manager",
+      "name": "Risk Manager",
+      "overview": "Risk Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "equity-research-analyst",
+      "name": "Equity Research Analyst",
+      "overview": "Equity Research Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "financial-planner",
+      "name": "Financial Planner",
+      "overview": "Financial Planner is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "credit-analyst",
+      "name": "Credit Analyst",
+      "overview": "Credit Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "tax-consultant",
+      "name": "Tax Consultant",
+      "overview": "Tax Consultant is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "auditor",
+      "name": "Auditor",
+      "overview": "Auditor is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "banking-professional",
+      "name": "Banking Professional",
+      "overview": "Banking Professional is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    },
+    {
+      "id": "fintech-specialist",
+      "name": "FinTech Specialist",
+      "overview": "FinTech Specialist is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
+      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
+      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
+      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
+      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
+      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Data Analysis",
+        "Risk Assessment",
+        "Communication",
+        "Decision Making"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CFA",
+        "FRM",
+        "CPA",
+        "NISM Certifications",
+        "CUET"
+      ],
+      "topColleges": [
+        "SRCC Delhi",
+        "Shri Ram College of Commerce",
+        "Narsee Monjee",
+        "Christ University",
+        "IIMs",
+        "Delhi University"
+      ],
+      "careerOpportunities": [
+        "Investment Banking",
+        "Corporate Finance",
+        "Wealth Management",
+        "Auditing",
+        "Risk Management",
+        "FinTech"
+      ],
+      "recruiters": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Excellent salary growth",
+        "Global opportunities",
+        "High demand",
+        "Multiple specializations"
+      ],
+      "cons": [
+        "Competitive certifications",
+        "High pressure environments",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Investment Banker",
+        "Risk Analyst",
+        "Financial Consultant"
+      ]
+    }
+  ]
+}

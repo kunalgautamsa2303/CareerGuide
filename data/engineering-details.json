@@ -1,1267 +1,2011 @@
 {
+  "domain": "Engineering",
+  "description": "Professional engineering career library covering major engineering disciplines.",
   "careers": [
-
     {
       "id": "computer-science-engineer",
       "name": "Computer Science Engineer",
-
-      "overview": "Computer Science Engineers design, develop and maintain software systems, applications, websites, databases and intelligent technologies used across industries.",
-
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics",
-
-      "educationPath": "B.Tech / B.E. in Computer Science Engineering",
-
+      "overview": "Computer Science Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
       "skills": [
-        "Programming",
         "Problem Solving",
-        "Algorithms",
-        "Data Structures",
-        "Software Development"
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
       ],
-
       "entranceExams": [
         "JEE Main",
         "JEE Advanced",
         "BITSAT",
-        "VITEEE"
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
       ],
-
       "topColleges": [
-        "IIT Delhi",
         "IIT Bombay",
-        "IIT Kanpur",
+        "IIT Delhi",
+        "IIT Madras",
         "BITS Pilani",
-        "NIT Trichy"
+        "NIT Trichy",
+        "IIIT Hyderabad"
       ],
-
       "careerOpportunities": [
-        "Software Engineer",
-        "Full Stack Developer",
-        "Cloud Engineer",
-        "System Architect",
-        "Technology Consultant"
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
       ],
-
-      "salary": "8-25 LPA",
-
       "recruiters": [
         "Google",
         "Microsoft",
         "Amazon",
+        "TCS",
         "Infosys",
-        "TCS"
+        "L&T",
+        "ISRO",
+        "Tesla"
       ],
-
-      "futureScope": "Excellent",
-
-      "aiImpact": "Medium",
-
       "pros": [
-        "High salary potential",
-        "Strong global demand",
-        "Remote work opportunities"
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
       ],
-
       "cons": [
-        "Highly competitive",
-        "Requires continuous learning"
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
       ]
     },
-
     {
-      "id": "information-technology-engineer",
-      "name": "Information Technology Engineer",
-
-      "overview": "IT Engineers manage computer systems, networks, databases and enterprise technology infrastructure used by organizations.",
-
-      "eligibility": "10+2 with PCM",
-
-      "educationPath": "B.Tech / B.E. in Information Technology",
-
+      "id": "software-engineer",
+      "name": "Software Engineer",
+      "overview": "Software Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
       "skills": [
-        "Networking",
-        "Database Management",
-        "System Administration",
-        "Problem Solving"
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
       ],
-
       "entranceExams": [
         "JEE Main",
+        "JEE Advanced",
         "BITSAT",
-        "VITEEE"
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
       ],
-
       "topColleges": [
-        "IIT Kharagpur",
-        "NIT Surathkal",
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
         "BITS Pilani",
-        "VIT Vellore"
+        "NIT Trichy",
+        "IIIT Hyderabad"
       ],
-
       "careerOpportunities": [
-        "IT Engineer",
-        "Network Administrator",
-        "System Analyst",
-        "Cloud Administrator"
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
       ],
-
-      "salary": "6-20 LPA",
-
       "recruiters": [
-        "Accenture",
-        "IBM",
-        "Wipro",
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
         "Infosys",
-        "TCS"
+        "L&T",
+        "ISRO",
+        "Tesla"
       ],
-
-      "futureScope": "Excellent",
-
-      "aiImpact": "Medium",
-
       "pros": [
-        "Large job market",
-        "Strong career growth"
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
       ],
-
       "cons": [
-        "Fast-changing technology",
-        "Continuous upskilling required"
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
       ]
     },
-
     {
       "id": "artificial-intelligence-engineer",
       "name": "Artificial Intelligence Engineer",
-
-      "overview": "AI Engineers build intelligent systems capable of learning, reasoning and making decisions using machine learning and artificial intelligence technologies.",
-
-      "eligibility": "10+2 with PCM",
-
-      "educationPath": "B.Tech in AI / Computer Science with AI Specialization",
-
+      "overview": "Artificial Intelligence Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
       "skills": [
-        "Machine Learning",
-        "Python",
-        "Deep Learning",
-        "Data Analysis",
-        "Mathematics"
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
       ],
-
       "entranceExams": [
         "JEE Main",
         "JEE Advanced",
-        "BITSAT"
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
       ],
-
       "topColleges": [
-        "IIT Hyderabad",
+        "IIT Bombay",
         "IIT Delhi",
-        "IIIT Hyderabad",
-        "BITS Pilani"
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
       ],
-
       "careerOpportunities": [
-        "AI Engineer",
-        "Machine Learning Engineer",
-        "AI Research Associate",
-        "AI Consultant"
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
       ],
-
-      "salary": "10-40 LPA",
-
       "recruiters": [
-        "OpenAI",
         "Google",
         "Microsoft",
-        "NVIDIA",
-        "Amazon"
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
       ],
-
-      "futureScope": "Excellent",
-
-      "aiImpact": "Creator",
-
       "pros": [
-        "Very high demand",
-        "Future-focused career",
-        "Strong salaries"
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
       ],
-
       "cons": [
-        "Requires strong mathematics",
-        "Highly competitive field"
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
       ]
     },
-
     {
       "id": "data-science-engineer",
       "name": "Data Science Engineer",
-
-      "overview": "Data Science Engineers collect, analyze and interpret large datasets to help organizations make informed business and technical decisions.",
-
-      "eligibility": "10+2 with PCM",
-
-      "educationPath": "B.Tech in Data Science / Computer Science",
-
+      "overview": "Data Science Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
       "skills": [
-        "Statistics",
-        "Python",
-        "Machine Learning",
-        "Data Visualization",
-        "Analytical Thinking"
-      ],
-
-      "entranceExams": [
-        "JEE Main",
-        "BITSAT",
-        "VITEEE"
-      ],
-
-      "topColleges": [
-        "IIT Madras",
-        "IIT Delhi",
-        "BITS Pilani",
-        "IIIT Hyderabad"
-      ],
-
-      "careerOpportunities": [
-        "Data Scientist",
-        "Business Analyst",
-        "Data Engineer",
-        "Analytics Consultant"
-      ],
-
-      "salary": "8-35 LPA",
-
-      "recruiters": [
-        "Google",
-        "Amazon",
-        "Flipkart",
-        "Accenture",
-        "Deloitte"
-      ],
-
-      "futureScope": "Excellent",
-
-      "aiImpact": "Creator",
-
-      "pros": [
-        "High industry demand",
-        "Excellent salary growth"
-      ],
-
-      "cons": [
-        "Requires statistics knowledge",
-        "Constant learning needed"
-      ]
-    },
-
-    {
-      "id": "machine-learning-engineer",
-      "name": "Machine Learning Engineer",
-
-      "overview": "Machine Learning Engineers develop systems that learn from data and improve performance without being explicitly programmed.",
-
-      "eligibility": "10+2 with PCM",
-
-      "educationPath": "B.Tech in Computer Science / AI / Data Science",
-
-      "skills": [
-        "Machine Learning",
-        "Python",
+        "Problem Solving",
         "Mathematics",
-        "Deep Learning",
-        "Data Engineering"
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
       ],
-
       "entranceExams": [
         "JEE Main",
         "JEE Advanced",
-        "BITSAT"
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
       ],
-
       "topColleges": [
+        "IIT Bombay",
         "IIT Delhi",
-        "IIT Hyderabad",
-        "IIIT Hyderabad",
-        "BITS Pilani"
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
       ],
-
       "careerOpportunities": [
-        "Machine Learning Engineer",
-        "AI Developer",
-        "Research Engineer",
-        "Data Scientist"
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
       ],
-
-      "salary": "10-40 LPA",
-
       "recruiters": [
         "Google",
         "Microsoft",
-        "Meta",
         "Amazon",
-        "NVIDIA"
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
       ],
-
-      "futureScope": "Excellent",
-
-      "aiImpact": "Creator",
-
       "pros": [
-        "Among the fastest growing careers",
-        "Excellent salaries",
-        "Global opportunities"
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
       ],
-
       "cons": [
-        "Requires advanced technical skills",
-        "High competition"
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "name": "Machine Learning Engineer",
+      "overview": "Machine Learning Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "mechanical-engineer",
+      "name": "Mechanical Engineer",
+      "overview": "Mechanical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "civil-engineer",
+      "name": "Civil Engineer",
+      "overview": "Civil Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "electrical-engineer",
+      "name": "Electrical Engineer",
+      "overview": "Electrical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "electronics-engineer",
+      "name": "Electronics Engineer",
+      "overview": "Electronics Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "electronics-communication-engineer",
+      "name": "Electronics & Communication Engineer",
+      "overview": "Electronics & Communication Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "robotics-engineer",
+      "name": "Robotics Engineer",
+      "overview": "Robotics Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "aerospace-engineer",
+      "name": "Aerospace Engineer",
+      "overview": "Aerospace Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "automobile-engineer",
+      "name": "Automobile Engineer",
+      "overview": "Automobile Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "chemical-engineer",
+      "name": "Chemical Engineer",
+      "overview": "Chemical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "biomedical-engineer",
+      "name": "Biomedical Engineer",
+      "overview": "Biomedical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
       ]
     },
     
-{
-  "id": "software-engineer",
-  "name": "Software Engineer",
-
-  "overview": "Software Engineers design, develop, test and maintain software applications, systems and digital products used by businesses and consumers worldwide.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Computer Science, IT or Related Field",
-
-  "skills": [
-    "Programming",
-    "Software Development",
-    "Problem Solving",
-    "Testing",
-    "System Design"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "VITEEE"
-  ],
-
-  "topColleges": [
-    "IIT Delhi",
-    "IIT Bombay",
-    "BITS Pilani",
-    "NIT Trichy"
-  ],
-
-  "careerOpportunities": [
-    "Software Developer",
-    "Backend Engineer",
-    "Frontend Engineer",
-    "Full Stack Developer"
-  ],
-
-  "salary": "6-30 LPA",
-
-  "recruiters": [
-    "Google",
-    "Microsoft",
-    "Amazon",
-    "Adobe",
-    "Infosys"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Medium",
-
-  "pros": [
-    "High demand worldwide",
-    "Remote work opportunities",
-    "Excellent salary growth"
-  ],
-
-  "cons": [
-    "Long screen time",
-    "Requires continuous learning"
-  ]
-},
-
-{
-  "id": "mechanical-engineer",
-  "name": "Mechanical Engineer",
-
-  "overview": "Mechanical Engineers design, manufacture and maintain machines, engines, industrial equipment and mechanical systems.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Mechanical Engineering",
-
-  "skills": [
-    "Design Thinking",
-    "Mathematics",
-    "CAD Software",
-    "Problem Solving",
-    "Engineering Analysis"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "JEE Advanced",
-    "BITSAT"
-  ],
-
-  "topColleges": [
-    "IIT Madras",
-    "IIT Bombay",
-    "IIT Kanpur",
-    "NIT Trichy"
-  ],
-
-  "careerOpportunities": [
-    "Design Engineer",
-    "Production Engineer",
-    "Automobile Engineer",
-    "Maintenance Engineer"
-  ],
-
-  "salary": "5-18 LPA",
-
-  "recruiters": [
-    "Tata Motors",
-    "Mahindra",
-    "L&T",
-    "BHEL",
-    "ISRO"
-  ],
-
-  "futureScope": "Good",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Core engineering field",
-    "Wide industry applications"
-  ],
-
-  "cons": [
-    "Can involve field work",
-    "Moderate starting salaries"
-  ]
-},
-
-{
-  "id": "civil-engineer",
-  "name": "Civil Engineer",
-
-  "overview": "Civil Engineers plan, design and supervise infrastructure projects such as roads, bridges, dams, airports and buildings.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Civil Engineering",
-
-  "skills": [
-    "Project Planning",
-    "Structural Analysis",
-    "Surveying",
-    "Leadership",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "State Engineering Exams"
-  ],
-
-  "topColleges": [
-    "IIT Roorkee",
-    "IIT Madras",
-    "NIT Surathkal",
-    "BITS Pilani"
-  ],
-
-  "careerOpportunities": [
-    "Site Engineer",
-    "Structural Engineer",
-    "Project Engineer",
-    "Construction Manager"
-  ],
-
-  "salary": "4-15 LPA",
-
-  "recruiters": [
-    "L&T",
-    "DLF",
-    "NBCC",
-    "Shapoorji Pallonji"
-  ],
-
-  "futureScope": "Good",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Infrastructure demand remains strong",
-    "Government opportunities available"
-  ],
-
-  "cons": [
-    "Site-based work",
-    "Outdoor working conditions"
-  ]
-},
-
-{
-  "id": "electrical-engineer",
-  "name": "Electrical Engineer",
-
-  "overview": "Electrical Engineers design, develop and maintain electrical systems, power generation networks and electronic equipment.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Electrical Engineering",
-
-  "skills": [
-    "Circuit Design",
-    "Power Systems",
-    "Analytical Thinking",
-    "Mathematics",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "VITEEE"
-  ],
-
-  "topColleges": [
-    "IIT Bombay",
-    "IIT Delhi",
-    "IIT Kharagpur",
-    "NIT Trichy"
-  ],
-
-  "careerOpportunities": [
-    "Power Engineer",
-    "Electrical Design Engineer",
-    "Control Systems Engineer"
-  ],
-
-  "salary": "5-20 LPA",
-
-  "recruiters": [
-    "Siemens",
-    "ABB",
-    "BHEL",
-    "NTPC",
-    "Tata Power"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Strong demand in energy sector",
-    "Diverse career options"
-  ],
-
-  "cons": [
-    "Requires strong technical skills",
-    "Can involve field operations"
-  ]
-},
-
-{
-  "id": "electronics-engineer",
-  "name": "Electronics Engineer",
-
-  "overview": "Electronics Engineers design and develop electronic devices, communication systems and embedded technologies.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Electronics Engineering",
-
-  "skills": [
-    "Circuit Design",
-    "Embedded Systems",
-    "Programming",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "VITEEE"
-  ],
-
-  "topColleges": [
-    "IIT Delhi",
-    "IIT Bombay",
-    "IIT Madras",
-    "BITS Pilani"
-  ],
-
-  "careerOpportunities": [
-    "Embedded Engineer",
-    "Electronics Design Engineer",
-    "Hardware Engineer"
-  ],
-
-  "salary": "6-22 LPA",
-
-  "recruiters": [
-    "Samsung",
-    "Intel",
-    "Qualcomm",
-    "Texas Instruments",
-    "NVIDIA"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Medium",
-
-  "pros": [
-    "Growing semiconductor industry",
-    "High technology exposure"
-  ],
-
-  "cons": [
-    "Rapid technology changes",
-    "Requires continuous learning"
-  ]
-},
-
-{
-  "id": "electronics-communication-engineer",
-  "name": "Electronics & Communication Engineer",
-
-  "overview": "Electronics and Communication Engineers design, develop and maintain communication systems, telecommunications networks, embedded systems and electronic devices.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Electronics & Communication Engineering",
-
-  "skills": [
-    "Communication Systems",
-    "Signal Processing",
-    "Circuit Design",
-    "Embedded Systems",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "JEE Advanced",
-    "BITSAT"
-  ],
-
-  "topColleges": [
-    "IIT Delhi",
-    "IIT Kharagpur",
-    "IIT Madras",
-    "NIT Trichy"
-  ],
-
-  "careerOpportunities": [
-    "Communication Engineer",
-    "Embedded Systems Engineer",
-    "Network Engineer",
-    "Telecom Engineer"
-  ],
-
-  "salary": "6-25 LPA",
-
-  "recruiters": [
-    "Qualcomm",
-    "Nokia",
-    "Ericsson",
-    "Samsung",
-    "Intel"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Medium",
-
-  "pros": [
-    "Strong telecom demand",
-    "Opportunities in electronics and software"
-  ],
-
-  "cons": [
-    "Rapid technology evolution",
-    "Requires continuous upskilling"
-  ]
-},
-
-{
-  "id": "robotics-engineer",
-  "name": "Robotics Engineer",
-
-  "overview": "Robotics Engineers design, build and program robotic systems used in manufacturing, healthcare, defense, space and automation industries.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech in Robotics / Mechanical / Electronics Engineering",
-
-  "skills": [
-    "Programming",
-    "Automation",
-    "Artificial Intelligence",
-    "Mechanical Design",
-    "Electronics"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "VITEEE"
-  ],
-
-  "topColleges": [
-    "IIT Kanpur",
-    "IIT Delhi",
-    "BITS Pilani",
-    "VIT Vellore"
-  ],
-
-  "careerOpportunities": [
-    "Robotics Engineer",
-    "Automation Engineer",
-    "Research Engineer",
-    "Control Systems Engineer"
-  ],
-
-  "salary": "8-30 LPA",
-
-  "recruiters": [
-    "ABB",
-    "Siemens",
-    "Tesla",
-    "ISRO",
-    "Bosch"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Creator",
-
-  "pros": [
-    "Future-oriented field",
-    "High innovation potential"
-  ],
-
-  "cons": [
-    "Requires multidisciplinary knowledge",
-    "Limited undergraduate specialization options"
-  ]
-},
-
-{
-  "id": "mechatronics-engineer",
-  "name": "Mechatronics Engineer",
-
-  "overview": "Mechatronics Engineers combine mechanical, electronics and computer engineering to create intelligent systems and automated machinery.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech in Mechatronics Engineering",
-
-  "skills": [
-    "Automation",
-    "Programming",
-    "Mechanical Systems",
-    "Electronics",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "State Engineering Exams"
-  ],
-
-  "topColleges": [
-    "VIT Vellore",
-    "SRM University",
-    "Manipal Institute of Technology"
-  ],
-
-  "careerOpportunities": [
-    "Automation Engineer",
-    "Mechatronics Engineer",
-    "Robotics Specialist",
-    "Systems Engineer"
-  ],
-
-  "salary": "6-22 LPA",
-
-  "recruiters": [
-    "Bosch",
-    "Siemens",
-    "ABB",
-    "Schneider Electric"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Creator",
-
-  "pros": [
-    "Interdisciplinary career",
-    "Strong automation demand"
-  ],
-
-  "cons": [
-    "Broad skill requirements",
-    "Requires continuous learning"
-  ]
-},
-
-{
-  "id": "automobile-engineer",
-  "name": "Automobile Engineer",
-
-  "overview": "Automobile Engineers design, develop, test and manufacture vehicles, engines and transportation systems.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech in Automobile Engineering",
-
-  "skills": [
-    "Vehicle Design",
-    "Mechanical Systems",
-    "CAD Software",
-    "Problem Solving",
-    "Testing"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "State Engineering Exams"
-  ],
-
-  "topColleges": [
-    "IIT Madras",
-    "BITS Pilani",
-    "VIT Vellore",
-    "Anna University"
-  ],
-
-  "careerOpportunities": [
-    "Automobile Engineer",
-    "Vehicle Design Engineer",
-    "Testing Engineer",
-    "Production Engineer"
-  ],
-
-  "salary": "5-20 LPA",
-
-  "recruiters": [
-    "Tata Motors",
-    "Mahindra",
-    "Maruti Suzuki",
-    "Hyundai",
-    "Mercedes-Benz"
-  ],
-
-  "futureScope": "Good",
-
-  "aiImpact": "Medium",
-
-  "pros": [
-    "Large automotive industry",
-    "Innovation in EV technology"
-  ],
-
-  "cons": [
-    "Industry cycles affect hiring",
-    "Field-specific specialization"
-  ]
-},
-
-{
-  "id": "aerospace-engineer",
-  "name": "Aerospace Engineer",
-
-  "overview": "Aerospace Engineers design, develop and test aircraft, spacecraft, satellites and missile systems.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech in Aerospace Engineering",
-
-  "skills": [
-    "Aerodynamics",
-    "Mathematics",
-    "Simulation",
-    "Research",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "JEE Advanced",
-    "BITSAT"
-  ],
-
-  "topColleges": [
-    "IIT Bombay",
-    "IIT Kanpur",
-    "IIT Madras",
-    "IIST Thiruvananthapuram"
-  ],
-
-  "careerOpportunities": [
-    "Aerospace Engineer",
-    "Aircraft Design Engineer",
-    "Space Research Engineer",
-    "Flight Systems Engineer"
-  ],
-
-  "salary": "8-30 LPA",
-
-  "recruiters": [
-    "ISRO",
-    "HAL",
-    "DRDO",
-    "Boeing",
-    "Airbus"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Prestigious career",
-    "Space sector growth"
-  ],
-
-  "cons": [
-    "Limited seats and opportunities",
-    "Highly competitive field"
-  ]
-},
-
-{
-  "id": "aeronautical-engineer",
-  "name": "Aeronautical Engineer",
-
-  "overview": "Aeronautical Engineers design, develop, test and maintain aircraft, aviation systems and flight technologies.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Aeronautical Engineering",
-
-  "skills": [
-    "Aerodynamics",
-    "Aircraft Design",
-    "Mathematics",
-    "Simulation",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "JEE Advanced",
-    "BITSAT"
-  ],
-
-  "topColleges": [
-    "IIT Kanpur",
-    "IIT Bombay",
-    "IIST Thiruvananthapuram",
-    "MIT Manipal"
-  ],
-
-  "careerOpportunities": [
-    "Aircraft Design Engineer",
-    "Flight Test Engineer",
-    "Aerodynamics Engineer",
-    "Maintenance Engineer"
-  ],
-
-  "salary": "6-25 LPA",
-
-  "recruiters": [
-    "HAL",
-    "Airbus",
-    "Boeing",
-    "DRDO",
-    "ISRO"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Prestigious field",
-    "Opportunities in aviation sector"
-  ],
-
-  "cons": [
-    "Limited job openings",
-    "Highly specialized domain"
-  ]
-},
-
-{
-  "id": "chemical-engineer",
-  "name": "Chemical Engineer",
-
-  "overview": "Chemical Engineers apply chemistry, physics and engineering principles to develop industrial processes, fuels, pharmaceuticals and chemicals.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Chemical Engineering",
-
-  "skills": [
-    "Process Design",
-    "Chemistry",
-    "Analytical Thinking",
-    "Problem Solving",
-    "Safety Management"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "JEE Advanced",
-    "BITSAT"
-  ],
-
-  "topColleges": [
-    "IIT Bombay",
-    "IIT Delhi",
-    "IIT Madras",
-    "NIT Trichy"
-  ],
-
-  "careerOpportunities": [
-    "Process Engineer",
-    "Plant Engineer",
-    "Production Engineer",
-    "Research Scientist"
-  ],
-
-  "salary": "6-22 LPA",
-
-  "recruiters": [
-    "Reliance Industries",
-    "ONGC",
-    "Indian Oil",
-    "BPCL",
-    "Shell"
-  ],
-
-  "futureScope": "Good",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Strong industrial demand",
-    "Diverse industries"
-  ],
-
-  "cons": [
-    "Industrial plant environment",
-    "Safety responsibilities"
-  ]
-},
-
-{
-  "id": "biotechnology-engineer",
-  "name": "Biotechnology Engineer",
-
-  "overview": "Biotechnology Engineers use biological systems and technology to develop healthcare products, medicines, agricultural innovations and environmental solutions.",
-
-  "eligibility": "10+2 with PCM or PCB",
-
-  "educationPath": "B.Tech / B.E. in Biotechnology Engineering",
-
-  "skills": [
-    "Biology",
-    "Research",
-    "Laboratory Techniques",
-    "Data Analysis",
-    "Problem Solving"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "VITEEE"
-  ],
-
-  "topColleges": [
-    "IIT Delhi",
-    "IIT Kharagpur",
-    "VIT Vellore",
-    "Manipal Institute of Technology"
-  ],
-
-  "careerOpportunities": [
-    "Biotech Engineer",
-    "Research Associate",
-    "Clinical Research Professional",
-    "Bioprocess Engineer"
-  ],
-
-  "salary": "5-18 LPA",
-
-  "recruiters": [
-    "Biocon",
-    "Serum Institute",
-    "Dr. Reddy's",
-    "Syngene"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Growing healthcare sector",
-    "Strong research opportunities"
-  ],
-
-  "cons": [
-    "May require higher studies",
-    "Research-intensive field"
-  ]
-},
-
-{
-  "id": "environmental-engineer",
-  "name": "Environmental Engineer",
-
-  "overview": "Environmental Engineers develop solutions to environmental challenges such as pollution control, waste management and sustainable development.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Environmental Engineering",
-
-  "skills": [
-    "Environmental Analysis",
-    "Research",
-    "Problem Solving",
-    "Data Interpretation",
-    "Project Management"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "State Engineering Exams"
-  ],
-
-  "topColleges": [
-    "IIT Delhi",
-    "IIT Bombay",
-    "NIT Trichy",
-    "Anna University"
-  ],
-
-  "careerOpportunities": [
-    "Environmental Engineer",
-    "Sustainability Consultant",
-    "Waste Management Specialist",
-    "Environmental Analyst"
-  ],
-
-  "salary": "5-18 LPA",
-
-  "recruiters": [
-    "CPCB",
-    "TERI",
-    "L&T",
-    "Environmental Consultancies"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Low",
-
-  "pros": [
-    "Strong future relevance",
-    "Positive social impact"
-  ],
-
-  "cons": [
-    "Regulatory challenges",
-    "Project-based work"
-  ]
-},
-
-{
-  "id": "industrial-engineer",
-  "name": "Industrial Engineer",
-
-  "overview": "Industrial Engineers optimize systems, processes and resources to improve productivity, efficiency and quality in manufacturing and service industries.",
-
-  "eligibility": "10+2 with PCM",
-
-  "educationPath": "B.Tech / B.E. in Industrial Engineering",
-
-  "skills": [
-    "Operations Management",
-    "Data Analysis",
-    "Process Optimization",
-    "Problem Solving",
-    "Project Management"
-  ],
-
-  "entranceExams": [
-    "JEE Main",
-    "BITSAT",
-    "State Engineering Exams"
-  ],
-
-  "topColleges": [
-    "IIT Kharagpur",
-    "NIT Trichy",
-    "BITS Pilani",
-    "VIT Vellore"
-  ],
-
-  "careerOpportunities": [
-    "Industrial Engineer",
-    "Operations Analyst",
-    "Supply Chain Engineer",
-    "Quality Engineer"
-  ],
-
-  "salary": "6-20 LPA",
-
-  "recruiters": [
-    "Amazon",
-    "Flipkart",
-    "Tata Steel",
-    "L&T",
-    "Unilever"
-  ],
-
-  "futureScope": "Excellent",
-
-  "aiImpact": "Medium",
-
-  "pros": [
-    "Applicable across industries",
-    "Strong management pathway"
-  ],
-
-  "cons": [
-    "Requires analytical mindset",
-    "Process-focused role"
+    {
+      "id": "information-technology-engineer",
+      "name": "Information Technology Engineer",
+      "overview": "Information Technology Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Information Technology Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Information Technology Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "mechatronics-engineer",
+      "name": "Mechatronics Engineer",
+      "overview": "Mechatronics Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Mechatronics Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Mechatronics Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "aeronautical-engineer",
+      "name": "Aeronautical Engineer",
+      "overview": "Aeronautical Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Aeronautical Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Aeronautical Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "biotechnology-engineer",
+      "name": "Biotechnology Engineer",
+      "overview": "Biotechnology Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Biotechnology Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Biotechnology Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "environmental-engineer",
+      "name": "Environmental Engineer",
+      "overview": "Environmental Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Environmental Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Environmental Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "industrial-engineer",
+      "name": "Industrial Engineer",
+      "overview": "Industrial Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Industrial Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Industrial Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "marine-engineer",
+      "name": "Marine Engineer",
+      "overview": "Marine Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Marine Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Marine Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "petroleum-engineer",
+      "name": "Petroleum Engineer",
+      "overview": "Petroleum Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Petroleum Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Petroleum Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "mining-engineer",
+      "name": "Mining Engineer",
+      "overview": "Mining Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Mining Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Mining Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "metallurgical-engineer",
+      "name": "Metallurgical Engineer",
+      "overview": "Metallurgical Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Metallurgical Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Metallurgical Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "production-engineer",
+      "name": "Production Engineer",
+      "overview": "Production Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Production Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Production Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
+      "id": "agricultural-engineer",
+      "name": "Agricultural Engineer",
+      "overview": "Agricultural Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Agricultural Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Agricultural Engineering followed by higher studies if desired.",
+      "feeRange": "\u20b92\u201325 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201320 LPA",
+        "seniorLevel": "\u20b920\u201350+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    }
   ]
 }
-
-  ]
-}
-
-
-
-

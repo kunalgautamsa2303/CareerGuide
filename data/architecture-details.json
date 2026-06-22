@@ -1,0 +1,935 @@
+{
+  "domain": "Architecture & Planning",
+  "careers": [
+    {
+      "id": "architect",
+      "name": "Architect",
+      "overview": "Architect works in architecture, planning and built-environment projects.",
+      "whyChoose": "Architect offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Architect",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "interior-architect",
+      "name": "Interior Architect",
+      "overview": "Interior Architect works in architecture, planning and built-environment projects.",
+      "whyChoose": "Interior Architect offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Interior Architect",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "urban-planner",
+      "name": "Urban Planner",
+      "overview": "Urban Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Urban Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Urban Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "landscape-architect",
+      "name": "Landscape Architect",
+      "overview": "Landscape Architect works in architecture, planning and built-environment projects.",
+      "whyChoose": "Landscape Architect offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Landscape Architect",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "sustainable-design-consultant",
+      "name": "Sustainable Design Consultant",
+      "overview": "Sustainable Design Consultant works in architecture, planning and built-environment projects.",
+      "whyChoose": "Sustainable Design Consultant offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Sustainable Design Consultant",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "conservation-architect",
+      "name": "Conservation Architect",
+      "overview": "Conservation Architect works in architecture, planning and built-environment projects.",
+      "whyChoose": "Conservation Architect offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Conservation Architect",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "urban-designer",
+      "name": "Urban Designer",
+      "overview": "Urban Designer works in architecture, planning and built-environment projects.",
+      "whyChoose": "Urban Designer offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Urban Designer",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "regional-planner",
+      "name": "Regional Planner",
+      "overview": "Regional Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Regional Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Regional Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "transportation-planner",
+      "name": "Transportation Planner",
+      "overview": "Transportation Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Transportation Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Transportation Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "housing-planner",
+      "name": "Housing Planner",
+      "overview": "Housing Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Housing Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Housing Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "industrial-planner",
+      "name": "Industrial Planner",
+      "overview": "Industrial Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Industrial Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Industrial Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "architectural-technologist",
+      "name": "Architectural Technologist",
+      "overview": "Architectural Technologist works in architecture, planning and built-environment projects.",
+      "whyChoose": "Architectural Technologist offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Architectural Technologist",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "building-information-modeling-specialist",
+      "name": "Building Information Modeling (BIM) Specialist",
+      "overview": "Building Information Modeling (BIM) Specialist works in architecture, planning and built-environment projects.",
+      "whyChoose": "Building Information Modeling (BIM) Specialist offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Building Information Modeling (BIM) Specialist",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "construction-planner",
+      "name": "Construction Planner",
+      "overview": "Construction Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Construction Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Construction Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    },
+    {
+      "id": "smart-city-planner",
+      "name": "Smart City Planner",
+      "overview": "Smart City Planner works in architecture, planning and built-environment projects.",
+      "whyChoose": "Smart City Planner offers strong career growth, creative problem solving and infrastructure impact.",
+      "eligibility": "10+2 with PCM preferred.",
+      "educationPath": "Class 12 \u2192 B.Arch/B.Plan/Relevant Degree \u2192 Internship \u2192 Professional Practice.",
+      "feeRange": "\u20b93\u201325 Lakhs",
+      "workEnvironment": "Architecture firms, planning consultancies, government agencies and private sector organizations.",
+      "salary": {
+        "fresher": "\u20b94\u20138 LPA",
+        "midLevel": "\u20b98\u201318 LPA",
+        "seniorLevel": "\u20b918\u201340+ LPA"
+      },
+      "futureScope": "Strong due to urbanization, infrastructure development and smart city initiatives.",
+      "aiImpact": "AI assists visualization, planning and modeling but professional judgment remains essential.",
+      "skills": [
+        "Design Thinking",
+        "Problem Solving",
+        "Communication",
+        "Project Management",
+        "Technical Knowledge"
+      ],
+      "entranceExams": [
+        "NATA",
+        "JEE Paper 2",
+        "CEPT Admissions"
+      ],
+      "topColleges": [
+        "SPA Delhi",
+        "CEPT University",
+        "IIT Kharagpur",
+        "NIT Trichy"
+      ],
+      "careerOpportunities": [
+        "Smart City Planner",
+        "Consultant",
+        "Project Specialist",
+        "Research Professional"
+      ],
+      "recruiters": [
+        "L&T",
+        "AECOM",
+        "DLF",
+        "Tata Projects",
+        "Government Planning Bodies"
+      ],
+      "pros": [
+        "Good career growth",
+        "High impact profession",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Project deadlines",
+        "Continuous upskilling required"
+      ],
+      "relatedCareers": [
+        "Architect",
+        "Urban Planner",
+        "Urban Designer"
+      ]
+    }
+  ]
+}

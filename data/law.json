@@ -1,0 +1,107 @@
+{
+  "domain": "Law & Legal Studies",
+
+  "careers": [
+
+    {
+      "id": "lawyer",
+      "name": "Lawyer"
+    },
+
+    {
+      "id": "corporate-lawyer",
+      "name": "Corporate Lawyer"
+    },
+
+    {
+      "id": "criminal-lawyer",
+      "name": "Criminal Lawyer"
+    },
+
+    {
+      "id": "civil-lawyer",
+      "name": "Civil Lawyer"
+    },
+
+    {
+      "id": "constitutional-lawyer",
+      "name": "Constitutional Lawyer"
+    },
+
+    {
+      "id": "cyber-lawyer",
+      "name": "Cyber Lawyer"
+    },
+
+    {
+      "id": "intellectual-property-lawyer",
+      "name": "Intellectual Property Lawyer"
+    },
+
+    {
+      "id": "tax-lawyer",
+      "name": "Tax Lawyer"
+    },
+
+    {
+      "id": "environmental-lawyer",
+      "name": "Environmental Lawyer"
+    },
+
+    {
+      "id": "labour-lawyer",
+      "name": "Labour Lawyer"
+    },
+
+    {
+      "id": "judge",
+      "name": "Judge"
+    },
+
+    {
+      "id": "legal-advisor",
+      "name": "Legal Advisor"
+    },
+
+    {
+      "id": "legal-consultant",
+      "name": "Legal Consultant"
+    },
+
+    {
+      "id": "public-prosecutor",
+      "name": "Public Prosecutor"
+    },
+
+    {
+      "id": "legal-journalist",
+      "name": "Legal Journalist"
+    },
+
+    {
+      "id": "human-rights-lawyer",
+      "name": "Human Rights Lawyer"
+    },
+
+    {
+      "id": "international-lawyer",
+      "name": "International Lawyer"
+    },
+
+    {
+      "id": "arbitrator",
+      "name": "Arbitrator"
+    },
+
+    {
+      "id": "company-law-specialist",
+      "name": "Company Law Specialist"
+    },
+
+    {
+      "id": "litigation-specialist",
+      "name": "Litigation Specialist"
+    }
+
+  ]
+}

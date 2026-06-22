@@ -1,6 +1,7 @@
 /* =====================================================
-   Career Guide v1.0
-   Career Domain Script v2
+   Career Guide v3.0
+   Dynamic Career Domain Loader
+   Designed & Developed by Kunal Gautam
 ===================================================== */
 
 document.addEventListener("DOMContentLoaded", async () => {
@@ -19,99 +20,201 @@ document.addEventListener("DOMContentLoaded", async () => {
 
         if (!domainId) {
 
-            document.getElementById("domainName")
-                .textContent = "Domain Not Found";
-
+            showError();
             return;
+
         }
 
         /* =========================
-           LOAD DOMAIN FILE
+           LOAD JSON FILE
         ========================= */
 
         const response =
             await fetch(`../data/${domainId}.json`);
 
+        if (!response.ok) {
+
+            throw new Error(
+                "Domain file not found"
+            );
+
+        }
+
         const data =
             await response.json();
 
         /* =========================
-           PAGE DETAILS
+           HERO SECTION
         ========================= */
 
         document.getElementById("domainName")
-            .textContent = data.domain;
+            .textContent =
+            data.domain || "Career Domain";
 
         document.getElementById("domainDescription")
             .textContent =
-            `Explore careers in ${data.domain}`;
+            data.description ||
+            "Explore careers in this domain.";
 
-        document.getElementById("careerCount")
-            .textContent =
-            `${data.careers.length} Careers`;
+        /* =========================
+           CAREER COUNT
+        ========================= */
+
+        const careerCount =
+            document.getElementById("careerCount");
+
+        if (careerCount) {
+
+            careerCount.textContent =
+                `${data.careers.length}+`;
+
+        }
 
         /* =========================
            LOAD CAREERS
         ========================= */
 
-        const container =
-            document.getElementById("careerContainer");
-
-        container.innerHTML = "";
-
-        data.careers.forEach(career => {
-
-            const card =
-                document.createElement("div");
-
-            card.className =
-                "career-card";
-
-            card.innerHTML = `
-
-                <h4>
-                    ${career.name}
-                </h4>
-
-                <div class="career-info">
-                    Career Path
-                </div>
-
-                <button
-                    class="view-btn"
-                    onclick="openCareer('${career.id}')">
-
-                    Explore Career →
-
-                </button>
-
-            `;
-
-            container.appendChild(card);
-
-        });
+        loadCareers(data.careers);
+        loadTrendingCareers(data.careers);
 
     }
 
-    catch(error){
+    catch (error) {
 
-        console.error(error);
+        console.error(
+            "Domain Load Error:",
+            error
+        );
 
-        document.getElementById("domainName")
-            .textContent =
-            "Domain Not Found";
+        showError();
 
     }
 
 });
 
 /* =========================
+   LOAD CAREERS
+========================= */
+
+function loadCareers(careers) {
+
+    const container =
+        document.getElementById(
+            "careerContainer"
+        );
+
+    if (!container) return;
+
+    container.innerHTML = "";
+
+    careers.forEach(career => {
+
+        const card =
+            document.createElement("div");
+
+        card.className =
+            "career-card";
+
+        card.innerHTML = `
+
+        <h4>
+            ${career.name}
+        </h4>
+
+        ${career.salary ? `
+        <div class="career-info">
+            💰 Salary: ${career.salary}
+        </div>
+        ` : ""}
+
+        ${career.duration ? `
+        <div class="career-info">
+            🎓 Duration: ${career.duration}
+        </div>
+        ` : ""}
+
+        <button
+            class="view-btn"
+            onclick="openCareer('${career.id}')">
+
+            Explore Career →
+
+        </button>
+
+        `;
+
+        container.appendChild(card);
+
+    });
+
+}
+
+/* =========================
    OPEN CAREER
 ========================= */
 
-function openCareer(careerId){
+function openCareer(careerId) {
 
     window.location.href =
         `career.html?id=${careerId}`;
+
+}
+
+/* =========================
+   ERROR HANDLER
+========================= */
+
+function showError() {
+
+    const domainName =
+        document.getElementById(
+            "domainName"
+        );
+
+    const domainDescription =
+        document.getElementById(
+            "domainDescription"
+        );
+
+    if (domainName) {
+
+        domainName.textContent =
+            "Domain Not Found";
+
+    }
+
+    if (domainDescription) {
+
+        domainDescription.textContent =
+            "The requested domain could not be loaded.";
+
+    }
+
+}
+function loadTrendingCareers(careers){
+
+    const container =
+        document.getElementById(
+            "trendingContainer"
+        );
+
+    if(!container) return;
+
+    container.innerHTML = "";
+
+    careers.slice(0,6).forEach(career=>{
+
+        const card =
+            document.createElement("div");
+
+        card.className =
+            "trend-card";
+
+        card.textContent =
+            career.name;
+
+        container.appendChild(card);
+
+    });
 
 }

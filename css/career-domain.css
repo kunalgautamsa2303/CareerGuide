@@ -1,56 +1,109 @@
 /* =====================================================
-   Career Guide v1.0
-   Career Domain Page
+   Career Guide v2.0
+   Premium Career Domain Page
    Designed & Developed by Kunal Gautam
 ===================================================== */
 
 /* =========================
-   HERO
+   HERO SECTION
 ========================= */
 
 .domain-hero{
 
-    padding:50px 0 25px;
+    padding:50px 0 30px;
+
+}
+
+.hero-badge{
+
+    display:inline-block;
+
+    background:#DBEAFE;
+
+    color:#1D4ED8;
+
+    padding:8px 16px;
+
+    border-radius:999px;
+
+    font-size:13px;
+
+    font-weight:700;
+
+    margin-bottom:18px;
+
 }
 
 .domain-hero h1{
 
-    font-size:38px;
+    font-size:52px;
 
-    font-weight:700;
+    font-weight:800;
 
-    color:#111827;
+    color:#0F172A;
 
-    margin-bottom:10px;
+    margin-bottom:15px;
+
+    line-height:1.1;
+
 }
 
 .domain-hero p{
 
-    font-size:15px;
+    font-size:18px;
 
-    color:#6B7280;
+    color:#64748B;
+
+    max-width:800px;
+
+    line-height:1.8;
+
 }
 
 /* =========================
-   STATS
+   DOMAIN STATS
 ========================= */
 
 .domain-stats{
 
-    margin-bottom:30px;
+    margin-bottom:50px;
+
+}
+
+.stats-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
 }
 
 .stats-card{
 
     background:#FFFFFF;
 
-    border-radius:20px;
+    border:1px solid #E5E7EB;
+
+    border-radius:24px;
 
     padding:25px;
 
     text-align:center;
 
-    box-shadow:0 4px 15px rgba(0,0,0,.05);
+    box-shadow:0 8px 20px rgba(0,0,0,.04);
+
+    transition:.3s ease;
+
+}
+
+.stats-card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 15px 35px rgba(37,99,235,.10);
+
 }
 
 .stats-card h3{
@@ -59,16 +112,94 @@
 
     font-size:32px;
 
-    font-weight:700;
+    font-weight:800;
 
-    margin-bottom:5px;
+    margin-bottom:8px;
+
 }
 
 .stats-card p{
 
     margin:0;
 
-    color:#6B7280;
+    color:#64748B;
+
+    font-size:14px;
+
+}
+
+/* =========================
+   SECTION HEADERS
+========================= */
+
+.section-header{
+
+    margin-bottom:25px;
+
+}
+
+.section-header h3{
+
+    font-size:32px;
+
+    font-weight:800;
+
+    color:#0F172A;
+
+    margin-bottom:8px;
+
+}
+
+.section-header p{
+
+    color:#64748B;
+
+    margin:0;
+
+}
+
+/* =========================
+   TRENDING CAREERS
+========================= */
+
+.trending-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:18px;
+
+}
+
+.trend-card{
+
+    background:#FFFFFF;
+
+    border:1px solid #E5E7EB;
+
+    border-radius:18px;
+
+    padding:18px;
+
+    font-weight:700;
+
+    text-align:center;
+
+    transition:.3s ease;
+
+    cursor:pointer;
+
+}
+
+.trend-card:hover{
+
+    background:#2563EB;
+
+    color:#FFFFFF;
+
+    transform:translateY(-5px);
+
 }
 
 /* =========================
@@ -81,38 +212,46 @@
 
     grid-template-columns:repeat(3,1fr);
 
-    gap:20px;
+    gap:24px;
 
     margin-bottom:50px;
+
 }
 
 .career-card{
 
     background:#FFFFFF;
 
-    border-radius:20px;
+    border:1px solid #E5E7EB;
 
-    padding:24px;
+    border-radius:24px;
 
-    box-shadow:0 4px 15px rgba(0,0,0,.05);
+    padding:25px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.04);
 
     transition:.3s ease;
+
 }
 
 .career-card:hover{
 
-    transform:translateY(-5px);
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 40px rgba(37,99,235,.10);
+
 }
 
 .career-card h4{
 
-    font-size:18px;
+    font-size:22px;
 
-    font-weight:600;
+    font-weight:700;
 
     margin-bottom:15px;
 
-    color:#111827;
+    color:#0F172A;
+
 }
 
 .career-info{
@@ -121,12 +260,13 @@
 
     font-size:14px;
 
-    color:#6B7280;
+    color:#64748B;
+
 }
 
 .view-btn{
 
-    margin-top:15px;
+    margin-top:18px;
 
     width:100%;
 
@@ -136,30 +276,193 @@
 
     color:white;
 
-    padding:10px;
+    padding:12px;
 
-    border-radius:12px;
+    border-radius:14px;
 
-    font-weight:600;
+    font-weight:700;
 
     cursor:pointer;
+
+    transition:.3s ease;
+
 }
 
 .view-btn:hover{
 
     background:#1D4ED8;
+
 }
 
 /* =========================
-   MOBILE
+   SKILLS SECTION
 ========================= */
 
-@media(max-width:992px){
+.skills-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:18px;
+
+}
+
+.skill-card{
+
+    background:#FFFFFF;
+
+    border:1px solid #E5E7EB;
+
+    border-radius:18px;
+
+    padding:18px;
+
+    text-align:center;
+
+    font-weight:600;
+
+    transition:.3s ease;
+
+}
+
+.skill-card:hover{
+
+    background:#EEF4FF;
+
+    color:#2563EB;
+
+}
+
+/* =========================
+   RECRUITERS
+========================= */
+
+.recruiter-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:18px;
+
+}
+
+.recruiter-card{
+
+    background:#FFFFFF;
+
+    border:1px solid #E5E7EB;
+
+    border-radius:18px;
+
+    padding:22px;
+
+    text-align:center;
+
+    font-weight:700;
+
+    transition:.3s ease;
+
+}
+
+.recruiter-card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 15px 30px rgba(0,0,0,.08);
+
+}
+
+/* =========================
+   FUTURE SCOPE
+========================= */
+
+.future-card{
+
+    background:linear-gradient(
+        135deg,
+        #0F172A,
+        #172554,
+        #1D4ED8
+    );
+
+    color:#FFFFFF;
+
+    border-radius:30px;
+
+    padding:40px;
+
+}
+
+.future-card h3{
+
+    font-size:30px;
+
+    font-weight:800;
+
+    margin-bottom:20px;
+
+}
+
+.future-card p{
+
+    color:#E2E8F0;
+
+    line-height:1.9;
+
+    font-size:16px;
+
+    margin:0;
+
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media(max-width:1200px){
 
     .career-grid{
 
         grid-template-columns:repeat(2,1fr);
+
     }
+
+}
+
+@media(max-width:992px){
+
+    .stats-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .skills-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .recruiter-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .trending-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .domain-hero h1{
+
+        font-size:40px;
+
+    }
+
 }
 
 @media(max-width:768px){
@@ -167,11 +470,55 @@
     .career-grid{
 
         grid-template-columns:1fr;
+
+    }
+
+    .stats-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .skills-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .recruiter-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .trending-grid{
+
+        grid-template-columns:1fr;
+
     }
 
     .domain-hero h1{
 
-        font-size:30px;
-    }
-}
+        font-size:32px;
 
+    }
+
+    .domain-hero p{
+
+        font-size:16px;
+
+    }
+
+    .section-header h3{
+
+        font-size:24px;
+
+    }
+
+    .future-card{
+
+        padding:25px;
+
+    }
+
+}

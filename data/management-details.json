@@ -1,0 +1,1386 @@
+{
+  "domain": "Management & Business",
+  "description": "Professional management career library with detailed information across management, leadership, consulting, operations, marketing and business careers.",
+  "careers": [
+    {
+      "id": "business-manager",
+      "name": "Business Manager",
+      "overview": "Business Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Business Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "marketing-manager",
+      "name": "Marketing Manager",
+      "overview": "Marketing Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Marketing Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "human-resource-manager",
+      "name": "Human Resource Manager",
+      "overview": "Human Resource Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Human Resource Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "financial-manager",
+      "name": "Financial Manager",
+      "overview": "Financial Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Financial Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "operations-manager",
+      "name": "Operations Manager",
+      "overview": "Operations Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Operations Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "name": "Business Analyst",
+      "overview": "Business Analyst is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Business Analyst offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "management-consultant",
+      "name": "Management Consultant",
+      "overview": "Management Consultant is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Management Consultant offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "investment-banker",
+      "name": "Investment Banker",
+      "overview": "Investment Banker is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Investment Banker offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "entrepreneur",
+      "name": "Entrepreneur",
+      "overview": "Entrepreneur is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Entrepreneur offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "product-manager",
+      "name": "Product Manager",
+      "overview": "Product Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Product Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "project-manager",
+      "name": "Project Manager",
+      "overview": "Project Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Project Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "retail-manager",
+      "name": "Retail Manager",
+      "overview": "Retail Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Retail Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "supply-chain-manager",
+      "name": "Supply Chain Manager",
+      "overview": "Supply Chain Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Supply Chain Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "digital-marketing-manager",
+      "name": "Digital Marketing Manager",
+      "overview": "Digital Marketing Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "Digital Marketing Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "id": "international-business-manager",
+      "name": "International Business Manager",
+      "overview": "International Business Manager is a professional management career that focuses on planning, leadership, strategy, execution, business growth, stakeholder management and organizational performance. Professionals in this field are responsible for analyzing opportunities, solving business problems, leading teams and driving measurable results. The role combines analytical thinking with communication and leadership skills, making it one of the most versatile career options in the management domain.",
+      "whyChoose": "International Business Manager offers strong career growth, leadership exposure, global opportunities, attractive salary progression and the chance to influence important business decisions.",
+      "eligibility": "Students from any stream (Science, Commerce or Humanities) can enter this field after Class 12. Relevant bachelor's degrees include BBA, BMS, B.Com, Economics and related disciplines. MBA or PGDM is advantageous for higher-level roles.",
+      "educationPath": "Class 12 → Bachelor's Degree (BBA/BMS/B.Com/Economics or related field) → Internship/Industry Experience → MBA/PGDM (optional but beneficial) → Professional Certifications.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs depending on institution and program.",
+      "workEnvironment": "Corporate offices, consulting firms, startups, multinational corporations, hybrid workplaces and global business environments.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "The future outlook remains strong due to digital transformation, globalization, analytics-driven decision making, entrepreneurship and expanding service industries.",
+      "aiImpact": "AI will automate repetitive administrative tasks but will increase demand for strategic thinking, leadership, stakeholder management and decision-making capabilities.",
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategic Thinking",
+        "Problem Solving",
+        "Decision Making",
+        "Business Acumen",
+        "Data Analysis",
+        "Team Management",
+        "Negotiation",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "CAT",
+        "XAT",
+        "SNAP",
+        "NMAT",
+        "IPMAT",
+        "CUET",
+        "MAT",
+        "CMAT"
+      ],
+      "topColleges": [
+        "IIM Ahmedabad",
+        "IIM Bangalore",
+        "IIM Calcutta",
+        "FMS Delhi",
+        "XLRI Jamshedpur",
+        "SPJIMR Mumbai",
+        "MDI Gurgaon",
+        "IIFT Delhi"
+      ],
+      "careerOpportunities": [
+        "Corporate Management",
+        "Consulting",
+        "Business Development",
+        "Operations",
+        "Strategy",
+        "Marketing",
+        "Analytics",
+        "Entrepreneurship"
+      ],
+      "recruiters": [
+        "Google",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "PwC",
+        "KPMG",
+        "Accenture",
+        "McKinsey",
+        "BCG",
+        "Tata Group",
+        "Reliance"
+      ],
+      "pros": [
+        "Excellent growth opportunities",
+        "Strong salary potential",
+        "Leadership roles available",
+        "Global career mobility",
+        "Transferable skills across industries"
+      ],
+      "cons": [
+        "Competitive job market",
+        "Performance pressure",
+        "Long working hours in some sectors",
+        "Continuous learning required"
+      ],
+      "relatedCareers": [
+        "Business Analyst",
+        "Project Manager",
+        "Consultant",
+        "Product Manager",
+        "Entrepreneur"
+      ]
+    }
+  ]
+}

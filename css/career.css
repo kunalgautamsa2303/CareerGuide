@@ -1,47 +1,130 @@
 /* =====================================================
-   Career Guide v1.0
-   Career Detail Page
+   Career Guide v3.0
+   Premium Career Detail Page
    Designed & Developed by Kunal Gautam
 ===================================================== */
 
 /* =========================
-   HERO
+   HERO SECTION
 ========================= */
 
 .career-hero{
 
-    padding:50px 0 30px;
+    padding:60px 0;
+
+    background:linear-gradient(
+        135deg,
+        #0F172A,
+        #172554,
+        #2563EB
+    );
+
+    color:#FFFFFF;
+
+}
+
+.hero-badge{
+
+    display:inline-block;
+
+    background:rgba(255,255,255,.12);
+
+    padding:10px 18px;
+
+    border-radius:999px;
+
+    font-size:13px;
+
+    font-weight:700;
+
+    margin-bottom:20px;
+
 }
 
 .career-hero h1{
 
-    font-size:40px;
+    font-size:58px;
 
-    font-weight:700;
+    font-weight:800;
 
-    color:#111827;
+    margin-bottom:15px;
 
-    margin-bottom:12px;
+    line-height:1.1;
+
 }
 
-.career-hero p{
+#careerTagline{
 
-    font-size:16px;
+    font-size:18px;
 
-    color:#6B7280;
+    color:#E2E8F0;
 
-    max-width:900px;
+    max-width:800px;
 
     line-height:1.8;
+
+    margin-bottom:35px;
+
 }
 
 /* =========================
-   DETAILS
+   HERO STATS
+========================= */
+
+.career-stats{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+}
+
+.stat-card{
+
+    background:rgba(255,255,255,.08);
+
+    backdrop-filter:blur(10px);
+
+    border:1px solid rgba(255,255,255,.12);
+
+    border-radius:20px;
+
+    padding:22px;
+
+}
+
+.stat-card small{
+
+    display:block;
+
+    color:#CBD5E1;
+
+    margin-bottom:8px;
+
+}
+
+.stat-card h4{
+
+    margin:0;
+
+    font-size:24px;
+
+    font-weight:800;
+
+    color:#FFFFFF;
+
+}
+
+/* =========================
+   CAREER DETAILS
 ========================= */
 
 .career-details{
 
-    padding-bottom:50px;
+    padding:50px 0 80px;
+
 }
 
 .career-details .container{
@@ -50,45 +133,60 @@
 
     grid-template-columns:repeat(2,1fr);
 
-    gap:20px;
+    gap:24px;
+
 }
+
+/* =========================
+   DETAIL CARD
+========================= */
 
 .detail-card{
 
     background:#FFFFFF;
 
-    border-radius:20px;
+    border-radius:24px;
 
-    padding:25px;
+    padding:28px;
 
-    box-shadow:0 4px 15px rgba(0,0,0,.05);
+    border:1px solid #E5E7EB;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.04);
 
     transition:.3s ease;
+
 }
 
 .detail-card:hover{
 
-    transform:translateY(-4px);
+    transform:translateY(-5px);
+
+    box-shadow:0 20px 40px rgba(0,0,0,.08);
+
 }
 
 .detail-card h3{
 
-    font-size:20px;
+    font-size:22px;
 
-    font-weight:600;
+    font-weight:700;
 
-    margin-bottom:15px;
+    color:#0F172A;
 
-    color:#2563EB;
+    margin-bottom:18px;
+
 }
 
 .detail-card p{
 
     margin:0;
 
-    color:#4B5563;
+    color:#475569;
 
-    line-height:1.8;
+    line-height:1.9;
+
+    font-size:15px;
+
 }
 
 .detail-card ul{
@@ -96,46 +194,263 @@
     margin:0;
 
     padding-left:20px;
+
 }
 
 .detail-card li{
 
     margin-bottom:10px;
 
-    color:#4B5563;
+    color:#475569;
+
+    line-height:1.8;
+
+}
+
+/* =========================
+   SALARY SECTION
+========================= */
+
+.salary-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:18px;
+
+}
+
+.salary-box{
+
+    background:#F8FAFC;
+
+    border:1px solid #E2E8F0;
+
+    border-radius:18px;
+
+    padding:20px;
+
+    text-align:center;
+
+}
+
+.salary-box small{
+
+    color:#64748B;
+
+    display:block;
+
+    margin-bottom:8px;
+
+}
+
+.salary-box h4{
+
+    margin:0;
+
+    color:#2563EB;
+
+    font-size:24px;
+
+    font-weight:800;
+
+}
+
+/* =========================
+   RELATED CAREERS
+========================= */
+
+#relatedCareers{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:12px;
+
+    padding-left:0;
+
+}
+
+#relatedCareers li{
+
+    list-style:none;
+
+    background:#EEF4FF;
+
+    color:#2563EB;
+
+    padding:10px 16px;
+
+    border-radius:12px;
+
+    font-weight:600;
+
+    margin-bottom:0;
+
+    transition:.3s ease;
+
+}
+
+#relatedCareers li:hover{
+
+    background:#2563EB;
+
+    color:#FFFFFF;
+
+}
+
+/* =========================
+   SKILLS / EXAMS / COLLEGES
+========================= */
+
+#skills li,
+#entranceExams li,
+#topColleges li,
+#careerOpportunities li,
+#recruiters li{
+
+    margin-bottom:12px;
+
+}
+
+/* =========================
+   BACK BUTTON
+========================= */
+
+.back-section{
+
+    grid-column:1/-1;
+
+    text-align:center;
+
+    margin-top:10px;
+
+}
+
+.back-section .btn{
+
+    padding:12px 28px;
+
+    border-radius:14px;
+
+    font-weight:700;
+
+}
+
+/* =========================
+   SCROLLBAR
+========================= */
+
+::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#CBD5E1;
+
+    border-radius:10px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:#94A3B8;
+
 }
 
 /* =========================
    RESPONSIVE
 ========================= */
 
+@media(max-width:1200px){
+
+    .career-hero h1{
+
+        font-size:48px;
+
+    }
+
+}
+
 @media(max-width:992px){
+
+    .career-stats{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
 
     .career-details .container{
 
         grid-template-columns:1fr;
+
     }
+
 }
 
 @media(max-width:768px){
 
-    .career-hero h1{
+    .career-hero{
 
-        font-size:30px;
+        padding:40px 0;
+
     }
 
-    .career-hero p{
+    .career-hero h1{
 
-        font-size:14px;
+        font-size:36px;
+
+    }
+
+    #careerTagline{
+
+        font-size:16px;
+
+    }
+
+    .career-stats{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .salary-grid{
+
+        grid-template-columns:1fr;
+
     }
 
     .detail-card{
 
-        padding:20px;
+        padding:22px;
+
     }
 
     .detail-card h3{
 
-        font-size:18px;
+        font-size:20px;
+
     }
+
+}
+
+@media(max-width:480px){
+
+    .career-hero h1{
+
+        font-size:30px;
+
+    }
+
+    .detail-card{
+
+        padding:18px;
+
+    }
+
 }

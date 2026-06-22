@@ -1,0 +1,28 @@
+{
+  "domain": "Psychology & Behavioral Sciences",
+
+  "careers": [
+
+    { "id": "clinical-psychologist", "name": "Clinical Psychologist" },
+    { "id": "counselling-psychologist", "name": "Counselling Psychologist" },
+    { "id": "child-psychologist", "name": "Child Psychologist" },
+    { "id": "educational-psychologist", "name": "Educational Psychologist" },
+    { "id": "industrial-organizational-psychologist", "name": "Industrial & Organizational Psychologist" },
+    { "id": "forensic-psychologist", "name": "Forensic Psychologist" },
+    { "id": "sports-psychologist", "name": "Sports Psychologist" },
+    { "id": "health-psychologist", "name": "Health Psychologist" },
+    { "id": "neuropsychologist", "name": "Neuropsychologist" },
+    { "id": "rehabilitation-psychologist", "name": "Rehabilitation Psychologist" },
+    { "id": "military-psychologist", "name": "Military Psychologist" },
+    { "id": "consumer-psychologist", "name": "Consumer Psychologist" },
+    { "id": "behavioral-scientist", "name": "Behavioral Scientist" },
+    { "id": "psychotherapist", "name": "Psychotherapist" },
+    { "id": "career-counsellor", "name": "Career Counsellor" },
+    { "id": "school-counsellor", "name": "School Counsellor" },
+    { "id": "research-psychologist", "name": "Research Psychologist" },
+    { "id": "social-psychologist", "name": "Social Psychologist" },
+    { "id": "cognitive-psychologist", "name": "Cognitive Psychologist" },
+    { "id": "psychology-professor", "name": "Psychology Professor" }
+
+  ]
+}
