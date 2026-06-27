@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>Student Registration | Career Guide</title>
+
+    <meta name="description"
+        content="Student Registration - Career Guide">
+
+    <!-- Google Font -->
+
+    <link rel="preconnect"
+        href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet"
+        href="../assets/css/auth.css">
+
+</head>
+
+<body>
+
+<main class="auth-page">
+
+<div class="register-container">
+
+<a href="role-selection.html"
+class="back-link">
+
+<i class="bi bi-arrow-left"></i>
+
+Back
+
+</a>
+
+<div class="brand">
+
+<div class="brand-logo">
+
+<i class="bi bi-compass-fill"></i>
+
+</div>
+
+<h1>
+
+Career Guide
+
+</h1>
+
+<p>
+
+Student Registration
+
+</p>
+
+</div>
+
+<div class="progress-bar">
+
+<div class="progress-fill">
+
+</div>
+
+</div>
+
+<div class="auth-heading">
+
+<h2>
+
+Create Student Account
+
+</h2>
+
+<p>
+
+Complete your profile to start exploring careers.
+
+</p>
+
+</div>
+
+<form
+id="studentRegisterForm"
+class="register-form">
+
+<!-- ===========================
+Personal Information
+=========================== -->
+
+<div class="form-section">
+
+<h3>
+
+Personal Information
+
+</h3>
+
+<div class="form-grid">
+
+<div class="form-group">
+
+<label>
+
+Full Name
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-person"></i>
+
+<input
+
+type="text"
+
+id="fullname"
+
+placeholder="Enter full name"
+
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Email Address
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-envelope"></i>
+
+<input
+
+type="email"
+
+id="email"
+
+placeholder="Enter email"
+
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Mobile Number
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-phone"></i>
+
+<input
+
+type="tel"
+
+id="mobile"
+
+placeholder="Enter mobile number"
+
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Password
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-lock"></i>
+
+<input
+
+type="password"
+
+id="password"
+
+placeholder="Create password"
+
+required>
+
+<button
+type="button"
+class="password-toggle">
+
+<i class="bi bi-eye"></i>
+
+</button>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Confirm Password
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-shield-lock"></i>
+
+<input
+
+type="password"
+
+id="confirmPassword"
+
+placeholder="Confirm password"
+
+required>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ===========================
+Academic Information
+=========================== -->
+
+<div class="form-section">
+
+<h3>
+
+Academic Information
+
+</h3>
+
+<div class="form-grid">
+
+<div class="form-group">
+
+<label>
+
+Current Class
+
+</label>
+
+<select
+id="studentClass"
+required>
+
+<option value="">
+
+Select Class
+
+</option>
+
+<option>
+
+Class 6
+
+</option>
+
+<option>
+
+Class 7
+
+</option>
+
+<option>
+
+Class 8
+
+</option>
+
+<option>
+
+Class 9
+
+</option>
+
+<option>
+
+Class 10
+
+</option>
+
+<option value="11">
+
+Class 11
+
+</option>
+
+<option value="12">
+
+Class 12
+
+</option>
+
+<option>
+
+Undergraduate
+
+</option>
+
+<option>
+
+Graduate
+
+</option>
+
+</select>
+
+</div>
+
+<!-- Stream (Hidden by Default) -->
+
+<div
+class="form-group"
+
+id="streamField"
+
+style="display:none;">
+
+<label>
+
+Stream
+
+</label>
+
+<select
+id="stream">
+
+<option value="">
+
+Select Stream
+
+</option>
+
+<option>
+
+Science
+
+</option>
+
+<option>
+
+Commerce
+
+</option>
+
+<option>
+
+Humanities
+
+</option>
+
+<option>
+
+Vocational
+
+</option>
+
+<option>
+
+Other
+
+</option>
+
+</select>
+
+</div>
+                <div class="form-group">
+
+                    <label>
+
+                        School Name
+
+                    </label>
+
+                    <div class="input-box">
+
+                        <i class="bi bi-building"></i>
+
+                        <input
+                            type="text"
+                            id="schoolName"
+                            placeholder="Enter your school name"
+                            required>
+
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label>
+
+                        City
+
+                    </label>
+
+                    <div class="input-box">
+
+                        <i class="bi bi-geo-alt"></i>
+
+                        <input
+                            type="text"
+                            id="city"
+                            placeholder="Enter city"
+                            required>
+
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label>
+
+                        State
+
+                    </label>
+
+                    <div class="input-box">
+
+                        <i class="bi bi-map"></i>
+
+                        <input
+                            type="text"
+                            id="state"
+                            placeholder="Enter state"
+                            required>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ===========================
+        Career Interests
+        =========================== -->
+
+        <div class="form-section">
+
+            <h3>
+
+                Career Interests
+
+            </h3>
+
+            <div class="form-grid">
+
+                <div class="form-group">
+
+                    <label>
+
+                        Preferred Career Field
+
+                    </label>
+
+                    <select id="careerInterest">
+
+                        <option value="">
+
+                            Select Career Field
+
+                        </option>
+
+                        <option>Architecture</option>
+
+                        <option>Arts & Design</option>
+
+                        <option>Business & Management</option>
+
+                        <option>Commerce</option>
+
+                        <option>Computer Science</option>
+
+                        <option>Data Science</option>
+
+                        <option>Engineering</option>
+
+                        <option>Fashion Design</option>
+
+                        <option>Finance</option>
+
+                        <option>Hotel Management</option>
+
+                        <option>Law</option>
+
+                        <option>Liberal Arts</option>
+
+                        <option>Mass Communication</option>
+
+                        <option>Medical</option>
+
+                        <option>Psychology</option>
+
+                        <option>Sports</option>
+
+                        <option>Still Exploring</option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ===========================
+        Terms
+        =========================== -->
+
+        <div class="form-section">
+
+            <label class="checkbox-container">
+
+                <input
+                    type="checkbox"
+                    required>
+
+                <span>
+
+                    I agree to the
+
+                    <a href="#">
+
+                        Terms & Conditions
+
+                    </a>
+
+                    and
+
+                    <a href="#">
+
+                        Privacy Policy
+
+                    </a>
+
+                </span>
+
+            </label>
+
+        </div>
+
+        <!-- Buttons -->
+
+        <div class="form-actions">
+
+            <button
+                type="submit"
+                class="primary-btn auth-btn">
+
+                Create Student Account
+
+            </button>
+
+        </div>
+
+        <div class="register-link">
+
+            Already have an account?
+
+            <a href="login.html">
+
+                Login
+
+            </a>
+
+        </div>
+
+    </form>
+
+</div>
+
+</main>
+
+<footer class="auth-footer">
+
+    <div class="footer-links">
+
+        <a href="#">
+
+            Privacy Policy
+
+        </a>
+
+        <span>|</span>
+
+        <a href="#">
+
+            Terms & Conditions
+
+        </a>
+
+        <span>|</span>
+
+        <a href="#">
+
+            Contact Us
+
+        </a>
+
+    </div>
+
+    <p>
+
+        © 2026 Career Guide. All Rights Reserved.
+
+    </p>
+
+</footer>
+
+<script src="../assets/js/auth.js"></script>
+
+</body>
+
+</html>
