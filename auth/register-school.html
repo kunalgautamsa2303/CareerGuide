@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>School Registration | Career Guide</title>
+
+    <meta name="description"
+        content="Register your school on Career Guide">
+
+    <!-- Google Fonts -->
+
+    <link rel="preconnect"
+        href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet"
+        href="../assets/css/auth.css">
+
+</head>
+
+<body>
+
+<main class="auth-page">
+
+<div class="register-container">
+
+<a href="role-selection.html"
+class="back-link">
+
+<i class="bi bi-arrow-left"></i>
+
+Back
+
+</a>
+
+<div class="brand">
+
+<div class="brand-logo">
+
+<i class="bi bi-building-fill"></i>
+
+</div>
+
+<h1>
+
+Career Guide
+
+</h1>
+
+<p>
+
+School Registration
+
+</p>
+
+</div>
+
+<div class="progress-bar">
+
+<div class="progress-fill"></div>
+
+</div>
+
+<div class="auth-heading">
+
+<h2>
+
+Register Your School
+
+</h2>
+
+<p>
+
+Create your school account in less than two minutes.
+
+Complete your institution profile after logging in.
+
+</p>
+
+</div>
+
+<form
+id="schoolRegisterForm"
+class="register-form">
+
+<!-- ==================================
+School Information
+=================================== -->
+
+<div class="form-section">
+
+<h3>
+
+School Information
+
+</h3>
+
+<div class="form-grid">
+
+<div class="form-group">
+
+<label>
+
+School Name
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-building"></i>
+
+<input
+type="text"
+id="schoolName"
+placeholder="Enter school name"
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Official Email
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-envelope"></i>
+
+<input
+type="email"
+id="schoolEmail"
+placeholder="Enter official email"
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Mobile Number
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-phone"></i>
+
+<input
+type="tel"
+id="mobile"
+placeholder="Enter mobile number"
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Password
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-lock"></i>
+
+<input
+type="password"
+id="password"
+placeholder="Create password"
+required>
+
+<button
+type="button"
+class="password-toggle">
+
+<i class="bi bi-eye"></i>
+
+</button>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Confirm Password
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-shield-lock"></i>
+
+<input
+type="password"
+id="confirmPassword"
+placeholder="Confirm password"
+required>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ==================================
+Primary Contact Person
+=================================== -->
+
+<div class="form-section">
+
+<h3>
+
+Primary Contact Person
+
+</h3>
+
+<div class="form-grid">
+
+<div class="form-group">
+
+<label>
+
+Contact Person Name
+
+</label>
+
+<div class="input-box">
+
+<i class="bi bi-person"></i>
+
+<input
+type="text"
+id="contactPerson"
+placeholder="Enter contact person's name"
+required>
+
+</div>
+
+</div>
+
+<div class="form-group">
+
+<label>
+
+Designation
+
+</label>
+
+<select
+id="designation"
+required>
+
+<option value="">
+
+Select Designation
+
+</option>
+
+<option>
+
+Principal
+
+</option>
+
+<option>
+
+Vice Principal
+
+</option>
+
+<option>
+
+Career Counsellor
+
+</option>
+
+<option>
+
+School Counsellor
+
+</option>
+
+<option>
+
+Outreach Coordinator
+
+</option>
+
+<option>
+
+Administrator
+
+</option>
+
+<option>
+
+Other
+
+</option>
+
+</select>
+
+</div>
+                <div class="form-group">
+
+                    <label>
+
+                        City
+
+                    </label>
+
+                    <div class="input-box">
+
+                        <i class="bi bi-geo-alt"></i>
+
+                        <input
+                            type="text"
+                            id="city"
+                            placeholder="Enter city"
+                            required>
+
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label>
+
+                        State
+
+                    </label>
+
+                    <div class="input-box">
+
+                        <i class="bi bi-map"></i>
+
+                        <input
+                            type="text"
+                            id="state"
+                            placeholder="Enter state"
+                            required>
+
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label>
+
+                        Education Board
+
+                    </label>
+
+                    <select
+                        id="board"
+                        required>
+
+                        <option value="">
+
+                            Select Board
+
+                        </option>
+
+                        <option>
+
+                            CBSE
+
+                        </option>
+
+                        <option>
+
+                            ICSE
+
+                        </option>
+
+                        <option>
+
+                            IB
+
+                        </option>
+
+                        <option>
+
+                            Cambridge
+
+                        </option>
+
+                        <option>
+
+                            State Board
+
+                        </option>
+
+                        <option>
+
+                            Other
+
+                        </option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- =====================================
+        Terms & Conditions
+        ====================================== -->
+
+        <div class="form-section">
+
+            <label class="checkbox-container">
+
+                <input
+                    type="checkbox"
+                    required>
+
+                <span>
+
+                    I agree to the
+
+                    <a href="#">
+
+                        Terms & Conditions
+
+                    </a>
+
+                    and
+
+                    <a href="#">
+
+                        Privacy Policy
+
+                    </a>
+
+                </span>
+
+            </label>
+
+        </div>
+
+        <!-- =====================================
+        Action Buttons
+        ====================================== -->
+
+        <div class="form-actions">
+
+            <button
+                type="submit"
+                class="primary-btn auth-btn">
+
+                Register School
+
+            </button>
+
+        </div>
+
+        <div class="register-link">
+
+            Already have a school account?
+
+            <a href="login.html">
+
+                Login
+
+            </a>
+
+        </div>
+
+    </form>
+
+</div>
+
+</main>
+
+<footer class="auth-footer">
+
+    <div class="footer-links">
+
+        <a href="#">
+
+            Privacy Policy
+
+        </a>
+
+        <span>|</span>
+
+        <a href="#">
+
+            Terms & Conditions
+
+        </a>
+
+        <span>|</span>
+
+        <a href="#">
+
+            Contact Us
+
+        </a>
+
+    </div>
+
+    <p>
+
+        © 2026 Career Guide. All Rights Reserved.
+
+    </p>
+
+</footer>
+
+<script src="../assets/js/auth.js"></script>
+
+</body>
+
+</html>

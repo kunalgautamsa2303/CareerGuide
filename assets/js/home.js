@@ -1,186 +1,188 @@
-/*=====================================================
- Career Guide Platform
- home.js v3.0
- Part 1
- Navigation • Mobile Menu • Search • Smooth Scroll
-======================================================*/
+/* ==========================================================
+   Career Guide v2.1
+   Homepage JavaScript
+========================================================== */
 
-"use strict";
+document.addEventListener("DOMContentLoaded", () => {
 
-/*=====================================================
-DOM Elements
-======================================================*/
+    /* ==========================================
+       Back To Top Button
+    ========================================== */
 
-const navbar = document.querySelector(".navbar");
-const mobileMenu = document.querySelector(".mobile-menu");
-const navLinks = document.querySelector(".nav-links");
-const navItems = document.querySelectorAll(".nav-links a");
+    const backToTop = document.getElementById("backToTop");
 
-const searchInput = document.querySelector(".search-input input");
-const searchButton = document.querySelector(".hero-search .primary-btn");
+    window.addEventListener("scroll", () => {
 
-/*=====================================================
-Mobile Navigation
-======================================================*/
+        if (window.scrollY > 400) {
 
-if (mobileMenu && navLinks) {
+            backToTop.classList.add("show");
 
-    mobileMenu.addEventListener("click", () => {
+        } else {
 
-        navLinks.classList.toggle("active");
+            backToTop.classList.remove("show");
 
-        mobileMenu.classList.toggle("active");
-
-        document.body.classList.toggle("menu-open");
+        }
 
     });
 
-}
+    if (backToTop) {
 
-/*=====================================================
-Close Mobile Menu
-======================================================*/
+        backToTop.addEventListener("click", () => {
 
-navItems.forEach(link => {
+            window.scrollTo({
 
-    link.addEventListener("click", () => {
+                top: 0,
 
-        navLinks.classList.remove("active");
+                behavior: "smooth"
 
-        mobileMenu.classList.remove("active");
+            });
 
-        document.body.classList.remove("menu-open");
-
-    });
-
-});
-
-/*=====================================================
-Sticky Navbar
-======================================================*/
-
-window.addEventListener("scroll", () => {
-
-    if (window.scrollY > 20) {
-
-        navbar.classList.add("sticky");
-
-    } else {
-
-        navbar.classList.remove("sticky");
+        });
 
     }
 
-});
+    /* ==========================================
+       Sticky Header Shadow
+    ========================================== */
 
-/*=====================================================
-Smooth Scroll
-======================================================*/
+    const header = document.querySelector(".header");
 
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    window.addEventListener("scroll", () => {
 
-    anchor.addEventListener("click", function (e) {
+        if (window.scrollY > 20) {
 
-        const target = document.querySelector(
-            this.getAttribute("href")
-        );
+            header.style.boxShadow = "0 10px 30px rgba(15,23,42,.08)";
 
-        if (!target) return;
+        } else {
 
-        e.preventDefault();
+            header.style.boxShadow = "none";
 
-        target.scrollIntoView({
+        }
 
-            behavior: "smooth",
+    });
 
-            block: "start"
+    /* ==========================================
+       Scroll Animation
+    ========================================== */
+
+    const observer = new IntersectionObserver((entries) => {
+
+        entries.forEach(entry => {
+
+            if (entry.isIntersecting) {
+
+                entry.target.classList.add("show");
+
+            }
+
+        });
+
+    }, {
+
+        threshold: 0.15
+
+    });
+
+    document.querySelectorAll(
+
+        "section,.career-card,.field-card,.university-card,.counsellor-card,.spotlight-card"
+
+    ).forEach(item => {
+
+        item.classList.add("hidden");
+
+        observer.observe(item);
+
+    });
+
+    /* ==========================================
+       Smooth Anchor Navigation
+    ========================================== */
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+
+        anchor.addEventListener("click", function (e) {
+
+            const target = document.querySelector(this.getAttribute("href"));
+
+            if (!target) return;
+
+            e.preventDefault();
+
+            target.scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "start"
+
+            });
 
         });
 
     });
 
-});
+    /* ==========================================
+       Mobile Menu
+       (Temporary)
+    ========================================== */
 
-/*=====================================================
-Active Navigation
-======================================================*/
+    const menuButton = document.querySelector(".mobile-menu");
 
-const sections = document.querySelectorAll("section[id]");
+    const desktopMenu = document.querySelector(".desktop-menu");
 
-window.addEventListener("scroll", () => {
+    if (menuButton) {
 
-    let currentSection = "";
+        menuButton.addEventListener("click", () => {
 
-    sections.forEach(section => {
+            desktopMenu.classList.toggle("mobile-open");
 
-        const top = section.offsetTop - 90;
-
-        if (window.scrollY >= top) {
-
-            currentSection = section.id;
-
-        }
-
-    });
-
-    navItems.forEach(link => {
-
-        link.classList.remove("active");
-
-        if (link.getAttribute("href") === "#" + currentSection) {
-
-            link.classList.add("active");
-
-        }
-
-    });
-
-});
-
-/*=====================================================
-Search
-======================================================*/
-
-function performSearch() {
-
-    const keyword = searchInput.value.trim();
-
-    if (keyword === "") {
-
-        searchInput.focus();
-
-        return;
+        });
 
     }
 
-    console.log("Searching:", keyword);
+    /* ==========================================
+       Search
+    ========================================== */
 
-    // Future Integration
-    // Career Search API
-    // University Search API
-    // Counsellor Search API
+    const searchInput = document.querySelector(".search-box input");
 
-}
+    const searchButton = document.querySelector(".search-box button");
 
-if (searchButton) {
+    function performSearch() {
 
-    searchButton.addEventListener(
+        const keyword = searchInput.value.trim();
 
-        "click",
+        if (keyword === "") {
 
-        performSearch
+            alert("Please enter a career, university or counsellor.");
 
-    );
+            searchInput.focus();
 
-}
+            return;
 
-if (searchInput) {
+        }
 
-    searchInput.addEventListener(
+        console.log("Searching for:", keyword);
 
-        "keydown",
+        /*
+        Future Integration
 
-        e => {
+        window.location.href =
+        "search/index.html?q=" +
+        encodeURIComponent(keyword);
+        */
+
+    }
+
+    if (searchButton) {
+
+        searchButton.addEventListener("click", performSearch);
+
+    }
+
+    if (searchInput) {
+
+        searchInput.addEventListener("keypress", (e) => {
 
             if (e.key === "Enter") {
 
@@ -188,354 +190,84 @@ if (searchInput) {
 
             }
 
-        }
-
-    );
-
-}
-
-/*=====================================================
-Keyboard Shortcut
-CTRL + /
-Focus Search
-======================================================*/
-
-document.addEventListener("keydown", e => {
-
-    if (e.ctrlKey && e.key === "/") {
-
-        e.preventDefault();
-
-        searchInput.focus();
+        });
 
     }
 
-});
+    /* ==========================================
+       Active Card Effect
+    ========================================== */
 
-/*=====================================================
-Console
-======================================================*/
+    document.querySelectorAll(
 
-console.log(
+        ".career-card,.field-card,.university-card,.counsellor-card,.spotlight-card"
 
-    "%cCareer Guide v3 Loaded",
+    ).forEach(card => {
 
-    "color:#2563eb;font-size:15px;font-weight:bold"
+        card.addEventListener("mousedown", () => {
 
-);
-/*=====================================================
- Career Guide Platform
- home.js v3.0
- Part 2
- Reveal • Counter • Back To Top
- Utilities
-======================================================*/
+            card.style.transform = "scale(.98)";
 
-/*=====================================================
-Reveal Animation
-(Lightweight & Mobile Friendly)
-======================================================*/
+        });
 
-const revealItems = document.querySelectorAll(
+        card.addEventListener("mouseup", () => {
 
-    ".career-card,\
-     .university-card,\
-     .counsellor-item,\
-     .school-card,\
-     .dashboard-card,\
-     .feature-tile,\
-     .event-item"
+            card.style.transform = "";
 
-);
+        });
 
-const revealObserver = new IntersectionObserver(
+        card.addEventListener("mouseleave", () => {
 
-(entries)=>{
+            card.style.transform = "";
 
-    entries.forEach(entry=>{
-
-        if(entry.isIntersecting){
-
-            entry.target.classList.add("show");
-
-            revealObserver.unobserve(entry.target);
-
-        }
+        });
 
     });
 
-},
+    /* ==========================================
+       Navbar Active Link
+    ========================================== */
 
-{
+    const navLinks = document.querySelectorAll(".desktop-menu a");
 
-    threshold:0.12
+    window.addEventListener("scroll", () => {
 
-}
+        let current = "";
 
-);
+        document.querySelectorAll("section").forEach(section => {
 
-revealItems.forEach(item=>{
+            const sectionTop = section.offsetTop - 120;
 
-    item.classList.add("hidden");
+            if (pageYOffset >= sectionTop) {
 
-    revealObserver.observe(item);
+                current = section.getAttribute("id");
 
-});
+            }
 
-/*=====================================================
-Statistics Counter
-======================================================*/
+        });
 
-const counters=document.querySelectorAll(".mini-stat h3");
+        navLinks.forEach(link => {
 
-const counterObserver=new IntersectionObserver(
+            link.classList.remove("active");
 
-(entries)=>{
+            if (link.getAttribute("href") === "#" + current) {
 
-entries.forEach(entry=>{
+                link.classList.add("active");
 
-if(!entry.isIntersecting) return;
+            }
 
-const counter=entry.target;
+        });
 
-const finalValue=parseInt(
+    });
 
-counter.innerText.replace(/\D/g,"")
+    /* ==========================================
+       Page Loaded
+    ========================================== */
 
-);
-
-let value=0;
-
-const speed=Math.max(
-
-10,
-
-Math.floor(finalValue/80)
-
-);
-
-function update(){
-
-value+=speed;
-
-if(value>=finalValue){
-
-counter.innerText=finalValue+"+";
-
-return;
-
-}
-
-counter.innerText=value+"+";
-
-requestAnimationFrame(update);
-
-}
-
-update();
-
-counterObserver.unobserve(counter);
+    document.body.classList.add("loaded");
 
 });
 
-},
-
-{
-
-threshold:.5
-
-}
-
-);
-
-counters.forEach(counter=>{
-
-counterObserver.observe(counter);
-
-});
-
-/*=====================================================
-Back To Top Button
-======================================================*/
-
-const topButton=document.createElement("button");
-
-topButton.className="back-to-top";
-
-topButton.innerHTML=
-
-'<i class="bi bi-arrow-up"></i>';
-
-document.body.appendChild(topButton);
-
-window.addEventListener(
-
-"scroll",
-
-()=>{
-
-if(window.scrollY>400){
-
-topButton.classList.add("show");
-
-}else{
-
-topButton.classList.remove("show");
-
-}
-
-}
-
-);
-
-topButton.addEventListener(
-
-"click",
-
-()=>{
-
-window.scrollTo({
-
-top:0,
-
-behavior:"smooth"
-
-});
-
-}
-
-);
-
-/*=====================================================
-Card Hover Effect
-(Mobile Safe)
-======================================================*/
-
-document.querySelectorAll(
-
-".career-card,\
-.dashboard-card,\
-.school-card"
-
-).forEach(card=>{
-
-card.addEventListener(
-
-"touchstart",
-
-()=>{
-
-card.classList.add("active-card");
-
-},
-
-{passive:true}
-
-);
-
-card.addEventListener(
-
-"touchend",
-
-()=>{
-
-setTimeout(()=>{
-
-card.classList.remove("active-card");
-
-},180);
-
-},
-
-{passive:true}
-
-);
-
-});
-
-/*=====================================================
-Lazy Image Loader
-======================================================*/
-
-const lazyImages=document.querySelectorAll(
-
-"img[data-src]"
-
-);
-
-if(lazyImages.length){
-
-const imageObserver=new IntersectionObserver(
-
-(entries)=>{
-
-entries.forEach(entry=>{
-
-if(entry.isIntersecting){
-
-const image=entry.target;
-
-image.src=image.dataset.src;
-
-image.removeAttribute("data-src");
-
-imageObserver.unobserve(image);
-
-}
-
-});
-
-}
-
-);
-
-lazyImages.forEach(image=>{
-
-imageObserver.observe(image);
-
-});
-
-}
-
-/*=====================================================
-Page Loaded
-======================================================*/
-
-window.addEventListener(
-
-"load",
-
-()=>{
-
-document.body.classList.add("loaded");
-
-});
-
-/*=====================================================
-Future Modules
-
-Authentication
-
-Student Dashboard
-
-Counsellor Dashboard
-
-School Dashboard
-
-University Dashboard
-
-Admin Dashboard
-
-======================================================*/
-
-console.log(
-
-"%cCareer Guide Homepage Ready",
-
-"color:#16a34a;font-size:15px;font-weight:bold"
-
-);
-
-/*=====================================================
-End of File
-======================================================*/
+/* ==========================================================
+   End of File
+========================================================== */

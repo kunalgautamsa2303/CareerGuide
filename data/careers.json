@@ -4,200 +4,71 @@
       "id": "engineering",
       "name": "Engineering",
       "icon": "💻",
-      "careers": [
-        {
-          "id": "computer-science-engineer",
-          "name": "Computer Science Engineer",
-          "salary": "8-25 LPA",
-          "futureScope": "Excellent",
-          "education": "B.Tech / B.E.",
-          "aiImpact": "Medium"
-        },
-        {
-          "id": "mechanical-engineer",
-          "name": "Mechanical Engineer",
-          "salary": "5-18 LPA",
-          "futureScope": "Good",
-          "education": "B.Tech / B.E.",
-          "aiImpact": "Low"
-        },
-        {
-          "id": "civil-engineer",
-          "name": "Civil Engineer",
-          "salary": "4-15 LPA",
-          "futureScope": "Good",
-          "education": "B.Tech / B.E.",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Technology, innovation and engineering careers.",
+      "file": "engineering.json"
     },
     {
       "id": "medicine",
       "name": "Medicine",
       "icon": "🩺",
-      "careers": [
-        {
-          "id": "doctor",
-          "name": "Doctor",
-          "salary": "8-50 LPA",
-          "futureScope": "Excellent",
-          "education": "MBBS",
-          "aiImpact": "Low"
-        },
-        {
-          "id": "dentist",
-          "name": "Dentist",
-          "salary": "5-25 LPA",
-          "futureScope": "Good",
-          "education": "BDS",
-          "aiImpact": "Low"
-        },
-        {
-          "id": "physiotherapist",
-          "name": "Physiotherapist",
-          "salary": "4-15 LPA",
-          "futureScope": "Good",
-          "education": "BPT",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Healthcare, medicine and allied health sciences.",
+      "file": "medicine.json"
     },
     {
       "id": "design",
       "name": "Design",
       "icon": "🎨",
-      "careers": [
-        {
-          "id": "ux-designer",
-          "name": "UX Designer",
-          "salary": "6-25 LPA",
-          "futureScope": "Excellent",
-          "education": "Design Degree / Certification",
-          "aiImpact": "Medium"
-        },
-        {
-          "id": "fashion-designer",
-          "name": "Fashion Designer",
-          "salary": "4-20 LPA",
-          "futureScope": "Good",
-          "education": "Fashion Design Degree",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Creative careers in design and innovation.",
+      "file": "design.json"
     },
     {
       "id": "law",
       "name": "Law",
       "icon": "⚖️",
-      "careers": [
-        {
-          "id": "advocate",
-          "name": "Advocate",
-          "salary": "5-30 LPA",
-          "futureScope": "Excellent",
-          "education": "LLB",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Legal, judicial and corporate law careers.",
+      "file": "law.json"
     },
     {
       "id": "management",
       "name": "Management",
       "icon": "📈",
-      "careers": [
-        {
-          "id": "product-manager",
-          "name": "Product Manager",
-          "salary": "12-40 LPA",
-          "futureScope": "Excellent",
-          "education": "MBA Preferred",
-          "aiImpact": "Medium"
-        }
-      ]
+      "description": "Business, entrepreneurship and leadership careers.",
+      "file": "management.json"
     },
     {
       "id": "ai-data-science",
       "name": "AI & Data Science",
       "icon": "🤖",
-      "careers": [
-        {
-          "id": "ai-engineer",
-          "name": "Artificial Intelligence Engineer",
-          "salary": "10-40 LPA",
-          "futureScope": "Excellent",
-          "education": "B.Tech / AI Specialization",
-          "aiImpact": "Creator"
-        },
-        {
-          "id": "data-scientist",
-          "name": "Data Scientist",
-          "salary": "8-35 LPA",
-          "futureScope": "Excellent",
-          "education": "B.Tech / Statistics",
-          "aiImpact": "Creator"
-        }
-      ]
+      "description": "Artificial Intelligence, Machine Learning and Data careers.",
+      "file": "ai-data-science.json"
     },
     {
       "id": "commerce-finance",
       "name": "Commerce & Finance",
       "icon": "💰",
-      "careers": [
-        {
-          "id": "chartered-accountant",
-          "name": "Chartered Accountant",
-          "salary": "7-30 LPA",
-          "futureScope": "Excellent",
-          "education": "CA",
-          "aiImpact": "Medium"
-        }
-      ]
+      "description": "Accounting, banking and finance careers.",
+      "file": "finance.json"
     },
     {
       "id": "psychology",
       "name": "Psychology",
       "icon": "🧠",
-      "careers": [
-        {
-          "id": "clinical-psychologist",
-          "name": "Clinical Psychologist",
-          "salary": "5-20 LPA",
-          "futureScope": "Excellent",
-          "education": "M.A./M.Sc. Psychology",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Mental health and behavioural science careers.",
+      "file": "psychology.json"
     },
     {
       "id": "media-communication",
       "name": "Media & Communication",
       "icon": "🎥",
-      "careers": [
-        {
-          "id": "journalist",
-          "name": "Journalist",
-          "salary": "4-18 LPA",
-          "futureScope": "Good",
-          "education": "Mass Communication",
-          "aiImpact": "Medium"
-        }
-      ]
+      "description": "Media, journalism and communication careers.",
+      "file": "media.json"
     },
     {
       "id": "architecture",
       "name": "Architecture",
       "icon": "🏗️",
-      "careers": [
-        {
-          "id": "architect",
-          "name": "Architect",
-          "salary": "6-25 LPA",
-          "futureScope": "Excellent",
-          "education": "B.Arch",
-          "aiImpact": "Low"
-        }
-      ]
+      "description": "Architecture, planning and construction careers.",
+      "file": "architecture.json"
     }
   ]
 }
-

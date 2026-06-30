@@ -1,0 +1,377 @@
+/* ==========================================================
+   CAREER GUIDE
+   CAREER LIBRARY
+========================================================== */
+
+/* ===========================
+   HERO
+=========================== */
+
+.career-hero{
+    padding:80px 0 50px;
+    background:linear-gradient(180deg,#ffffff 0%,#f8fafc 100%);
+    text-align:center;
+}
+
+.hero-tag{
+    display:inline-block;
+    padding:8px 18px;
+    border-radius:50px;
+    background:#EEF4FF;
+    color:#2563EB;
+    font-size:.85rem;
+    font-weight:600;
+    margin-bottom:18px;
+}
+
+.career-hero h1{
+    font-size:2.8rem;
+    font-weight:700;
+    color:#111827;
+    margin-bottom:18px;
+    line-height:1.2;
+}
+
+.career-hero p{
+    max-width:700px;
+    margin:auto;
+    color:#6B7280;
+    font-size:1.05rem;
+    line-height:1.8;
+}
+
+/* ===========================
+   SEARCH
+=========================== */
+
+.career-search{
+    margin-top:-28px;
+    margin-bottom:50px;
+}
+
+.search-box{
+    max-width:720px;
+    margin:auto;
+    background:#ffffff;
+    border-radius:60px;
+    display:flex;
+    align-items:center;
+    padding:18px 24px;
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+    border:1px solid #E5E7EB;
+}
+
+.search-box i{
+    color:#2563EB;
+    font-size:1.15rem;
+    margin-right:15px;
+}
+
+.search-box input{
+    flex:1;
+    border:none;
+    outline:none;
+    background:none;
+    font-size:1rem;
+    font-family:inherit;
+}
+
+.search-box input::placeholder{
+    color:#9CA3AF;
+}
+
+/* ===========================
+   LIBRARY
+=========================== */
+
+.career-library{
+    padding-bottom:80px;
+}
+
+.library-heading{
+    text-align:center;
+    margin-bottom:50px;
+}
+
+.library-heading h2{
+    font-size:2rem;
+    color:#111827;
+    margin-bottom:12px;
+}
+
+.library-heading p{
+    color:#6B7280;
+}
+
+/* ===========================
+   GRID
+=========================== */
+
+.career-grid{
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(300px,1fr));
+
+    gap:30px;
+
+}
+
+/* ===========================
+   DOMAIN CARD
+=========================== */
+
+.career-card{
+
+    background:#ffffff;
+
+    border-radius:20px;
+
+    padding:28px;
+
+    border:1px solid #ECECEC;
+
+    transition:.35s ease;
+
+    cursor:pointer;
+
+    display:flex;
+
+    flex-direction:column;
+
+    height:100%;
+
+}
+
+.career-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 40px rgba(0,0,0,.08);
+
+    border-color:#2563EB;
+
+}
+
+.career-icon{
+
+    width:72px;
+
+    height:72px;
+
+    border-radius:18px;
+
+    background:#EEF4FF;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:30px;
+
+    color:#2563EB;
+
+    margin-bottom:22px;
+
+}
+
+.career-card h3{
+
+    font-size:1.35rem;
+
+    margin-bottom:12px;
+
+    color:#111827;
+
+}
+
+.career-card p{
+
+    color:#6B7280;
+
+    line-height:1.7;
+
+    margin-bottom:25px;
+
+    flex:1;
+
+}
+
+.career-meta{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-top:auto;
+
+}
+
+.career-count{
+
+    color:#2563EB;
+
+    font-weight:600;
+
+}
+
+.explore-btn{
+
+    color:#2563EB;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+}
+
+.career-card:hover .explore-btn{
+
+    transform:translateX(6px);
+
+}
+
+/* ===========================
+   CTA
+=========================== */
+
+.career-cta{
+
+    padding:80px 0;
+
+}
+
+.cta-card{
+
+    background:#2563EB;
+
+    color:#ffffff;
+
+    border-radius:24px;
+
+    padding:60px;
+
+    text-align:center;
+
+}
+
+.cta-tag{
+
+    display:inline-block;
+
+    padding:8px 18px;
+
+    border-radius:40px;
+
+    background:rgba(255,255,255,.15);
+
+    margin-bottom:20px;
+
+    font-size:.9rem;
+
+}
+
+.cta-card h2{
+
+    font-size:2rem;
+
+    margin-bottom:20px;
+
+}
+
+.cta-card p{
+
+    max-width:650px;
+
+    margin:0 auto 35px;
+
+    line-height:1.8;
+
+    opacity:.92;
+
+}
+
+.cta-buttons{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+.page-footer{
+
+    background:#ffffff;
+
+    padding:60px 0;
+
+    border-top:1px solid #E5E7EB;
+
+    text-align:center;
+
+}
+
+.footer-logo{
+
+    font-size:1.7rem;
+
+    font-weight:700;
+
+    margin-bottom:15px;
+
+}
+
+.footer-logo span{
+
+    color:#2563EB;
+
+}
+
+.footer-links{
+
+    margin:30px 0;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:25px;
+
+    flex-wrap:wrap;
+
+}
+
+.footer-links a{
+
+    text-decoration:none;
+
+    color:#374151;
+
+}
+
+.footer-links a:hover{
+
+    color:#2563EB;
+
+}
+
+.footer-bottom{
+
+    color:#9CA3AF;
+
+    font-size:.9rem;
+
+}

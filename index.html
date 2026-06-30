@@ -4,1096 +4,345 @@
 <head>
 
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Career Guide | India's Career Guidance Platform</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>USSC Connect | Career Discovery & Education Network</title>
 
     <meta name="description"
-        content="Career Guide helps students discover careers, explore universities, connect with certified career counsellors and make informed career decisions.">
+          content="USSC Connect helps students explore careers, discover universities, connect with schools and certified career counsellors.">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
 
     <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
-    <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet"
+          href="assets/css/variables.css">
+
+    <link rel="stylesheet"
+          href="assets/css/base.css">
+
+    <link rel="stylesheet"
+          href="assets/css/components.css">
+
+    <link rel="stylesheet"
+          href="assets/css/app-home.css">
+
+    <link rel="stylesheet"
+          href="assets/css/responsive.css">
 
 </head>
 
 <body>
 
-<!-- =========================================
-Navbar
-========================================= -->
+<!-- =========================================================
+HEADER
+========================================================= -->
 
 <header class="header">
 
-<nav class="navbar">
+    <div class="container nav-container">
 
-<div class="container">
+        <!-- Logo -->
 
-<a href="#" class="logo">
+        <a href="index.html" class="logo">
 
-<i class="bi bi-compass-fill"></i>
+            <div class="logo-mark">
 
-<span>Career Guide</span>
+                <img src="assets/images/logo.png"
+     alt="USSC Connect Logo">
 
-</a>
+            </div>
 
-<ul class="nav-links">
+            <div class="logo-info">
 
-<li><a href="#careers">Careers</a></li>
+                <h2>USSC Connect</h2>
 
-<li><a href="#universities">Universities</a></li>
+                <span>Career Discovery & Education Network</span>
 
-<li><a href="#counsellors">Counsellors</a></li>
+            </div>
 
-<li><a href="#schools">Schools</a></li>
+        </a>
 
-<li><a href="#dashboards">Dashboards</a></li>
+        <!-- Navigation -->
 
-</ul>
+        <nav class="desktop-nav">
 
-<div class="nav-action">
+            <a href="index.html">Home</a>
 
-<a href="#" class="login-btn">
+            <a href="careers/index.html">Career Library</a>
 
-Login
+            <a href="#">Universities</a>
 
-</a>
+            <a href="#">Career Assessment</a>
 
-<a href="#" class="primary-btn">
+            <a href="#">School Connect</a>
 
-Get Started
+            <a href="#">Contact</a>
 
-</a>
+        </nav>
 
-</div>
+        <!-- Search -->
 
-<div class="mobile-menu">
+        <div class="header-search">
 
-<i class="bi bi-list"></i>
+            <i class="bi bi-search"></i>
 
-</div>
+            <input type="text"
+                   placeholder="Search careers, universities, counsellors...">
 
-</div>
+        </div>
 
-</nav>
+        <!-- Button -->
 
-<!-- =========================================
-Hero
-========================================= -->
+        <a href="#"
+           id="getStartedBtn"
+           class="btn-primary">
 
-<section class="hero">
+            Get Started
 
-<div class="container hero-grid">
+        </a>
 
-<div class="hero-content">
-
-<div class="hero-tag">
-
-<i class="bi bi-stars"></i>
-
-<span>Career Guidance Made Simple</span>
-
-</div>
-
-<h1>
-
-Discover the Right Career.
-
-Choose the Right Future.
-
-</h1>
-
-<p>
-
-Search careers, universities and certified career counsellors from one powerful platform.
-
-</p>
-
-<!-- Search -->
-
-<div class="hero-search">
-
-<div class="search-input">
-
-<i class="bi bi-search"></i>
-
-<input
-type="text"
-placeholder="Search careers, universities or counsellors">
-
-</div>
-
-<button class="primary-btn">
-
-Search
-
-</button>
-
-</div>
-
-<!-- Quick Categories -->
-
-<div class="quick-tags">
-
-<span>Design</span>
-
-<span>Engineering</span>
-
-<span>Medical</span>
-
-<span>Management</span>
-
-<span>Law</span>
-
-<span>More +</span>
-
-</div>
-
-<!-- Quick Statistics -->
-
-<div class="quick-stats">
-
-<div class="mini-stat">
-
-<h3>2500+</h3>
-
-<p>Careers</p>
-
-</div>
-
-<div class="mini-stat">
-
-<h3>1800+</h3>
-
-<p>Universities</p>
-
-</div>
-
-<div class="mini-stat">
-
-<h3>800+</h3>
-
-<p>Counsellors</p>
-
-</div>
-
-<div class="mini-stat">
-
-<h3>1200+</h3>
-
-<p>Schools</p>
-
-</div>
-
-</div>
-
-</div>
-
-<!-- Hero Illustration -->
-
-<div class="hero-visual">
-
-<div class="hero-card">
-
-<div class="hero-card-icon">
-
-<i class="bi bi-mortarboard-fill"></i>
-
-</div>
-
-<h3>
-
-Start Your Career Journey
-
-</h3>
-
-<p>
-
-Explore careers, compare universities and connect with expert counsellors.
-
-</p>
-
-<div class="hero-actions">
-
-<div>
-
-<i class="bi bi-check-circle-fill"></i>
-
-Verified Counsellors
-
-</div>
-
-<div>
-
-<i class="bi bi-check-circle-fill"></i>
-
-Career Library
-
-</div>
-
-<div>
-
-<i class="bi bi-check-circle-fill"></i>
-
-University Directory
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</section>
+    </div>
 
 </header>
 
-<main>
+<!-- =========================================================
+HERO
+========================================================= -->
 
-<!-- =========================================
-Career Library
-========================================= -->
+<section class="hero">
 
-<section id="careers" class="section">
+    <div class="container hero-wrapper">
 
-<div class="container">
+        <!-- Left -->
 
-<div class="section-title">
+        <div class="hero-content">
 
-<div>
+            <span class="hero-badge">
 
-<h2>
+                <i class="bi bi-stars"></i>
 
-Career Library
+                India's Career Guidance & Education Platform
 
-</h2>
+            </span>
 
-<p>
+            <h1>
 
-Explore popular career domains.
+                Discover Your
 
-</p>
+                <span>Ideal Career Path</span>
 
-</div>
+                With Confidence
 
-<a href="#">
+            </h1>
 
-View All Careers
+            <p>
 
-<i class="bi bi-arrow-right"></i>
+                Explore careers, discover universities,
+                connect with schools, take career assessments
+                and receive expert guidance through one
+                integrated education platform.
 
-</a>
+            </p>
 
-</div>
+            <!-- Search -->
 
-<div class="career-grid">
+            <div class="hero-search">
 
-<article class="career-card">
+                <i class="bi bi-search"></i>
 
-<i class="bi bi-palette-fill"></i>
+                <input type="text"
+                       placeholder="Search careers, courses, entrance exams...">
 
-<h3>Design</h3>
+                <button>
 
-<p>
+                    Search
 
-UI/UX, Fashion,
-Animation,
-Interior,
-Communication.
+                </button>
 
-</p>
+            </div>
 
-</article>
+            <!-- Buttons -->
 
-<article class="career-card">
+            <div class="hero-actions">
 
-<i class="bi bi-cpu-fill"></i>
+                <a href="careers/index.html"
+                   class="btn-primary">
 
-<h3>Engineering</h3>
+                    Explore Careers
 
-<p>
+                </a>
 
-Computer Science,
-AI,
-Mechanical,
-Civil.
+                <a href="#"
+                   class="btn-outline">
 
-</p>
+                    Career Assessment
 
-</article>
+                </a>
 
-<article class="career-card">
+            </div>
 
-<i class="bi bi-heart-pulse-fill"></i>
+            <!-- Trust -->
 
-<h3>Medical</h3>
+            <div class="trusted-users">
 
-<p>
+                <i class="bi bi-patch-check-fill"
+                   style="font-size:32px;color:#2563EB;"></i>
 
-Medicine,
-Dentistry,
-Nursing,
-Pharmacy.
+                <div class="trusted-text">
 
-</p>
+                    <strong>
 
-</article>
+                        Trusted by Students, Schools,
+                        Universities & Career Experts
 
-<article class="career-card">
+                    </strong>
 
-<i class="bi bi-bank2"></i>
+                    <span>
 
-<h3>Management</h3>
+                        One platform for career guidance,
+                        admissions and counselling.
 
-<p>
-
-Business,
-Finance,
-Marketing,
-Entrepreneurship.
-
-</p>
-
-</article>
-
-<article class="career-card">
-
-<i class="bi bi-globe2"></i>
-
-<h3>Liberal Arts</h3>
-
-<p>
-
-Psychology,
-Economics,
-Political Science.
-
-</p>
-
-</article>
-
-<article class="career-card">
-
-<i class="bi bi-laptop"></i>
-
-<h3>Technology</h3>
-
-<p>
-
-Cloud,
-Cyber Security,
-Software,
-Data Science.
-
-</p>
-
-</article>
-
-</div>
-
-</div>
-
-</section>
-
-        <!-- =========================================
-        University Directory
-        ========================================== -->
-
-        <section id="universities" class="section bg-light">
-
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>University Directory</h2>
-
-                        <p>Find the right university for your career goals.</p>
-
-                    </div>
-
-                    <a href="#">
-
-                        View All Universities
-
-                        <i class="bi bi-arrow-right"></i>
-
-                    </a>
-
-                </div>
-
-                <!-- Filters -->
-
-                <div class="filter-chips">
-
-                    <button class="chip active">All</button>
-
-                    <button class="chip">Design</button>
-
-                    <button class="chip">Engineering</button>
-
-                    <button class="chip">Medical</button>
-
-                    <button class="chip">Management</button>
-
-                    <button class="chip">Law</button>
-
-                </div>
-
-                <!-- Compact Cards -->
-
-                <div class="university-grid">
-
-                    <article class="university-card">
-
-                        <i class="bi bi-building"></i>
-
-                        <div>
-
-                            <h3>Design Universities</h3>
-
-                            <p>Product • Fashion • Interior</p>
-
-                        </div>
-
-                    </article>
-
-                    <article class="university-card">
-
-                        <i class="bi bi-laptop"></i>
-
-                        <div>
-
-                            <h3>Engineering</h3>
-
-                            <p>CS • AI • Robotics</p>
-
-                        </div>
-
-                    </article>
-
-                    <article class="university-card">
-
-                        <i class="bi bi-heart-pulse"></i>
-
-                        <div>
-
-                            <h3>Medical</h3>
-
-                            <p>MBBS • BDS • Nursing</p>
-
-                        </div>
-
-                    </article>
-
-                    <article class="university-card">
-
-                        <i class="bi bi-airplane"></i>
-
-                        <div>
-
-                            <h3>Study Abroad</h3>
-
-                            <p>USA • UK • Canada</p>
-
-                        </div>
-
-                    </article>
+                    </span>
 
                 </div>
 
             </div>
 
-        </section>
+        </div>
 
-        <!-- =========================================
-        Certified Career Counsellors
-        ========================================== -->
+        <!-- Right -->
 
-        <section id="counsellors" class="section">
+        <div class="hero-panel">
 
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>Certified Career Counsellors</h2>
-
-                        <p>Book a counselling session with verified experts.</p>
-
-                    </div>
-
-                    <a href="#">
-
-                        View All Counsellors
-
-                        <i class="bi bi-arrow-right"></i>
-
-                    </a>
-
-                </div>
-
-                <!-- Compact List -->
-
-                <div class="counsellor-list">
-
-                    <div class="counsellor-item">
-
-                        <img src="assets/images/counsellors/counsellor-1.jpg"
-                            alt="Counsellor">
-
-                        <div class="counsellor-info">
-
-                            <h4>Priya Sharma</h4>
-
-                            <span>12 Years Experience</span>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Book
-
-                        </button>
-
-                    </div>
-
-                    <div class="counsellor-item">
-
-                        <img src="assets/images/counsellors/counsellor-2.jpg"
-                            alt="Counsellor">
-
-                        <div class="counsellor-info">
-
-                            <h4>Rahul Mehta</h4>
-
-                            <span>9 Years Experience</span>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Book
-
-                        </button>
-
-                    </div>
-
-                    <div class="counsellor-item">
-
-                        <img src="assets/images/counsellors/counsellor-3.jpg"
-                            alt="Counsellor">
-
-                        <div class="counsellor-info">
-
-                            <h4>Neha Kapoor</h4>
-
-                            <span>15 Years Experience</span>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Book
-
-                        </button>
-
-                    </div>
-
-                    <div class="counsellor-item">
-
-                        <img src="assets/images/counsellors/counsellor-4.jpg"
-                            alt="Counsellor">
-
-                        <div class="counsellor-info">
-
-                            <h4>Amit Verma</h4>
-
-                            <span>10 Years Experience</span>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Book
-
-                        </button>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-        <!-- =========================================
-        School Connect
-        ========================================== -->
-
-        <section id="schools" class="section bg-light">
-
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>School Connect</h2>
-
-                        <p>Premium collaboration platform for schools and universities.</p>
-
-                    </div>
-
-                </div>
-
-                <div class="school-grid">
-
-                    <!-- Career Workshops -->
-
-                    <article class="school-card">
-
-                        <div class="school-header">
-
-                            <i class="bi bi-easel2-fill"></i>
-
-                            <h3>Career Workshops</h3>
-
-                        </div>
-
-                        <div class="school-body">
-
-                            <div>
-
-                                <h4>Schools</h4>
-
-                                <ul>
-
-                                    <li>Request Workshop</li>
-
-                                    <li>Workshop Status</li>
-
-                                    <li>Workshop History</li>
-
-                                </ul>
-
-                            </div>
-
-                            <div>
-
-                                <h4>Universities</h4>
-
-                                <ul>
-
-                                    <li>Publish Workshop</li>
-
-                                    <li>Accept Requests</li>
-
-                                    <li>Manage Sessions</li>
-
-                                </ul>
-
-                            </div>
-
-                        </div>
-
-                        <span class="premium-tag">
-
-                            Premium
-
-                        </span>
-
-                    </article>
-
-                    <!-- Career Fairs -->
-
-                    <article class="school-card">
-
-                        <div class="school-header">
-
-                            <i class="bi bi-people-fill"></i>
-
-                            <h3>Career Fairs</h3>
-
-                        </div>
-
-                        <div class="school-body">
-
-                            <div>
-
-                                <h4>Schools</h4>
-
-                                <ul>
-
-                                    <li>Request Career Fair</li>
-
-                                    <li>Upcoming Events</li>
-
-                                </ul>
-
-                            </div>
-
-                            <div>
-
-                                <h4>Universities</h4>
-
-                                <ul>
-
-                                    <li>Register</li>
-
-                                    <li>Participate</li>
-
-                                    <li>Invite Schools</li>
-
-                                </ul>
-
-                            </div>
-
-                        </div>
-
-                        <span class="premium-tag">
-
-                            Premium
-
-                        </span>
-
-                    </article>
-
-                </div>
-
-            </div>
-
-        </section>
-        <!-- =========================================
-        Professional Dashboards
-        ========================================== -->
-
-        <section id="dashboards" class="section">
-
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>Professional Dashboards</h2>
-
-                        <p>Dedicated workspace for every user.</p>
-
-                    </div>
-
-                </div>
-
-                <div class="dashboard-grid">
-
-                    <a href="#" class="dashboard-card">
-
-                        <i class="bi bi-person-fill"></i>
-
-                        <span>Student</span>
-
-                    </a>
-
-                    <a href="#" class="dashboard-card">
-
-                        <i class="bi bi-person-workspace"></i>
-
-                        <span>Counsellor</span>
-
-                    </a>
-
-                    <a href="#" class="dashboard-card">
-
-                        <i class="bi bi-building"></i>
-
-                        <span>School</span>
-
-                    </a>
-
-                    <a href="#" class="dashboard-card">
-
-                        <i class="bi bi-mortarboard-fill"></i>
-
-                        <span>University</span>
-
-                    </a>
-
-                    <a href="#" class="dashboard-card">
-
-                        <i class="bi bi-shield-lock-fill"></i>
-
-                        <span>Admin</span>
-
-                    </a>
-
-                </div>
-
-            </div>
-
-        </section>
-
-        <!-- =========================================
-        Why Career Guide
-        ========================================== -->
-
-        <section class="section bg-light">
-
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>Why Career Guide?</h2>
-
-                        <p>Everything required for career guidance in one platform.</p>
-
-                    </div>
-
-                </div>
-
-                <div class="feature-grid">
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-search"></i>
-
-                        <div>
-
-                            <h4>Career Library</h4>
-
-                            <small>Explore thousands of careers.</small>
-
-                        </div>
-
-                    </div>
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-building"></i>
-
-                        <div>
-
-                            <h4>Universities</h4>
-
-                            <small>Compare universities easily.</small>
-
-                        </div>
-
-                    </div>
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-person-check-fill"></i>
-
-                        <div>
-
-                            <h4>Counsellors</h4>
-
-                            <small>Verified professionals.</small>
-
-                        </div>
-
-                    </div>
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-diagram-3-fill"></i>
-
-                        <div>
-
-                            <h4>School Connect</h4>
-
-                            <small>Workshops & Career Fairs.</small>
-
-                        </div>
-
-                    </div>
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-bar-chart-fill"></i>
-
-                        <div>
-
-                            <h4>Dashboards</h4>
-
-                            <small>Dedicated workspaces.</small>
-
-                        </div>
-
-                    </div>
-
-                    <div class="feature-tile">
-
-                        <i class="bi bi-stars"></i>
-
-                        <div>
-
-                            <h4>Career Planning</h4>
-
-                            <small>Assessments & Roadmaps.</small>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-        <!-- =========================================
-        Webinars & Open Houses
-        ========================================== -->
-
-        <section class="section">
-
-            <div class="container">
-
-                <div class="section-title">
-
-                    <div>
-
-                        <h2>Upcoming Sessions</h2>
-
-                    </div>
-
-                    <a href="#">
-
-                        View All
-
-                    </a>
-
-                </div>
-
-                <div class="event-list">
-
-                    <article class="event-item">
-
-                        <div class="event-date">
-
-                            15 JUL
-
-                        </div>
-
-                        <div class="event-content">
-
-                            <h4>Career Planning Webinar</h4>
-
-                            <small>Online • 6:00 PM</small>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Register
-
-                        </button>
-
-                    </article>
-
-                    <article class="event-item">
-
-                        <div class="event-date">
-
-                            22 JUL
-
-                        </div>
-
-                        <div class="event-content">
-
-                            <h4>University Open House</h4>
-
-                            <small>Hybrid Event</small>
-
-                        </div>
-
-                        <button class="book-btn">
-
-                            Register
-
-                        </button>
-
-                    </article>
-
-                </div>
-
-            </div>
-
-        </section>
-
-    </main>
-
-    <!-- =========================================
-    Footer
-    ========================================== -->
-
-    <footer class="footer">
-
-        <div class="container">
-
-            <div class="footer-top">
+            <div class="panel-header">
 
                 <div>
 
-                    <h3>Career Guide</h3>
+                    <h3>Platform Overview</h3>
+
+                    <span>Everything in one place</span>
+
+                </div>
+
+                <i class="bi bi-patch-check-fill verified"></i>
+
+            </div>
+
+            <div class="stats-grid">
+
+                <div class="stat-card">
+
+                    <i class="bi bi-journal-bookmark-fill"></i>
+
+                    <h2>1500+</h2>
+
+                    <p>Career Profiles</p>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <i class="bi bi-buildings-fill"></i>
+
+                    <h2>500+</h2>
+
+                    <p>Universities</p>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <i class="bi bi-person-workspace"></i>
+
+                    <h2>1000+</h2>
+
+                    <p>Career Experts</p>
+
+                </div>
+
+                <div class="stat-card">
+
+                    <i class="bi bi-mortarboard-fill"></i>
+
+                    <h2>500+</h2>
+
+                    <p>Partner Schools</p>
+
+                </div>
+
+            </div>
+
+            <div class="panel-footer">
+
+                <i class="bi bi-lightbulb-fill"></i>
+
+                <div>
+
+                    <strong>
+
+                        Build Your Career Roadmap
+
+                    </strong>
 
                     <p>
 
-                        Helping students discover careers,
-                        connect with counsellors and choose
-                        the right universities.
+                        Make informed education and career
+                        decisions with confidence.
 
                     </p>
 
                 </div>
 
-                <div class="footer-links">
+            </div>
 
-                    <a href="#">Careers</a>
+        </div>
 
-                    <a href="#">Universities</a>
+    </div>
 
-                    <a href="#">Counsellors</a>
+</section>
+<!-- =========================================================
+PLATFORM INTRODUCTION
+========================================================= -->
 
-                    <a href="#">School Connect</a>
+<section class="platform-intro">
 
-                    <a href="#">Webinars</a>
+    <div class="container">
 
-                    <a href="#">Contact</a>
+        <div class="intro-card">
 
-                </div>
+            <div class="intro-icon">
+
+                <i class="bi bi-diagram-3-fill"></i>
 
             </div>
 
-            <div class="footer-bottom">
+            <div class="intro-content">
+
+                <h2>
+
+                    One Platform. Four Stakeholders. Endless Opportunities.
+
+                </h2>
 
                 <p>
 
-                    © 2026 Career Guide. All Rights Reserved.
-
-                </p>
-
-                <p>
-
-                    Designed & Developed by
-
-                    <strong>Kunal Gautam</strong>
+                    USSC Connect brings together Students, Schools,
+                    Universities and Career Counsellors on a single
+                    platform to simplify career guidance, admissions,
+                    institutional collaborations and professional
+                    counselling.
 
                 </p>
 
@@ -1101,9 +350,715 @@ Data Science.
 
         </div>
 
-    </footer>
+    </div>
 
-    <script src="assets/js/home.js"></script>
+</section>
+<!-- =========================================================
+QUICK ACTIONS
+========================================================= -->
+
+<section class="quick-actions">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Quick Access</span>
+
+                <h2>Everything You Need</h2>
+
+            </div>
+
+        </div>
+
+        <div class="quick-grid">
+
+            <!-- Career Library -->
+
+            <article class="quick-card">
+
+                <div class="quick-icon icon-circle">
+
+                    <i class="bi bi-journal-bookmark-fill"></i>
+
+                </div>
+
+                <h3>Career Library</h3>
+
+                <p>
+
+                    Browse detailed career profiles,
+                    eligibility, entrance exams,
+                    salaries and future career scope.
+
+                </p>
+
+                <a href="careers/index.html"
+                   class="btn-outline">
+
+                    Explore
+
+                </a>
+
+            </article>
+
+            <!-- Explore Universities -->
+
+            <article class="quick-card">
+
+                <div class="quick-icon icon-circle">
+
+                    <i class="bi bi-buildings-fill"></i>
+
+                </div>
+
+                <h3>Explore Universities</h3>
+
+                <p>
+
+                    Compare universities,
+                    courses, scholarships,
+                    rankings and admissions.
+
+                </p>
+
+                <a href="#"
+                   class="btn-outline">
+
+                    Explore
+
+                </a>
+
+            </article>
+
+            <!-- Career Assessment -->
+
+            <article class="quick-card premium">
+
+                <div class="quick-icon icon-circle">
+
+                    <i class="bi bi-clipboard2-data-fill"></i>
+
+                </div>
+
+                <h3>Career Assessment</h3>
+
+                <p>
+
+                    Discover your interests,
+                    strengths and ideal career
+                    through psychometric assessment.
+
+                </p>
+
+                <a href="#"
+                   class="btn-primary">
+
+                    Start Assessment
+
+                </a>
+
+            </article>
+
+            <!-- Find a Counsellor -->
+
+            <article class="quick-card">
+
+                <div class="quick-icon icon-circle">
+
+                    <i class="bi bi-person-workspace"></i>
+
+                </div>
+
+                <h3>Find a Counsellor</h3>
+
+                <p>
+
+                    Connect with verified
+                    career counsellors for
+                    personalised career guidance.
+
+                </p>
+
+                <a href="#"
+                   class="btn-outline">
+
+                    Find Experts
+
+                </a>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+EXPLORE USSC CONNECT
+========================================================= -->
+
+<!-- =========================================================
+CHOOSE YOUR WORKSPACE
+========================================================= -->
+
+<section class="platform-section">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Select Your Workspace</span>
+
+                <h2>Choose Your Workspace</h2>
+
+            </div>
+
+            <p>
+
+                Access the workspace designed specifically for your role.
+
+            </p>
+
+        </div>
+
+        <div class="platform-grid">
+
+            <!-- Student Workspace -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-mortarboard-fill"></i>
+
+                </div>
+
+                <h3>Student Workspace</h3>
+
+                <p>
+
+                    Explore careers, universities, entrance exams,
+                    scholarships and track your complete career journey.
+
+                </p>
+
+                <a href="#">
+
+                    Open Workspace
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+            <!-- School Dashboard -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-building-fill-gear"></i>
+
+                </div>
+
+                <h3>School Dashboard</h3>
+
+                <p>
+
+                    Manage students, teachers, career activities,
+                    workshops, competitions and school reports.
+
+                </p>
+
+                <a href="#">
+
+                    Open Dashboard
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+            <!-- University Dashboard -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-bank"></i>
+
+                </div>
+
+                <h3>University Dashboard</h3>
+
+                <p>
+
+                    Manage university profile, courses,
+                    applications, admissions and student enquiries.
+
+                </p>
+
+                <a href="#">
+
+                    Open Dashboard
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+            <!-- Counsellor Workspace -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-person-workspace"></i>
+
+                </div>
+
+                <h3>Counsellor Workspace</h3>
+
+                <p>
+
+                    Manage counselling sessions,
+                    reports, student records,
+                    notes and career roadmaps.
+
+                </p>
+
+                <a href="#">
+
+                    Open Workspace
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+            <!-- School Connect -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-diagram-3-fill"></i>
+
+                </div>
+
+                <h3>School Connect</h3>
+
+                <p>
+
+                    Schools can publish career fairs,
+                    invite universities, organise workshops
+                    and collaborate with institutions.
+
+                </p>
+
+                <a href="#">
+
+                    Explore
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+            <!-- University Connect -->
+
+            <article class="platform-card">
+
+                <div class="platform-icon">
+
+                    <i class="bi bi-send-check-fill"></i>
+
+                </div>
+
+                <h3>University Connect</h3>
+
+                <p>
+
+                    Universities can connect with schools,
+                    publish workshops, open houses,
+                    webinars and outreach programmes.
+
+                </p>
+
+                <a href="#">
+
+                    Explore
+
+                    <i class="bi bi-arrow-right"></i>
+
+                </a>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+CALL TO ACTION
+========================================================= -->
+
+<section class="cta-section">
+
+    <div class="container">
+
+        <div class="cta-card">
+
+            <div class="cta-content">
+
+                <span>
+
+                    START YOUR CAREER JOURNEY TODAY
+
+                </span>
+
+                <h2>
+
+                    Discover the Right Career with
+                    USSC Connect
+
+                </h2>
+
+                <p>
+
+                    Explore careers, discover universities,
+                    connect with schools, take career
+                    assessments and receive guidance from
+                    experienced career professionals —
+                    all on one platform.
+
+                </p>
+
+            </div>
+
+            <div class="cta-buttons">
+
+                <a href="careers/index.html"
+                   class="btn-primary">
+
+                    <i class="bi bi-search"></i>
+
+                    Explore Careers
+
+                </a>
+
+                <a href="#"
+                   id="getStartedBtn2"
+                   class="btn-outline">
+
+                    <i class="bi bi-arrow-right-circle"></i>
+
+                    Get Started
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =========================================================
+FOOTER
+========================================================= -->
+
+<footer class="footer">
+
+    <div class="container">
+
+        <div class="footer-grid">
+
+            <!-- Company -->
+
+            <div>
+
+                <div class="footer-logo">
+
+                    <img src="assets/images/logo.png"
+     alt="USSC Connect Logo">
+
+                    <div>
+
+                        <h3>USSC Connect</h3>
+
+                        <span>
+
+                            Career Discovery & Education Network
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+                <p>
+
+                    USSC Connect is an integrated career
+                    guidance platform connecting students,
+                    schools, universities and career
+                    professionals to help learners make
+                    informed education and career decisions.
+
+                </p>
+
+                <div class="footer-social">
+
+                    <a href="#">
+
+                        <i class="bi bi-facebook"></i>
+
+                    </a>
+
+                    <a href="#">
+
+                        <i class="bi bi-instagram"></i>
+
+                    </a>
+
+                    <a href="#">
+
+                        <i class="bi bi-linkedin"></i>
+
+                    </a>
+
+                    <a href="#">
+
+                        <i class="bi bi-youtube"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+            <!-- Career Library -->
+
+            <div>
+
+                <h4>Career Library</h4>
+
+                <a href="#">Engineering</a>
+
+                <a href="#">Medical</a>
+
+                <a href="#">Design</a>
+
+                <a href="#">Management</a>
+
+                <a href="#">Law</a>
+
+                <a href="#">View All Careers</a>
+
+            </div>
+
+            <!-- Platform -->
+
+            <div>
+
+                <h4>Services</h4>
+
+                <a href="#">Career Library</a>
+
+                <a href="#">University Directory</a>
+
+                <a href="#">Career Assessment</a>
+
+                <a href="#">School Connect</a>
+
+                <a href="#">Career Roadmaps</a>
+
+                <a href="#">Career Experts</a>
+
+            </div>
+
+            <!-- Company -->
+
+            <div>
+
+                <h4>Company</h4>
+
+                <a href="#">About Us</a>
+
+                <a href="#">Contact Us</a>
+
+                <a href="#">Privacy Policy</a>
+
+                <a href="#">Terms & Conditions</a>
+
+                <a href="#">Help Centre</a>
+
+                <a href="#">Support</a>
+
+            </div>
+
+        </div>
+
+        <!-- Footer Bottom -->
+
+        <div class="footer-bottom">
+
+            <p>
+
+                © 2026 USSC Connect.
+                All Rights Reserved.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+<!-- =========================================================
+GET STARTED MODAL
+========================================================= -->
+
+<div class="modal-overlay"
+     id="getStartedModal">
+
+    <div class="modal-card">
+
+        <button class="modal-close close-modal">
+
+            <i class="bi bi-x-lg"></i>
+
+        </button>
+
+        <h2>Welcome to USSC Connect</h2>
+
+        <p>
+
+            Select how you'd like to continue.
+
+        </p>
+
+        <div class="modal-grid">
+
+            <!-- Student -->
+
+            <a href="#"
+               class="modal-option">
+
+                <div class="icon-circle">
+
+                    <i class="bi bi-mortarboard-fill"></i>
+
+                </div>
+
+                <h3>Student</h3>
+
+                <span>
+
+                    Explore careers, universities and assessments.
+
+                </span>
+
+            </a>
+
+            <!-- School -->
+
+            <a href="#"
+               class="modal-option">
+
+                <div class="icon-circle">
+
+                    <i class="bi bi-buildings-fill"></i>
+
+                </div>
+
+                <h3>School</h3>
+
+                <span>
+
+                    Manage students, workshops and career activities.
+
+                </span>
+
+            </a>
+
+            <!-- University -->
+
+            <a href="#"
+               class="modal-option">
+
+                <div class="icon-circle">
+
+                    <i class="bi bi-bank"></i>
+
+                </div>
+
+                <h3>University</h3>
+
+                <span>
+
+                    Showcase programmes and connect with schools.
+
+                </span>
+
+            </a>
+
+            <!-- Counsellor -->
+
+            <a href="#"
+               class="modal-option">
+
+                <div class="icon-circle">
+
+                    <i class="bi bi-person-workspace"></i>
+
+                </div>
+
+                <h3>Career Counsellor</h3>
+
+                <span>
+
+                    Guide students and manage counselling sessions.
+
+                </span>
+
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- =========================================================
+BACK TO TOP
+========================================================= -->
+
+<button class="back-to-top"
+        id="backToTop">
+
+    <i class="bi bi-arrow-up"></i>
+
+</button>
+
+<!-- =========================================================
+JAVASCRIPT
+========================================================= -->
+
+<script src="assets/js/app-home.js"></script>
 
 </body>
 
