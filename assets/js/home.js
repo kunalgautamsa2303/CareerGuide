@@ -271,3 +271,38 @@ document.addEventListener("DOMContentLoaded", () => {
 /* ==========================================================
    End of File
 ========================================================== */
+/* ===========================================
+   MOBILE MENU
+=========================================== */
+
+const mobileBtn = document.getElementById("mobileMenuBtn");
+
+const mobileMenu = document.getElementById("mobileMenu");
+
+const mobileOverlay = document.getElementById("mobileOverlay");
+
+const closeMenu = document.getElementById("closeMenu");
+
+mobileBtn.addEventListener("click",()=>{
+
+    mobileMenu.classList.add("active");
+
+    mobileOverlay.classList.add("active");
+
+});
+
+closeMenu.addEventListener("click",()=>{
+
+    mobileMenu.classList.remove("active");
+
+    mobileOverlay.classList.remove("active");
+
+});
+
+mobileOverlay.addEventListener("click",()=>{
+
+    mobileMenu.classList.remove("active");
+
+    mobileOverlay.classList.remove("active");
+
+});
