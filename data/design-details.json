@@ -3,9 +3,500 @@
   "description": "Professional design career library covering major creative and design disciplines.",
   "careers": [
     {
+      "id": "graphic-designer",
+      "name": "Graphic Designer",
+      "overview": "Graphic Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
+      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
+      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
+      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
+      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
+      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Problem Solving",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CUET",
+        "MITID DAT"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IDC IIT Bombay",
+        "NIFT Delhi",
+        "MIT Institute of Design",
+        "Srishti Manipal",
+        "CEPT University"
+      ],
+      "careerOpportunities": [
+        "Design Studios",
+        "Branding",
+        "Technology",
+        "Product Design",
+        "UX Design",
+        "Creative Direction"
+      ],
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Tata Elxsi",
+        "Accenture",
+        "Flipkart",
+        "Infosys"
+      ],
+      "pros": [
+        "Creative freedom",
+        "Diverse career options",
+        "Portfolio-driven growth",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Portfolio maintenance required",
+        "Client revisions can be demanding"
+      ],
+      "relatedCareers": [
+        "Creative Director",
+        "Art Director",
+        "UX Researcher",
+        "Product Strategist"
+      ]
+    },
+    {
+      "id": "communication-designer",
+      "name": "Communication Designer",
+      "overview": "Communication Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
+      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
+      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
+      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
+      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
+      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Problem Solving",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CUET",
+        "MITID DAT"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IDC IIT Bombay",
+        "NIFT Delhi",
+        "MIT Institute of Design",
+        "Srishti Manipal",
+        "CEPT University"
+      ],
+      "careerOpportunities": [
+        "Design Studios",
+        "Branding",
+        "Technology",
+        "Product Design",
+        "UX Design",
+        "Creative Direction"
+      ],
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Tata Elxsi",
+        "Accenture",
+        "Flipkart",
+        "Infosys"
+      ],
+      "pros": [
+        "Creative freedom",
+        "Diverse career options",
+        "Portfolio-driven growth",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Portfolio maintenance required",
+        "Client revisions can be demanding"
+      ],
+      "relatedCareers": [
+        "Creative Director",
+        "Art Director",
+        "UX Researcher",
+        "Product Strategist"
+      ]
+    },
+    {
+      "id": "ui-designer",
+      "name": "UI Designer",
+      "overview": "UI Designer is a creative career focused on solving user, visual, product or communication problems through design thinking.",
+      "whyChoose": "UI Designer offers creative expression, growing demand in digital products and opportunities across many industries.",
+      "eligibility": "Class 12 in any stream; portfolio and entrance exams may be required.",
+      "educationPath": "Class 12 -> Design entrance or portfolio -> Design degree/diploma -> Internship -> Professional practice.",
+      "feeRange": "Rs 2-20 Lakhs",
+      "workEnvironment": "Design studios, product companies, agencies, media firms, fashion houses, startups and freelance practice.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong due to digital products, brand experience, user experience and creative technology.",
+      "aiImpact": "AI will speed up ideation and production, while strategy, taste, research and original thinking become more valuable.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Software Tools",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CEED",
+        "Private Design Tests"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IIT Bombay IDC",
+        "NIFT Delhi",
+        "Srishti Manipal",
+        "MIT Institute of Design"
+      ],
+      "careerOpportunities": [
+        "Designer",
+        "Creative Associate",
+        "UX Specialist",
+        "Brand Designer",
+        "Design Consultant"
+      ],
+      "recruiters": [
+        "Adobe",
+        "Google",
+        "Microsoft",
+        "Flipkart",
+        "Wipro",
+        "Design Studios"
+      ],
+      "pros": [
+        "Creative work",
+        "Portfolio-based growth",
+        "Freelance opportunities",
+        "Digital demand"
+      ],
+      "cons": [
+        "Portfolio pressure",
+        "Subjective feedback",
+        "Competitive industry"
+      ],
+      "relatedCareers": [
+        "Graphic Designer",
+        "Communication Designer",
+        "UX Designer"
+      ]
+    },
+    {
+      "id": "ux-designer",
+      "name": "UX Designer",
+      "overview": "Designs user experiences for digital products.",
+      "whyChoose": "High demand and excellent growth.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "B.Des/BFA/UX courses",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Tech companies and design studios",
+      "salary": {
+        "fresher": "₹5–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–60+ LPA"
+      },
+      "futureScope": "Excellent",
+      "aiImpact": "AI assists but does not replace user-centered design",
+      "skills": [
+        "User Research",
+        "Wireframing",
+        "Prototyping",
+        "Design Thinking"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT"
+      ],
+      "topColleges": [
+        "NID",
+        "IDC IIT Bombay"
+      ],
+      "careerOpportunities": [
+        "UX Designer",
+        "UX Researcher"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Adobe"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary"
+      ],
+      "cons": [
+        "Continuous learning"
+      ],
+      "relatedCareers": [
+        "UI Designer",
+        "Product Designer"
+      ]
+    },
+    {
+      "id": "product-designer",
+      "name": "Product Designer",
+      "overview": "Product Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
+      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
+      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
+      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
+      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
+      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Problem Solving",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CUET",
+        "MITID DAT"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IDC IIT Bombay",
+        "NIFT Delhi",
+        "MIT Institute of Design",
+        "Srishti Manipal",
+        "CEPT University"
+      ],
+      "careerOpportunities": [
+        "Design Studios",
+        "Branding",
+        "Technology",
+        "Product Design",
+        "UX Design",
+        "Creative Direction"
+      ],
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Tata Elxsi",
+        "Accenture",
+        "Flipkart",
+        "Infosys"
+      ],
+      "pros": [
+        "Creative freedom",
+        "Diverse career options",
+        "Portfolio-driven growth",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Portfolio maintenance required",
+        "Client revisions can be demanding"
+      ],
+      "relatedCareers": [
+        "Creative Director",
+        "Art Director",
+        "UX Researcher",
+        "Product Strategist"
+      ]
+    },
+    {
+      "id": "industrial-designer",
+      "name": "Industrial Designer",
+      "overview": "Industrial Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
+      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
+      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
+      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
+      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
+      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Problem Solving",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CUET",
+        "MITID DAT"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IDC IIT Bombay",
+        "NIFT Delhi",
+        "MIT Institute of Design",
+        "Srishti Manipal",
+        "CEPT University"
+      ],
+      "careerOpportunities": [
+        "Design Studios",
+        "Branding",
+        "Technology",
+        "Product Design",
+        "UX Design",
+        "Creative Direction"
+      ],
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Tata Elxsi",
+        "Accenture",
+        "Flipkart",
+        "Infosys"
+      ],
+      "pros": [
+        "Creative freedom",
+        "Diverse career options",
+        "Portfolio-driven growth",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Portfolio maintenance required",
+        "Client revisions can be demanding"
+      ],
+      "relatedCareers": [
+        "Creative Director",
+        "Art Director",
+        "UX Researcher",
+        "Product Strategist"
+      ]
+    },
+    {
       "id": "fashion-designer",
       "name": "Fashion Designer",
       "overview": "Fashion Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
+      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
+      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
+      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
+      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
+      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "skills": [
+        "Creativity",
+        "Design Thinking",
+        "Visual Communication",
+        "Research",
+        "Problem Solving",
+        "Presentation Skills"
+      ],
+      "entranceExams": [
+        "UCEED",
+        "NID DAT",
+        "NIFT Entrance",
+        "CUET",
+        "MITID DAT"
+      ],
+      "topColleges": [
+        "NID Ahmedabad",
+        "IDC IIT Bombay",
+        "NIFT Delhi",
+        "MIT Institute of Design",
+        "Srishti Manipal",
+        "CEPT University"
+      ],
+      "careerOpportunities": [
+        "Design Studios",
+        "Branding",
+        "Technology",
+        "Product Design",
+        "UX Design",
+        "Creative Direction"
+      ],
+      "recruiters": [
+        "Google",
+        "Adobe",
+        "Microsoft",
+        "Tata Elxsi",
+        "Accenture",
+        "Flipkart",
+        "Infosys"
+      ],
+      "pros": [
+        "Creative freedom",
+        "Diverse career options",
+        "Portfolio-driven growth",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Highly competitive",
+        "Portfolio maintenance required",
+        "Client revisions can be demanding"
+      ],
+      "relatedCareers": [
+        "Creative Director",
+        "Art Director",
+        "UX Researcher",
+        "Product Strategist"
+      ]
+    },
+    {
+      "id": "textile-designer",
+      "name": "Textile Designer",
+      "overview": "Textile Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
       "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
       "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
       "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
@@ -151,225 +642,50 @@
       ]
     },
     {
-      "id": "graphic-designer",
-      "name": "Graphic Designer",
-      "overview": "Graphic Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "furniture-designer",
+      "name": "Furniture Designer",
+      "overview": "Designs furniture products and systems.",
+      "whyChoose": "Blend of creativity and product design.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Furniture/Product Design",
+      "feeRange": "₹2–20 Lakhs",
+      "workEnvironment": "Furniture brands and studios",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–15 LPA",
+        "seniorLevel": "₹15–35+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Growing lifestyle sector",
+      "aiImpact": "AI supports prototyping",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "CAD",
+        "Sketching",
+        "Material Knowledge"
       ],
       "entranceExams": [
         "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "NID DAT"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "NID",
+        "IDC IIT Bombay"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "Furniture Designer"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
+        "IKEA",
+        "Godrej Interio"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "Creative projects"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Prototype costs"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
-      ]
-    },
-    {
-      "id": "ui-ux-designer",
-      "name": "UI/UX Designer",
-      "overview": "UI/UX Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
-      },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
-      "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
-      ],
-      "entranceExams": [
-        "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
-      ],
-      "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
-      ],
-      "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
-      ],
-      "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
-      ],
-      "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
-      ],
-      "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
-      ]
-    },
-    {
-      "id": "product-designer",
-      "name": "Product Designer",
-      "overview": "Product Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
-      },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
-      "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
-      ],
-      "entranceExams": [
-        "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
-      ],
-      "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
-      ],
-      "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
-      ],
-      "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
-      ],
-      "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
-      ],
-      "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "Interior Designer",
+        "Product Designer"
       ]
     },
     {
@@ -521,225 +837,147 @@
       ]
     },
     {
-      "id": "communication-designer",
-      "name": "Communication Designer",
-      "overview": "Communication Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "vfx-artist",
+      "name": "VFX Artist",
+      "overview": "Creates visual effects for films and media.",
+      "whyChoose": "Creative entertainment career.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Animation/VFX courses",
+      "feeRange": "₹1–15 Lakhs",
+      "workEnvironment": "Studios and media companies",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–15 LPA",
+        "seniorLevel": "₹15–40+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Growing OTT and gaming demand",
+      "aiImpact": "AI automates repetitive tasks",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "Compositing",
+        "Animation",
+        "Creativity"
       ],
       "entranceExams": [
-        "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "Institute Specific"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "MAAC",
+        "Arena",
+        "Whistling Woods"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "VFX Artist",
+        "Compositor"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
+        "DNEG",
+        "MPC",
+        "Prime Focus"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "Creative work"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Deadline pressure"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "Animation Designer",
+        "Film Maker"
       ]
     },
     {
-      "id": "industrial-designer",
-      "name": "Industrial Designer",
-      "overview": "Industrial Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "film-maker",
+      "name": "Film Maker",
+      "overview": "Creates films and digital content.",
+      "whyChoose": "Storytelling and creative leadership.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Film degree/diploma",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Production houses and OTT",
       "salary": {
         "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "midLevel": "₹8–25 LPA",
+        "seniorLevel": "₹25+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Strong due to OTT growth",
+      "aiImpact": "AI supports editing",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "Storytelling",
+        "Direction",
+        "Editing"
       ],
       "entranceExams": [
-        "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "FTII",
+        "SRFTI"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "FTII",
+        "SRFTI"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "Director",
+        "Producer"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
+        "Netflix",
+        "Amazon Prime"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "Creative freedom"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Competitive industry"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "Photographer",
+        "VFX Artist"
       ]
     },
     {
-      "id": "textile-designer",
-      "name": "Textile Designer",
-      "overview": "Textile Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "photographer",
+      "name": "Photographer",
+      "overview": "Captures visual content for media and brands.",
+      "whyChoose": "Creative and flexible profession.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Photography courses",
+      "feeRange": "₹50000–₹10 Lakhs",
+      "workEnvironment": "Studios and freelance",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "fresher": "₹2–5 LPA",
+        "midLevel": "₹5–15 LPA",
+        "seniorLevel": "₹15–40+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Good digital content demand",
+      "aiImpact": "AI helps editing",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "Photography",
+        "Editing",
+        "Composition"
       ],
       "entranceExams": [
-        "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "Institute Specific"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "NID",
+        "AAFT"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "Fashion Photographer",
+        "Commercial Photographer"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
+        "Media Houses",
+        "Advertising Agencies"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "Creative work"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Income variability"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "Film Maker",
+        "Graphic Designer"
       ]
     },
     {
@@ -891,151 +1129,97 @@
       ]
     },
     {
-      "id": "experience-designer",
-      "name": "Experience Designer",
-      "overview": "Experience Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "exhibition-designer",
+      "name": "Exhibition Designer",
+      "overview": "Designs exhibitions, museums and event spaces.",
+      "whyChoose": "Unique spatial design career.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Design degree",
+      "feeRange": "₹2–20 Lakhs",
+      "workEnvironment": "Events and museums",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–15 LPA",
+        "seniorLevel": "₹15–35+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Good demand in experiential marketing",
+      "aiImpact": "AI assists visualization",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
-        "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "Spatial Design",
+        "Project Management"
       ],
       "entranceExams": [
         "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "NID DAT"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "NID",
+        "CEPT"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "Exhibition Designer"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
-        "Accenture",
-        "Flipkart",
-        "Infosys"
+        "Event Agencies"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "Creative work"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Deadline pressure"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "Interior Designer",
+        "Service Designer"
       ]
     },
     {
-      "id": "visual-designer",
-      "name": "Visual Designer",
-      "overview": "Visual Designer is a creative profession focused on innovation, aesthetics, problem solving and user-centered design.",
-      "whyChoose": "Excellent creative freedom, strong portfolio-based growth and opportunities across industries.",
-      "eligibility": "10+2 from any stream. Design aptitude and portfolio development are beneficial.",
-      "educationPath": "Class 12 → B.Des/BFA/Design Degree → Internship → Professional Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹30 Lakhs",
-      "workEnvironment": "Design studios, agencies, startups, brands, technology companies and freelance practice.",
+      "id": "service-designer",
+      "name": "Service Designer",
+      "overview": "Designs and improves customer experiences and services.",
+      "whyChoose": "High-growth strategic design role.",
+      "eligibility": "10+2 any stream",
+      "educationPath": "Design degree",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Consulting and tech firms",
       "salary": {
-        "fresher": "₹3–8 LPA",
+        "fresher": "₹5–8 LPA",
         "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–50+ LPA"
+        "seniorLevel": "₹20–45+ LPA"
       },
-      "futureScope": "Strong demand due to digital products, branding, innovation and experience-driven businesses.",
-      "aiImpact": "AI assists with creative workflows but human creativity, research and design thinking remain critical.",
+      "futureScope": "Excellent",
+      "aiImpact": "AI supports service mapping",
       "skills": [
-        "Creativity",
-        "Design Thinking",
-        "Visual Communication",
         "Research",
-        "Problem Solving",
-        "Presentation Skills"
+        "Systems Thinking",
+        "Strategy"
       ],
       "entranceExams": [
         "UCEED",
-        "NID DAT",
-        "NIFT Entrance",
-        "CUET",
-        "MITID DAT"
+        "NID DAT"
       ],
       "topColleges": [
-        "NID Ahmedabad",
-        "IDC IIT Bombay",
-        "NIFT Delhi",
-        "MIT Institute of Design",
-        "Srishti Manipal",
-        "CEPT University"
+        "NID",
+        "IDC IIT Bombay"
       ],
       "careerOpportunities": [
-        "Design Studios",
-        "Branding",
-        "Technology",
-        "Product Design",
-        "UX Design",
-        "Creative Direction"
+        "Service Designer",
+        "Design Strategist"
       ],
       "recruiters": [
-        "Google",
-        "Adobe",
-        "Microsoft",
-        "Tata Elxsi",
         "Accenture",
-        "Flipkart",
-        "Infosys"
+        "Deloitte",
+        "IBM"
       ],
       "pros": [
-        "Creative freedom",
-        "Diverse career options",
-        "Portfolio-driven growth",
-        "Global opportunities"
+        "High demand"
       ],
       "cons": [
-        "Highly competitive",
-        "Portfolio maintenance required",
-        "Client revisions can be demanding"
+        "Complex stakeholder management"
       ],
       "relatedCareers": [
-        "Creative Director",
-        "Art Director",
-        "UX Researcher",
-        "Product Strategist"
+        "UX Designer",
+        "Design Researcher"
       ]
     },
     {
@@ -1113,339 +1297,330 @@
       ]
     },
     {
-      "id": "ux-designer",
-      "name": "UX Designer",
-      "overview": "Designs user experiences for digital products.",
-      "whyChoose": "High demand and excellent growth.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "B.Des/BFA/UX courses",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Tech companies and design studios",
+      "id": "ux-researcher",
+      "name": "UX Researcher",
+      "overview": "UX Researcher works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "UX Researcher is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
       "salary": {
-        "fresher": "\u20b95\u201310 LPA",
-        "midLevel": "\u20b910\u201325 LPA",
-        "seniorLevel": "\u20b925\u201360+ LPA"
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
       },
-      "futureScope": "Excellent",
-      "aiImpact": "AI assists but does not replace user-centered design",
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
       "skills": [
-        "User Research",
-        "Wireframing",
-        "Prototyping",
-        "Design Thinking"
-      ],
-      "entranceExams": [
-        "UCEED",
-        "NID DAT"
-      ],
-      "topColleges": [
-        "NID",
-        "IDC IIT Bombay"
-      ],
-      "careerOpportunities": [
-        "UX Designer",
-        "UX Researcher"
-      ],
-      "recruiters": [
-        "Google",
-        "Microsoft",
-        "Adobe"
-      ],
-      "pros": [
-        "High demand",
-        "Good salary"
-      ],
-      "cons": [
-        "Continuous learning"
-      ],
-      "relatedCareers": [
-        "UI Designer",
-        "Product Designer"
-      ]
-    },
-    {
-      "id": "vfx-artist",
-      "name": "VFX Artist",
-      "overview": "Creates visual effects for films and media.",
-      "whyChoose": "Creative entertainment career.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Animation/VFX courses",
-      "feeRange": "\u20b91\u201315 Lakhs",
-      "workEnvironment": "Studios and media companies",
-      "salary": {
-        "fresher": "\u20b93\u20136 LPA",
-        "midLevel": "\u20b96\u201315 LPA",
-        "seniorLevel": "\u20b915\u201340+ LPA"
-      },
-      "futureScope": "Growing OTT and gaming demand",
-      "aiImpact": "AI automates repetitive tasks",
-      "skills": [
-        "Compositing",
-        "Animation",
-        "Creativity"
-      ],
-      "entranceExams": [
-        "Institute Specific"
-      ],
-      "topColleges": [
-        "MAAC",
-        "Arena",
-        "Whistling Woods"
-      ],
-      "careerOpportunities": [
-        "VFX Artist",
-        "Compositor"
-      ],
-      "recruiters": [
-        "DNEG",
-        "MPC",
-        "Prime Focus"
-      ],
-      "pros": [
-        "Creative work"
-      ],
-      "cons": [
-        "Deadline pressure"
-      ],
-      "relatedCareers": [
-        "Animation Designer",
-        "Film Maker"
-      ]
-    },
-    {
-      "id": "film-maker",
-      "name": "Film Maker",
-      "overview": "Creates films and digital content.",
-      "whyChoose": "Storytelling and creative leadership.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Film degree/diploma",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Production houses and OTT",
-      "salary": {
-        "fresher": "\u20b93\u20138 LPA",
-        "midLevel": "\u20b98\u201325 LPA",
-        "seniorLevel": "\u20b925+ LPA"
-      },
-      "futureScope": "Strong due to OTT growth",
-      "aiImpact": "AI supports editing",
-      "skills": [
-        "Storytelling",
-        "Direction",
-        "Editing"
-      ],
-      "entranceExams": [
-        "FTII",
-        "SRFTI"
-      ],
-      "topColleges": [
-        "FTII",
-        "SRFTI"
-      ],
-      "careerOpportunities": [
-        "Director",
-        "Producer"
-      ],
-      "recruiters": [
-        "Netflix",
-        "Amazon Prime"
-      ],
-      "pros": [
-        "Creative freedom"
-      ],
-      "cons": [
-        "Competitive industry"
-      ],
-      "relatedCareers": [
-        "Photographer",
-        "VFX Artist"
-      ]
-    },
-    {
-      "id": "photographer",
-      "name": "Photographer",
-      "overview": "Captures visual content for media and brands.",
-      "whyChoose": "Creative and flexible profession.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Photography courses",
-      "feeRange": "\u20b950000\u2013\u20b910 Lakhs",
-      "workEnvironment": "Studios and freelance",
-      "salary": {
-        "fresher": "\u20b92\u20135 LPA",
-        "midLevel": "\u20b95\u201315 LPA",
-        "seniorLevel": "\u20b915\u201340+ LPA"
-      },
-      "futureScope": "Good digital content demand",
-      "aiImpact": "AI helps editing",
-      "skills": [
-        "Photography",
-        "Editing",
-        "Composition"
-      ],
-      "entranceExams": [
-        "Institute Specific"
-      ],
-      "topColleges": [
-        "NID",
-        "AAFT"
-      ],
-      "careerOpportunities": [
-        "Fashion Photographer",
-        "Commercial Photographer"
-      ],
-      "recruiters": [
-        "Media Houses",
-        "Advertising Agencies"
-      ],
-      "pros": [
-        "Creative work"
-      ],
-      "cons": [
-        "Income variability"
-      ],
-      "relatedCareers": [
-        "Film Maker",
-        "Graphic Designer"
-      ]
-    },
-    {
-      "id": "furniture-designer",
-      "name": "Furniture Designer",
-      "overview": "Designs furniture products and systems.",
-      "whyChoose": "Blend of creativity and product design.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Furniture/Product Design",
-      "feeRange": "\u20b92\u201320 Lakhs",
-      "workEnvironment": "Furniture brands and studios",
-      "salary": {
-        "fresher": "\u20b93\u20136 LPA",
-        "midLevel": "\u20b96\u201315 LPA",
-        "seniorLevel": "\u20b915\u201335+ LPA"
-      },
-      "futureScope": "Growing lifestyle sector",
-      "aiImpact": "AI supports prototyping",
-      "skills": [
-        "CAD",
-        "Sketching",
-        "Material Knowledge"
-      ],
-      "entranceExams": [
-        "UCEED",
-        "NID DAT"
-      ],
-      "topColleges": [
-        "NID",
-        "IDC IIT Bombay"
-      ],
-      "careerOpportunities": [
-        "Furniture Designer"
-      ],
-      "recruiters": [
-        "IKEA",
-        "Godrej Interio"
-      ],
-      "pros": [
-        "Creative projects"
-      ],
-      "cons": [
-        "Prototype costs"
-      ],
-      "relatedCareers": [
-        "Interior Designer",
-        "Product Designer"
-      ]
-    },
-    {
-      "id": "exhibition-designer",
-      "name": "Exhibition Designer",
-      "overview": "Designs exhibitions, museums and event spaces.",
-      "whyChoose": "Unique spatial design career.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Design degree",
-      "feeRange": "\u20b92\u201320 Lakhs",
-      "workEnvironment": "Events and museums",
-      "salary": {
-        "fresher": "\u20b93\u20136 LPA",
-        "midLevel": "\u20b96\u201315 LPA",
-        "seniorLevel": "\u20b915\u201335+ LPA"
-      },
-      "futureScope": "Good demand in experiential marketing",
-      "aiImpact": "AI assists visualization",
-      "skills": [
-        "Spatial Design",
-        "Project Management"
-      ],
-      "entranceExams": [
-        "UCEED",
-        "NID DAT"
-      ],
-      "topColleges": [
-        "NID",
-        "CEPT"
-      ],
-      "careerOpportunities": [
-        "Exhibition Designer"
-      ],
-      "recruiters": [
-        "Event Agencies"
-      ],
-      "pros": [
-        "Creative work"
-      ],
-      "cons": [
-        "Deadline pressure"
-      ],
-      "relatedCareers": [
-        "Interior Designer",
-        "Service Designer"
-      ]
-    },
-    {
-      "id": "service-designer",
-      "name": "Service Designer",
-      "overview": "Designs and improves customer experiences and services.",
-      "whyChoose": "High-growth strategic design role.",
-      "eligibility": "10+2 any stream",
-      "educationPath": "Design degree",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Consulting and tech firms",
-      "salary": {
-        "fresher": "\u20b95\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201345+ LPA"
-      },
-      "futureScope": "Excellent",
-      "aiImpact": "AI supports service mapping",
-      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
         "Research",
-        "Systems Thinking",
-        "Strategy"
+        "Teamwork",
+        "Adaptability"
       ],
       "entranceExams": [
-        "UCEED",
-        "NID DAT"
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
       ],
       "topColleges": [
-        "NID",
-        "IDC IIT Bombay"
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
       ],
       "careerOpportunities": [
-        "Service Designer",
-        "Design Strategist"
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
       ],
       "recruiters": [
-        "Accenture",
-        "Deloitte",
-        "IBM"
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
       ],
       "pros": [
-        "High demand"
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
       ],
       "cons": [
-        "Complex stakeholder management"
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
       ],
       "relatedCareers": [
-        "UX Designer",
-        "Design Researcher"
+        "Interaction Designer",
+        "Web Designer",
+        "Toy Designer"
+      ]
+    },
+    {
+      "id": "motion-graphics-designer",
+      "name": "Motion Graphics Designer",
+      "overview": "Motion Graphics Designer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Motion Graphics Designer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Web Designer",
+        "Toy Designer"
+      ]
+    },
+    {
+      "id": "interaction-designer",
+      "name": "Interaction Designer",
+      "overview": "Interaction Designer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Interaction Designer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Toy Designer"
+      ]
+    },
+    {
+      "id": "web-designer",
+      "name": "Web Designer",
+      "overview": "Web Designer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Web Designer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Graphic Designer",
+        "Communication Designer",
+        "UI Designer"
+      ]
+    },
+    {
+      "id": "toy-designer",
+      "name": "Toy Designer",
+      "overview": "Toy Designer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Toy Designer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Graphic Designer",
+        "Communication Designer",
+        "UI Designer"
       ]
     }
   ]

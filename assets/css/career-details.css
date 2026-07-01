@@ -438,6 +438,16 @@ body{
     box-shadow:var(--shadow-xs);
 }
 
+a.info-chip{
+    gap:8px;
+    color:var(--primary);
+}
+
+a.info-chip:hover{
+    transform:translateY(-2px);
+    box-shadow:var(--shadow-md);
+}
+
 .light .info-chip{
     background:#F8FAFC;
 }
@@ -608,17 +618,16 @@ body{
 
 @media(max-width:768px){
     .page-header .container{
-        height:auto;
-        min-height:70px;
-        align-items:flex-start;
-        flex-direction:column;
+        height:68px;
+        min-height:68px;
+        align-items:center;
+        flex-direction:row;
         padding-top:14px;
         padding-bottom:14px;
     }
 
     .page-header nav{
-        flex-wrap:wrap;
-        gap:14px;
+        display:none;
     }
 
     .career-details-hero{
@@ -676,6 +685,12 @@ body{
 }
 
 @media(max-width:520px){
+    html,
+    body{
+        max-width:100%;
+        overflow-x:hidden;
+    }
+
     .page-header .container{
         gap:12px;
     }
@@ -687,6 +702,13 @@ body{
 
     .logo-info h2{
         font-size:18px;
+    }
+
+    .logo-info span{
+        max-width:190px;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        white-space:nowrap;
     }
 
     .page-header nav a{

@@ -1,0 +1,310 @@
+{
+  "guides": [
+    {
+      "id": "choose-after-class-10",
+      "title": "Choosing a Stream After Class 10",
+      "eyebrow": "Class 10 Decision Guide",
+      "description": "A clear decision guide to help students choose Science, Commerce, Humanities, Vocational or flexible subject combinations with confidence.",
+      "intro": "Class 10 is not about choosing a label. It is about choosing subjects that match your strengths, interests, learning style and future possibilities. CBSE's career guidance approach encourages students to explore careers, courses, scholarships and entrance exams together before deciding.",
+      "bestFor": ["Class 9 and 10 students", "Parents discussing Class 11 subject choices", "Students confused between Science, Commerce and Humanities"],
+      "officialReference": {
+        "label": "CBSE Career Guidance Portal",
+        "url": "https://cbsecareerguidance.in/"
+      },
+      "quickAnswer": "Choose the stream where your interest, aptitude, marks pattern, study habits and long-term career direction overlap. Do not choose only because of peer pressure, family pressure or the idea that one stream is always better than another.",
+      "steps": [
+        {
+          "title": "Know Yourself First",
+          "text": "Write down subjects you enjoy, subjects you score well in, activities you naturally do well, and the kind of problems you like solving."
+        },
+        {
+          "title": "Map Subjects to Careers",
+          "text": "Check which careers need Physics, Chemistry, Biology, Mathematics, Economics, Accountancy, Psychology, Political Science, Design, Media, Sports or Vocational subjects."
+        },
+        {
+          "title": "Check Entrance Exam Requirements",
+          "text": "If you are thinking of medicine, engineering, architecture, law or design, check the entrance exams early so you understand subject requirements before Class 11 starts."
+        },
+        {
+          "title": "Keep Flexibility Where Possible",
+          "text": "Many modern careers combine subjects. Data science may need mathematics and computing, design may combine creativity and technology, and law may welcome strong language and reasoning skills."
+        },
+        {
+          "title": "Discuss, Then Decide",
+          "text": "Talk to teachers, counsellors, parents and seniors. Use discussions to gather facts, not to surrender your decision to pressure."
+        }
+      ],
+      "pathways": [
+        {
+          "name": "Science with Mathematics",
+          "goodFor": "Students who enjoy problem solving, technology, physics, computing, mathematics and engineering-style thinking.",
+          "careerLinks": ["Engineering", "Architecture", "Data Science", "Aviation", "Defence", "Research"],
+          "examLinks": ["JEE Main", "JEE Advanced", "NATA", "UCEED"]
+        },
+        {
+          "name": "Science with Biology",
+          "goodFor": "Students interested in health, life sciences, medicine, public health, pharmacy, nutrition or research.",
+          "careerLinks": ["Medicine", "Dentistry", "Nursing", "Pharmacy", "Biotechnology", "Psychology"],
+          "examLinks": ["NEET UG", "AIIMS Exams", "CUET"]
+        },
+        {
+          "name": "Commerce",
+          "goodFor": "Students who enjoy business, money, economics, accounts, entrepreneurship, markets and management.",
+          "careerLinks": ["Chartered Accountancy", "Business Management", "Banking", "Finance", "Economics"],
+          "examLinks": ["CA Foundation", "CUET", "IPMAT"]
+        },
+        {
+          "name": "Humanities",
+          "goodFor": "Students interested in people, society, language, law, psychology, civil services, media and public policy.",
+          "careerLinks": ["Law", "Psychology", "Journalism", "Civil Services", "Social Work", "Teaching"],
+          "examLinks": ["CLAT", "CUET", "AILET"]
+        },
+        {
+          "name": "Vocational and Skill-Based Pathways",
+          "goodFor": "Students who want practical learning, industry skills, entrepreneurship or early employability.",
+          "careerLinks": ["Design", "Media", "Sports", "Hospitality", "IT", "Healthcare Support"],
+          "examLinks": ["CUET", "Institute Specific Admissions"]
+        }
+      ],
+      "mistakesToAvoid": [
+        "Choosing a stream only because friends are choosing it.",
+        "Choosing Science only because it feels socially safer.",
+        "Ignoring mathematics requirements for future courses.",
+        "Assuming Humanities or Commerce have fewer career options.",
+        "Waiting until Class 12 to understand entrance exams."
+      ],
+      "actions": [
+        {
+          "label": "Explore Career Categories",
+          "href": "index.html#categoryGrid"
+        },
+        {
+          "label": "Open Entrance Exams",
+          "href": "exams.html"
+        }
+      ]
+    },
+    {
+      "id": "plan-after-class-12",
+      "title": "Planning After Class 12",
+      "eyebrow": "Class 12 Next-Step Guide",
+      "description": "Compare degrees, entrance exams, colleges, skills and career outcomes before selecting your undergraduate pathway.",
+      "intro": "After Class 12, the right decision is not just course selection. Students need to connect degree options, entrance exams, institutions, cost, location, skills and career outcomes. CBSE career guidance resources encourage students to explore higher education and work-related opportunities together.",
+      "bestFor": ["Class 11 and 12 students", "Students comparing degrees and entrance exams", "Students choosing colleges after results"],
+      "officialReference": {
+        "label": "CBSE Career Guidance Portal",
+        "url": "https://cbsecareerguidance.in/"
+      },
+      "quickAnswer": "Shortlist 3-5 career directions, identify the courses that lead there, check entrance exams and eligibility, compare colleges, and keep one ambitious, one realistic and one backup pathway.",
+      "steps": [
+        {
+          "title": "Start With Career Direction",
+          "text": "Instead of asking only 'which course?', ask which type of work you want to move toward: healthcare, technology, business, law, design, education, media, public service or research."
+        },
+        {
+          "title": "List Course Routes",
+          "text": "For each career direction, list possible degrees such as MBBS, B.Tech, B.Des, BBA, B.Com, BA, B.Sc, BCA, B.Arch, LL.B or vocational diplomas."
+        },
+        {
+          "title": "Match Exams and Deadlines",
+          "text": "Check exams like NEET UG, JEE Main, CUET, CLAT, NATA, UCEED, NIFT and institute-specific tests. Note application months, syllabus and counselling process."
+        },
+        {
+          "title": "Compare Colleges Practically",
+          "text": "Look at accreditation, faculty, placements, internships, location, fees, scholarships, hostel safety and student support."
+        },
+        {
+          "title": "Build Skills Early",
+          "text": "Along with entrance preparation, build communication, digital skills, project work, reading, portfolio or internships depending on your field."
+        }
+      ],
+      "pathways": [
+        {
+          "name": "Medical and Health Pathway",
+          "goodFor": "Students interested in patient care, biology, public health and healthcare sciences.",
+          "careerLinks": ["Doctor", "Dentist", "Nurse", "Pharmacist", "Physiotherapist"],
+          "examLinks": ["NEET UG", "AIIMS Exams", "CUET"]
+        },
+        {
+          "name": "Engineering and Technology Pathway",
+          "goodFor": "Students interested in mathematics, systems, machines, software, AI, infrastructure or innovation.",
+          "careerLinks": ["Computer Science Engineer", "Mechanical Engineer", "Civil Engineer", "Data Scientist"],
+          "examLinks": ["JEE Main", "JEE Advanced", "BITSAT", "VITEEE"]
+        },
+        {
+          "name": "University Degree Pathway",
+          "goodFor": "Students considering BA, B.Sc, B.Com, BBA, BCA, B.Voc or interdisciplinary programs.",
+          "careerLinks": ["Economist", "Psychologist", "Teacher", "Business Manager", "Media Professional"],
+          "examLinks": ["CUET", "University Entrance Tests"]
+        },
+        {
+          "name": "Creative and Professional Pathway",
+          "goodFor": "Students building portfolios or professional skills in design, law, media, architecture or management.",
+          "careerLinks": ["Graphic Designer", "Architect", "Lawyer", "Journalist", "Product Designer"],
+          "examLinks": ["CLAT", "NATA", "UCEED", "NIFT Entrance"]
+        }
+      ],
+      "mistakesToAvoid": [
+        "Applying to only one course or one college.",
+        "Missing application deadlines because exams were checked late.",
+        "Choosing a college only by name without checking course quality.",
+        "Ignoring scholarships, fees and location realities.",
+        "Preparing for entrance exams without understanding counselling."
+      ],
+      "actions": [
+        {
+          "label": "Browse Entrance Exams",
+          "href": "exams.html"
+        },
+        {
+          "label": "Explore Careers",
+          "href": "index.html#careerGrid"
+        }
+      ]
+    },
+    {
+      "id": "compare-careers",
+      "title": "How to Compare Careers",
+      "eyebrow": "Career Comparison Framework",
+      "description": "A practical framework to compare careers by eligibility, skills, salary range, future scope, AI impact, lifestyle and study pathway.",
+      "intro": "Students often compare careers only by salary or popularity. A better comparison includes eligibility, entrance exams, daily work, skills, personality fit, growth, AI impact, work-life balance and backup options.",
+      "bestFor": ["Students confused between two or more careers", "Parents comparing career options", "Students preparing for counselling discussions"],
+      "officialReference": {
+        "label": "CBSE Career Guidance Portal",
+        "url": "https://cbsecareerguidance.in/"
+      },
+      "quickAnswer": "Compare careers using facts, not only opinions. The best-fit career is usually where your interest, ability, values, learning investment and future opportunity meet.",
+      "steps": [
+        {
+          "title": "Compare Eligibility",
+          "text": "Check required subjects, degrees, entrance exams, minimum marks, age rules and professional licensing."
+        },
+        {
+          "title": "Compare Daily Work",
+          "text": "Understand what a normal working day looks like. A career may sound attractive but may involve tasks you do not enjoy."
+        },
+        {
+          "title": "Compare Skills",
+          "text": "List technical skills, communication skills, emotional strengths and digital skills needed for each career."
+        },
+        {
+          "title": "Compare Future Scope",
+          "text": "Look at demand, industry growth, automation risk, AI impact, global opportunities and specialization routes."
+        },
+        {
+          "title": "Compare Lifestyle Fit",
+          "text": "Check work hours, stress level, travel, field work, public interaction, study duration and financial investment."
+        }
+      ],
+      "pathways": [
+        {
+          "name": "Academic Fit",
+          "goodFor": "Does the career match your strongest subjects and your willingness to study them deeply?",
+          "careerLinks": ["Eligibility", "Education Path", "Entrance Exams"],
+          "examLinks": ["CUET", "JEE Main", "NEET UG"]
+        },
+        {
+          "name": "Skill Fit",
+          "goodFor": "Does it require analytical, creative, people-facing, technical, physical or leadership skills that suit you?",
+          "careerLinks": ["Skills", "Portfolio", "Internships"],
+          "examLinks": ["UCEED", "CLAT", "NIFT Entrance"]
+        },
+        {
+          "name": "Future Fit",
+          "goodFor": "Does the career have growth, specialization routes and resilience in a changing AI-enabled world?",
+          "careerLinks": ["Future Scope", "AI Impact", "Salary Growth"],
+          "examLinks": ["GATE for PG", "CAT", "NET/JRF"]
+        }
+      ],
+      "mistakesToAvoid": [
+        "Comparing only starting salary.",
+        "Choosing based on one viral career trend.",
+        "Ignoring the years of study required.",
+        "Not checking whether the daily work matches your personality.",
+        "Assuming AI will remove every career instead of changing required skills."
+      ],
+      "actions": [
+        {
+          "label": "Explore Popular Careers",
+          "href": "index.html#careerGrid"
+        },
+        {
+          "label": "Check Exam Requirements",
+          "href": "exams.html"
+        }
+      ]
+    },
+    {
+      "id": "entrance-exam-planning",
+      "title": "Entrance Exam Planning",
+      "eyebrow": "Exam Strategy Guide",
+      "description": "Plan entrance exams by career goal, subject requirements, timeline, syllabus, official links and counselling process.",
+      "intro": "Entrance exam planning should start with the career goal. Students need to know why they are taking an exam, which courses it opens, what subjects it tests, the official website, application timeline and counselling route.",
+      "bestFor": ["Students preparing for competitive exams", "Class 11 and 12 students", "Students comparing NEET, JEE, CUET, CLAT, NATA or design exams"],
+      "officialReference": {
+        "label": "CBSE Career Guidance Portal",
+        "url": "https://cbsecareerguidance.in/"
+      },
+      "quickAnswer": "Do not prepare for every exam. Pick exams based on career goal, eligibility, subject strengths and realistic preparation time. Always confirm details from the official exam page.",
+      "steps": [
+        {
+          "title": "Choose the Career Goal",
+          "text": "Decide whether your target is medicine, engineering, law, design, architecture, management, university admission or another pathway."
+        },
+        {
+          "title": "Identify Required Exams",
+          "text": "Map each target course to its exam: NEET UG for MBBS/BDS, JEE Main for engineering, CUET for many university programs, CLAT for law, NATA for architecture and UCEED/NIFT for design."
+        },
+        {
+          "title": "Use Official Links",
+          "text": "Check syllabus, dates, eligibility, admit card, results and counselling only from the official exam page."
+        },
+        {
+          "title": "Create a 3-Level Plan",
+          "text": "Keep one main exam, one related backup exam and one course/college backup so your future does not depend on a single result."
+        },
+        {
+          "title": "Understand Counselling",
+          "text": "Entrance exam score is only one step. Learn counselling, document verification, category rules, choice filling and seat allotment."
+        }
+      ],
+      "pathways": [
+        {
+          "name": "Medical Exams",
+          "goodFor": "MBBS, BDS, AYUSH, nursing and healthcare pathways.",
+          "careerLinks": ["Doctor", "Dentist", "Nurse", "Pharmacist"],
+          "examLinks": ["NEET UG", "AIIMS Exams"]
+        },
+        {
+          "name": "Engineering and Architecture Exams",
+          "goodFor": "B.Tech, B.E., B.Arch, B.Planning and technology institute admissions.",
+          "careerLinks": ["Engineer", "Architect", "Data Scientist"],
+          "examLinks": ["JEE Main", "JEE Advanced", "NATA"]
+        },
+        {
+          "name": "University and Professional Exams",
+          "goodFor": "University degrees, law, design, management and institute-specific programs.",
+          "careerLinks": ["Lawyer", "Designer", "Business Manager", "Psychologist"],
+          "examLinks": ["CUET", "CLAT", "UCEED", "NIFT Entrance"]
+        }
+      ],
+      "mistakesToAvoid": [
+        "Following unofficial dates or fake notices.",
+        "Preparing without checking eligibility.",
+        "Ignoring counselling after the exam.",
+        "Taking too many unrelated exams.",
+        "Not keeping backup courses or colleges."
+      ],
+      "actions": [
+        {
+          "label": "Open Exam Library",
+          "href": "exams.html"
+        },
+        {
+          "label": "Explore Careers",
+          "href": "index.html#careerGrid"
+        }
+      ]
+    }
+  ]
+}

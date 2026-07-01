@@ -79,27 +79,29 @@
       ]
     },
     {
-      "id": "software-engineer",
-      "name": "Software Engineer",
-      "overview": "Software Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
-      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
-      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
-      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "id": "information-technology-engineer",
+      "name": "Information Technology Engineer",
+      "overview": "Information Technology Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Information Technology Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Information Technology Engineering followed by higher studies if desired.",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "₹4–10 LPA",
-        "midLevel": "₹10–25 LPA",
-        "seniorLevel": "₹25–80+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
-      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
-      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
       "skills": [
         "Problem Solving",
+        "Analytical Thinking",
         "Mathematics",
-        "Programming",
-        "Critical Thinking",
+        "Technical Knowledge",
         "Communication",
+        "Teamwork",
+        "Project Management",
         "Innovation"
       ],
       "entranceExams": [
@@ -107,51 +109,45 @@
         "JEE Advanced",
         "BITSAT",
         "VITEEE",
-        "SRMJEEE",
-        "CUET"
+        "SRMJEEE"
       ],
       "topColleges": [
         "IIT Bombay",
         "IIT Delhi",
         "IIT Madras",
         "BITS Pilani",
-        "NIT Trichy",
-        "IIIT Hyderabad"
+        "VIT Vellore"
       ],
       "careerOpportunities": [
-        "Research",
-        "Development",
-        "Consulting",
-        "Technology",
-        "Manufacturing",
-        "Product Design"
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
       ],
       "recruiters": [
-        "Google",
-        "Microsoft",
-        "Amazon",
-        "TCS",
-        "Infosys",
+        "Tata Group",
         "L&T",
-        "ISRO",
-        "Tesla"
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
       ],
       "pros": [
         "High demand",
-        "Strong salary growth",
+        "Good salary potential",
         "Global opportunities",
-        "Innovation driven"
+        "Technical expertise"
       ],
       "cons": [
         "Competitive field",
         "Continuous learning required",
-        "Technical pressure"
+        "Technical workload"
       ],
       "relatedCareers": [
-        "Data Scientist",
-        "Product Manager",
-        "Research Engineer",
-        "Technology Consultant"
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
       ]
     },
     {
@@ -310,6 +306,82 @@
       "id": "machine-learning-engineer",
       "name": "Machine Learning Engineer",
       "overview": "Machine Learning Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "software-engineer",
+      "name": "Software Engineer",
+      "overview": "Software Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
       "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
       "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
@@ -839,27 +911,29 @@
       ]
     },
     {
-      "id": "aerospace-engineer",
-      "name": "Aerospace Engineer",
-      "overview": "Aerospace Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
-      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
-      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
-      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "id": "mechatronics-engineer",
+      "name": "Mechatronics Engineer",
+      "overview": "Mechatronics Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Mechatronics Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Mechatronics Engineering followed by higher studies if desired.",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "₹4–10 LPA",
-        "midLevel": "₹10–25 LPA",
-        "seniorLevel": "₹25–80+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
-      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
-      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
       "skills": [
         "Problem Solving",
+        "Analytical Thinking",
         "Mathematics",
-        "Programming",
-        "Critical Thinking",
+        "Technical Knowledge",
         "Communication",
+        "Teamwork",
+        "Project Management",
         "Innovation"
       ],
       "entranceExams": [
@@ -867,51 +941,45 @@
         "JEE Advanced",
         "BITSAT",
         "VITEEE",
-        "SRMJEEE",
-        "CUET"
+        "SRMJEEE"
       ],
       "topColleges": [
         "IIT Bombay",
         "IIT Delhi",
         "IIT Madras",
         "BITS Pilani",
-        "NIT Trichy",
-        "IIIT Hyderabad"
+        "VIT Vellore"
       ],
       "careerOpportunities": [
-        "Research",
-        "Development",
-        "Consulting",
-        "Technology",
-        "Manufacturing",
-        "Product Design"
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
       ],
       "recruiters": [
-        "Google",
-        "Microsoft",
-        "Amazon",
-        "TCS",
-        "Infosys",
+        "Tata Group",
         "L&T",
-        "ISRO",
-        "Tesla"
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
       ],
       "pros": [
         "High demand",
-        "Strong salary growth",
+        "Good salary potential",
         "Global opportunities",
-        "Innovation driven"
+        "Technical expertise"
       ],
       "cons": [
         "Competitive field",
         "Continuous learning required",
-        "Technical pressure"
+        "Technical workload"
       ],
       "relatedCareers": [
-        "Data Scientist",
-        "Product Manager",
-        "Research Engineer",
-        "Technology Consultant"
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
       ]
     },
     {
@@ -991,6 +1059,154 @@
       ]
     },
     {
+      "id": "aerospace-engineer",
+      "name": "Aerospace Engineer",
+      "overview": "Aerospace Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
+      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
+      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
+      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
+      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
+      "salary": {
+        "fresher": "₹4–10 LPA",
+        "midLevel": "₹10–25 LPA",
+        "seniorLevel": "₹25–80+ LPA"
+      },
+      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
+      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
+      "skills": [
+        "Problem Solving",
+        "Mathematics",
+        "Programming",
+        "Critical Thinking",
+        "Communication",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE",
+        "CUET"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "NIT Trichy",
+        "IIIT Hyderabad"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Development",
+        "Consulting",
+        "Technology",
+        "Manufacturing",
+        "Product Design"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "L&T",
+        "ISRO",
+        "Tesla"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salary growth",
+        "Global opportunities",
+        "Innovation driven"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Product Manager",
+        "Research Engineer",
+        "Technology Consultant"
+      ]
+    },
+    {
+      "id": "aeronautical-engineer",
+      "name": "Aeronautical Engineer",
+      "overview": "Aeronautical Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
+      "whyChoose": "Aeronautical Engineer offers strong growth, technical expertise and long-term career opportunities.",
+      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
+      "educationPath": "B.Tech/B.E. in Aeronautical Engineering followed by higher studies if desired.",
+      "feeRange": "₹2–25 Lakhs",
+      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
+      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
+      "skills": [
+        "Problem Solving",
+        "Analytical Thinking",
+        "Mathematics",
+        "Technical Knowledge",
+        "Communication",
+        "Teamwork",
+        "Project Management",
+        "Innovation"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "JEE Advanced",
+        "BITSAT",
+        "VITEEE",
+        "SRMJEEE"
+      ],
+      "topColleges": [
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras",
+        "BITS Pilani",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Engineer",
+        "Consultant",
+        "Research Associate",
+        "Project Engineer",
+        "Manager"
+      ],
+      "recruiters": [
+        "Tata Group",
+        "L&T",
+        "Reliance",
+        "Siemens",
+        "ABB",
+        "ISRO"
+      ],
+      "pros": [
+        "High demand",
+        "Good salary potential",
+        "Global opportunities",
+        "Technical expertise"
+      ],
+      "cons": [
+        "Competitive field",
+        "Continuous learning required",
+        "Technical workload"
+      ],
+      "relatedCareers": [
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Software Engineer"
+      ]
+    },
+    {
       "id": "chemical-engineer",
       "name": "Chemical Engineer",
       "overview": "Chemical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
@@ -1067,311 +1283,18 @@
       ]
     },
     {
-      "id": "biomedical-engineer",
-      "name": "Biomedical Engineer",
-      "overview": "Biomedical Engineer is a professional engineering career focused on innovation, technology, design, development and problem solving.",
-      "whyChoose": "Strong demand, excellent salary growth, global opportunities and future-ready skills.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics from a recognized board.",
-      "educationPath": "Class 12 PCM → B.Tech/B.E. → Internship → Job/Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹25 Lakhs",
-      "workEnvironment": "Engineering firms, technology companies, manufacturing industries, research organizations and startups.",
-      "salary": {
-        "fresher": "₹4–10 LPA",
-        "midLevel": "₹10–25 LPA",
-        "seniorLevel": "₹25–80+ LPA"
-      },
-      "futureScope": "Excellent due to AI, automation, digital transformation and emerging technologies.",
-      "aiImpact": "AI will automate repetitive tasks while increasing demand for advanced engineering skills.",
-      "skills": [
-        "Problem Solving",
-        "Mathematics",
-        "Programming",
-        "Critical Thinking",
-        "Communication",
-        "Innovation"
-      ],
-      "entranceExams": [
-        "JEE Main",
-        "JEE Advanced",
-        "BITSAT",
-        "VITEEE",
-        "SRMJEEE",
-        "CUET"
-      ],
-      "topColleges": [
-        "IIT Bombay",
-        "IIT Delhi",
-        "IIT Madras",
-        "BITS Pilani",
-        "NIT Trichy",
-        "IIIT Hyderabad"
-      ],
-      "careerOpportunities": [
-        "Research",
-        "Development",
-        "Consulting",
-        "Technology",
-        "Manufacturing",
-        "Product Design"
-      ],
-      "recruiters": [
-        "Google",
-        "Microsoft",
-        "Amazon",
-        "TCS",
-        "Infosys",
-        "L&T",
-        "ISRO",
-        "Tesla"
-      ],
-      "pros": [
-        "High demand",
-        "Strong salary growth",
-        "Global opportunities",
-        "Innovation driven"
-      ],
-      "cons": [
-        "Competitive field",
-        "Continuous learning required",
-        "Technical pressure"
-      ],
-      "relatedCareers": [
-        "Data Scientist",
-        "Product Manager",
-        "Research Engineer",
-        "Technology Consultant"
-      ]
-    },
-    
-    {
-      "id": "information-technology-engineer",
-      "name": "Information Technology Engineer",
-      "overview": "Information Technology Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
-      "whyChoose": "Information Technology Engineer offers strong growth, technical expertise and long-term career opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
-      "educationPath": "B.Tech/B.E. in Information Technology Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
-      "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
-      },
-      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
-      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
-      "skills": [
-        "Problem Solving",
-        "Analytical Thinking",
-        "Mathematics",
-        "Technical Knowledge",
-        "Communication",
-        "Teamwork",
-        "Project Management",
-        "Innovation"
-      ],
-      "entranceExams": [
-        "JEE Main",
-        "JEE Advanced",
-        "BITSAT",
-        "VITEEE",
-        "SRMJEEE"
-      ],
-      "topColleges": [
-        "IIT Bombay",
-        "IIT Delhi",
-        "IIT Madras",
-        "BITS Pilani",
-        "VIT Vellore"
-      ],
-      "careerOpportunities": [
-        "Engineer",
-        "Consultant",
-        "Research Associate",
-        "Project Engineer",
-        "Manager"
-      ],
-      "recruiters": [
-        "Tata Group",
-        "L&T",
-        "Reliance",
-        "Siemens",
-        "ABB",
-        "ISRO"
-      ],
-      "pros": [
-        "High demand",
-        "Good salary potential",
-        "Global opportunities",
-        "Technical expertise"
-      ],
-      "cons": [
-        "Competitive field",
-        "Continuous learning required",
-        "Technical workload"
-      ],
-      "relatedCareers": [
-        "Mechanical Engineer",
-        "Electrical Engineer",
-        "Software Engineer"
-      ]
-    },
-    {
-      "id": "mechatronics-engineer",
-      "name": "Mechatronics Engineer",
-      "overview": "Mechatronics Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
-      "whyChoose": "Mechatronics Engineer offers strong growth, technical expertise and long-term career opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
-      "educationPath": "B.Tech/B.E. in Mechatronics Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
-      "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
-      },
-      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
-      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
-      "skills": [
-        "Problem Solving",
-        "Analytical Thinking",
-        "Mathematics",
-        "Technical Knowledge",
-        "Communication",
-        "Teamwork",
-        "Project Management",
-        "Innovation"
-      ],
-      "entranceExams": [
-        "JEE Main",
-        "JEE Advanced",
-        "BITSAT",
-        "VITEEE",
-        "SRMJEEE"
-      ],
-      "topColleges": [
-        "IIT Bombay",
-        "IIT Delhi",
-        "IIT Madras",
-        "BITS Pilani",
-        "VIT Vellore"
-      ],
-      "careerOpportunities": [
-        "Engineer",
-        "Consultant",
-        "Research Associate",
-        "Project Engineer",
-        "Manager"
-      ],
-      "recruiters": [
-        "Tata Group",
-        "L&T",
-        "Reliance",
-        "Siemens",
-        "ABB",
-        "ISRO"
-      ],
-      "pros": [
-        "High demand",
-        "Good salary potential",
-        "Global opportunities",
-        "Technical expertise"
-      ],
-      "cons": [
-        "Competitive field",
-        "Continuous learning required",
-        "Technical workload"
-      ],
-      "relatedCareers": [
-        "Mechanical Engineer",
-        "Electrical Engineer",
-        "Software Engineer"
-      ]
-    },
-    {
-      "id": "aeronautical-engineer",
-      "name": "Aeronautical Engineer",
-      "overview": "Aeronautical Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
-      "whyChoose": "Aeronautical Engineer offers strong growth, technical expertise and long-term career opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
-      "educationPath": "B.Tech/B.E. in Aeronautical Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
-      "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
-      "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
-      },
-      "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
-      "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
-      "skills": [
-        "Problem Solving",
-        "Analytical Thinking",
-        "Mathematics",
-        "Technical Knowledge",
-        "Communication",
-        "Teamwork",
-        "Project Management",
-        "Innovation"
-      ],
-      "entranceExams": [
-        "JEE Main",
-        "JEE Advanced",
-        "BITSAT",
-        "VITEEE",
-        "SRMJEEE"
-      ],
-      "topColleges": [
-        "IIT Bombay",
-        "IIT Delhi",
-        "IIT Madras",
-        "BITS Pilani",
-        "VIT Vellore"
-      ],
-      "careerOpportunities": [
-        "Engineer",
-        "Consultant",
-        "Research Associate",
-        "Project Engineer",
-        "Manager"
-      ],
-      "recruiters": [
-        "Tata Group",
-        "L&T",
-        "Reliance",
-        "Siemens",
-        "ABB",
-        "ISRO"
-      ],
-      "pros": [
-        "High demand",
-        "Good salary potential",
-        "Global opportunities",
-        "Technical expertise"
-      ],
-      "cons": [
-        "Competitive field",
-        "Continuous learning required",
-        "Technical workload"
-      ],
-      "relatedCareers": [
-        "Mechanical Engineer",
-        "Electrical Engineer",
-        "Software Engineer"
-      ]
-    },
-    {
       "id": "biotechnology-engineer",
       "name": "Biotechnology Engineer",
       "overview": "Biotechnology Engineer is a professional engineering career with opportunities across industry, research and technology sectors.",
       "whyChoose": "Biotechnology Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Biotechnology Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1438,12 +1361,12 @@
       "whyChoose": "Environmental Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Environmental Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1510,12 +1433,12 @@
       "whyChoose": "Industrial Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Industrial Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1582,12 +1505,12 @@
       "whyChoose": "Marine Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Marine Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1654,12 +1577,12 @@
       "whyChoose": "Petroleum Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Petroleum Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1726,12 +1649,12 @@
       "whyChoose": "Mining Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Mining Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1798,12 +1721,12 @@
       "whyChoose": "Metallurgical Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Metallurgical Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1870,12 +1793,12 @@
       "whyChoose": "Production Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Production Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -1942,12 +1865,12 @@
       "whyChoose": "Agricultural Engineer offers strong growth, technical expertise and long-term career opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Mathematics (PCM).",
       "educationPath": "B.Tech/B.E. in Agricultural Engineering followed by higher studies if desired.",
-      "feeRange": "\u20b92\u201325 Lakhs",
+      "feeRange": "₹2–25 Lakhs",
       "workEnvironment": "Industry, manufacturing units, research organizations, consulting firms and government sectors.",
       "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
       },
       "futureScope": "Strong due to technological advancement, automation and global industrial demand.",
       "aiImpact": "AI will automate routine work while increasing demand for advanced engineering expertise.",
@@ -2005,6 +1928,663 @@
         "Mechanical Engineer",
         "Electrical Engineer",
         "Software Engineer"
+      ]
+    },
+    {
+      "id": "biomedical-engineer",
+      "name": "Biomedical Engineer",
+      "overview": "Biomedical Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Biomedical Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Structural Engineer",
+        "Geotechnical Engineer",
+        "Energy Engineer"
+      ]
+    },
+    {
+      "id": "telecommunication-engineer",
+      "name": "Telecommunication Engineer",
+      "overview": "Telecommunication Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Telecommunication Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Geotechnical Engineer",
+        "Energy Engineer",
+        "Nuclear Engineer"
+      ]
+    },
+    {
+      "id": "structural-engineer",
+      "name": "Structural Engineer",
+      "overview": "Structural Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Structural Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Energy Engineer",
+        "Nuclear Engineer",
+        "Textile Engineer"
+      ]
+    },
+    {
+      "id": "geotechnical-engineer",
+      "name": "Geotechnical Engineer",
+      "overview": "Geotechnical Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Geotechnical Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Nuclear Engineer",
+        "Textile Engineer",
+        "Food Technology Engineer"
+      ]
+    },
+    {
+      "id": "energy-engineer",
+      "name": "Energy Engineer",
+      "overview": "Energy Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Energy Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Textile Engineer",
+        "Food Technology Engineer",
+        "Ceramic Engineer"
+      ]
+    },
+    {
+      "id": "nuclear-engineer",
+      "name": "Nuclear Engineer",
+      "overview": "Nuclear Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Nuclear Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Food Technology Engineer",
+        "Ceramic Engineer",
+        "Instrumentation Engineer"
+      ]
+    },
+    {
+      "id": "textile-engineer",
+      "name": "Textile Engineer",
+      "overview": "Textile Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Textile Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Ceramic Engineer",
+        "Instrumentation Engineer"
+      ]
+    },
+    {
+      "id": "food-technology-engineer",
+      "name": "Food Technology Engineer",
+      "overview": "Food Technology Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Food Technology Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Instrumentation Engineer"
+      ]
+    },
+    {
+      "id": "ceramic-engineer",
+      "name": "Ceramic Engineer",
+      "overview": "Ceramic Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Ceramic Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Computer Science Engineer",
+        "Information Technology Engineer",
+        "Artificial Intelligence Engineer"
+      ]
+    },
+    {
+      "id": "instrumentation-engineer",
+      "name": "Instrumentation Engineer",
+      "overview": "Instrumentation Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Instrumentation Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Computer Science Engineer",
+        "Information Technology Engineer",
+        "Artificial Intelligence Engineer"
       ]
     }
   ]

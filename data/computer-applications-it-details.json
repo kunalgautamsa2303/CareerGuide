@@ -1,0 +1,1023 @@
+{
+  "domain": "Computer Applications & IT",
+  "description": "BCA, software, IT services, cloud, networking and application careers.",
+  "careers": [
+    {
+      "id": "bca-developer",
+      "name": "BCA Developer",
+      "overview": "BCA Developer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "BCA Developer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Mobile App Developer",
+        "Cloud Computing Specialist",
+        "Network Administrator"
+      ]
+    },
+    {
+      "id": "web-developer",
+      "name": "Web Developer",
+      "overview": "Web Developer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Web Developer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cloud Computing Specialist",
+        "Network Administrator",
+        "Database Administrator"
+      ]
+    },
+    {
+      "id": "mobile-app-developer",
+      "name": "Mobile App Developer",
+      "overview": "Mobile App Developer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Mobile App Developer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Network Administrator",
+        "Database Administrator",
+        "Systems Analyst"
+      ]
+    },
+    {
+      "id": "cloud-computing-specialist",
+      "name": "Cloud Computing Specialist",
+      "overview": "Cloud Computing Specialist builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Cloud Computing Specialist is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Database Administrator",
+        "Systems Analyst",
+        "IT Support Specialist"
+      ]
+    },
+    {
+      "id": "network-administrator",
+      "name": "Network Administrator",
+      "overview": "Network Administrator builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Network Administrator is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Systems Analyst",
+        "IT Support Specialist",
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "id": "database-administrator",
+      "name": "Database Administrator",
+      "overview": "Database Administrator builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Database Administrator is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "IT Support Specialist",
+        "DevOps Engineer",
+        "QA Tester"
+      ]
+    },
+    {
+      "id": "systems-analyst",
+      "name": "Systems Analyst",
+      "overview": "Systems Analyst builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Systems Analyst is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "DevOps Engineer",
+        "QA Tester",
+        "UI Developer"
+      ]
+    },
+    {
+      "id": "it-support-specialist",
+      "name": "IT Support Specialist",
+      "overview": "IT Support Specialist builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "IT Support Specialist is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "QA Tester",
+        "UI Developer",
+        "ERP Consultant"
+      ]
+    },
+    {
+      "id": "devops-engineer",
+      "name": "DevOps Engineer",
+      "overview": "DevOps Engineer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "DevOps Engineer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "UI Developer",
+        "ERP Consultant",
+        "IT Project Coordinator"
+      ]
+    },
+    {
+      "id": "qa-tester",
+      "name": "QA Tester",
+      "overview": "QA Tester builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "QA Tester is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "ERP Consultant",
+        "IT Project Coordinator",
+        "Technical Writer"
+      ]
+    },
+    {
+      "id": "ui-developer",
+      "name": "UI Developer",
+      "overview": "UI Developer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "UI Developer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "IT Project Coordinator",
+        "Technical Writer",
+        "Computer Applications Teacher"
+      ]
+    },
+    {
+      "id": "erp-consultant",
+      "name": "ERP Consultant",
+      "overview": "ERP Consultant builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "ERP Consultant is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Technical Writer",
+        "Computer Applications Teacher"
+      ]
+    },
+    {
+      "id": "it-project-coordinator",
+      "name": "IT Project Coordinator",
+      "overview": "IT Project Coordinator builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "IT Project Coordinator is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Computer Applications Teacher"
+      ]
+    },
+    {
+      "id": "technical-writer",
+      "name": "Technical Writer",
+      "overview": "Technical Writer builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Technical Writer is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "BCA Developer",
+        "Web Developer",
+        "Mobile App Developer"
+      ]
+    },
+    {
+      "id": "computer-applications-teacher",
+      "name": "Computer Applications Teacher",
+      "overview": "Computer Applications Teacher builds, manages and supports software applications, websites, networks, databases and IT systems.",
+      "whyChoose": "Computer Applications Teacher is useful because it offers strong digital career options for students interested in computers beyond only engineering routes.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is preferred for many BCA/B.Sc IT routes, but requirements vary.",
+      "educationPath": "Class 12 -> BCA/B.Sc IT/diploma/certification -> Projects -> Internship -> IT role.",
+      "feeRange": "Rs 1-12 Lakhs",
+      "workEnvironment": "IT companies, startups, corporate technology teams, cloud teams, support centers and product companies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-55+ LPA"
+      },
+      "futureScope": "Strong due to software, cloud, automation, business digitization and IT service demand.",
+      "aiImpact": "AI will speed up coding and support work while system design, debugging and product thinking stay valuable.",
+      "skills": [
+        "Programming",
+        "Databases",
+        "Networking",
+        "Cloud Basics",
+        "Problem Solving",
+        "Documentation"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "NIMCET for MCA",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Christ University",
+        "Symbiosis Institute",
+        "Delhi University",
+        "VIT",
+        "SRM Institute"
+      ],
+      "careerOpportunities": [
+        "Software Development",
+        "IT Support",
+        "Cloud",
+        "Testing",
+        "Database Management"
+      ],
+      "recruiters": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "Accenture",
+        "HCL",
+        "Startups"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "BCA Developer",
+        "Web Developer",
+        "Mobile App Developer"
+      ]
+    }
+  ]
+}

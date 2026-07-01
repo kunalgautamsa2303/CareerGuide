@@ -1,0 +1,1008 @@
+{
+  "domain": "Humanities & Social Sciences",
+  "description": "Society, policy, history, languages, development and public-impact careers.",
+  "careers": [
+    {
+      "id": "sociologist",
+      "name": "Sociologist",
+      "overview": "Sociologist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Sociologist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Historian",
+        "Archaeologist",
+        "Anthropologist"
+      ]
+    },
+    {
+      "id": "political-scientist",
+      "name": "Political Scientist",
+      "overview": "Political Scientist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Political Scientist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Archaeologist",
+        "Anthropologist",
+        "Civil Services Officer"
+      ]
+    },
+    {
+      "id": "historian",
+      "name": "Historian",
+      "overview": "Historian studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Historian is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Anthropologist",
+        "Civil Services Officer",
+        "Public Policy Analyst"
+      ]
+    },
+    {
+      "id": "archaeologist",
+      "name": "Archaeologist",
+      "overview": "Archaeologist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Archaeologist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Civil Services Officer",
+        "Public Policy Analyst",
+        "Social Worker"
+      ]
+    },
+    {
+      "id": "anthropologist",
+      "name": "Anthropologist",
+      "overview": "Anthropologist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Anthropologist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Public Policy Analyst",
+        "Social Worker",
+        "International Relations Specialist"
+      ]
+    },
+    {
+      "id": "civil-services-officer",
+      "name": "Civil Services Officer",
+      "overview": "Civil Services Officer studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Civil Services Officer is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Social Worker",
+        "International Relations Specialist",
+        "Economist"
+      ]
+    },
+    {
+      "id": "public-policy-analyst",
+      "name": "Public Policy Analyst",
+      "overview": "Public Policy Analyst studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Public Policy Analyst is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "International Relations Specialist",
+        "Economist",
+        "Geographer"
+      ]
+    },
+    {
+      "id": "social-worker",
+      "name": "Social Worker",
+      "overview": "Social Worker studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Social Worker is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Economist",
+        "Geographer",
+        "Linguist"
+      ]
+    },
+    {
+      "id": "international-relations-specialist",
+      "name": "International Relations Specialist",
+      "overview": "International Relations Specialist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "International Relations Specialist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Geographer",
+        "Linguist",
+        "Writer"
+      ]
+    },
+    {
+      "id": "economist",
+      "name": "Economist",
+      "overview": "Economist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Economist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Linguist",
+        "Writer",
+        "NGO Program Manager"
+      ]
+    },
+    {
+      "id": "geographer",
+      "name": "Geographer",
+      "overview": "Geographer studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Geographer is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Writer",
+        "NGO Program Manager",
+        "Development Sector Professional"
+      ]
+    },
+    {
+      "id": "linguist",
+      "name": "Linguist",
+      "overview": "Linguist studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Linguist is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "NGO Program Manager",
+        "Development Sector Professional"
+      ]
+    },
+    {
+      "id": "writer",
+      "name": "Writer",
+      "overview": "Writer studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Writer is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Development Sector Professional"
+      ]
+    },
+    {
+      "id": "ngo-program-manager",
+      "name": "NGO Program Manager",
+      "overview": "NGO Program Manager studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "NGO Program Manager is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sociologist",
+        "Political Scientist",
+        "Historian"
+      ]
+    },
+    {
+      "id": "development-sector-professional",
+      "name": "Development Sector Professional",
+      "overview": "Development Sector Professional studies people, society, culture, policy, history, language and social change to solve human problems.",
+      "whyChoose": "Development Sector Professional is useful because it builds strong thinking, writing, research and public-impact skills for diverse professional pathways.",
+      "eligibility": "Class 12 in any stream; Humanities subjects are useful but not always compulsory.",
+      "educationPath": "Class 12 -> BA/BSW/BPA or related degree -> Internship/research/projects -> Public, social or policy role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Universities, NGOs, think tanks, media teams, policy organizations, government bodies and research firms.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-40+ LPA"
+      },
+      "futureScope": "Strong for policy, development, research, communication, civil services and human-centered organizations.",
+      "aiImpact": "AI will support research and drafting while interpretation, judgement and field context remain human-led.",
+      "skills": [
+        "Research",
+        "Writing",
+        "Critical Thinking",
+        "Communication",
+        "Field Work",
+        "Policy Awareness"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Civil Services Exam",
+        "State Public Service Exams"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jawaharlal Nehru University",
+        "TISS",
+        "Ashoka University",
+        "Azim Premji University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Policy",
+        "Civil Services",
+        "Development Sector",
+        "Writing"
+      ],
+      "recruiters": [
+        "NGOs",
+        "Think Tanks",
+        "Government Bodies",
+        "Research Firms",
+        "Universities"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sociologist",
+        "Political Scientist",
+        "Historian"
+      ]
+    }
+  ]
+}

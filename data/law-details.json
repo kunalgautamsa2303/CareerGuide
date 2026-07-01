@@ -295,6 +295,412 @@
       ]
     },
     {
+      "id": "constitutional-lawyer",
+      "name": "Constitutional Lawyer",
+      "overview": "Specializes in constitutional law and citizens' rights.",
+      "whyChoose": "Prestigious legal specialization with policy impact.",
+      "eligibility": "10+2 + Law Degree",
+      "educationPath": "BA LLB/LLB → Constitutional Law",
+      "feeRange": "₹1–25 Lakhs",
+      "workEnvironment": "Courts, Government, Academia",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–50+ LPA"
+      },
+      "futureScope": "Strong",
+      "aiImpact": "Research assistance only",
+      "skills": [
+        "Legal Research",
+        "Advocacy",
+        "Critical Thinking"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET"
+      ],
+      "topColleges": [
+        "NLSIU",
+        "NLU Delhi"
+      ],
+      "careerOpportunities": [
+        "Constitutional Lawyer",
+        "Policy Expert"
+      ],
+      "recruiters": [
+        "Courts",
+        "Government"
+      ],
+      "pros": [
+        "Prestige",
+        "Impact"
+      ],
+      "cons": [
+        "Highly competitive"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Judge"
+      ]
+    },
+    {
+      "id": "cyber-lawyer",
+      "name": "Cyber Lawyer",
+      "overview": "Cyber Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
+      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
+      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
+      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
+      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "skills": [
+        "Legal Research",
+        "Critical Thinking",
+        "Communication",
+        "Negotiation",
+        "Analytical Skills",
+        "Drafting"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "SLAT",
+        "MH CET Law"
+      ],
+      "topColleges": [
+        "NLSIU Bangalore",
+        "NLU Delhi",
+        "NALSAR Hyderabad",
+        "WBNUJS Kolkata",
+        "GNLU Gandhinagar",
+        "Symbiosis Law School"
+      ],
+      "careerOpportunities": [
+        "Litigation",
+        "Corporate Law",
+        "Compliance",
+        "Policy",
+        "Legal Consulting",
+        "Judiciary"
+      ],
+      "recruiters": [
+        "AZB & Partners",
+        "Khaitan & Co",
+        "Shardul Amarchand",
+        "Luthra & Luthra",
+        "Trilegal",
+        "Government Bodies"
+      ],
+      "pros": [
+        "Respected profession",
+        "Diverse opportunities",
+        "Strong growth potential",
+        "Societal impact"
+      ],
+      "cons": [
+        "Competitive field",
+        "Long working hours",
+        "High pressure environments"
+      ],
+      "relatedCareers": [
+        "Policy Analyst",
+        "Compliance Manager",
+        "Mediator",
+        "Legal Consultant"
+      ]
+    },
+    {
+      "id": "intellectual-property-lawyer",
+      "name": "Intellectual Property Lawyer",
+      "overview": "Intellectual Property Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
+      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
+      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
+      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
+      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "skills": [
+        "Legal Research",
+        "Critical Thinking",
+        "Communication",
+        "Negotiation",
+        "Analytical Skills",
+        "Drafting"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "SLAT",
+        "MH CET Law"
+      ],
+      "topColleges": [
+        "NLSIU Bangalore",
+        "NLU Delhi",
+        "NALSAR Hyderabad",
+        "WBNUJS Kolkata",
+        "GNLU Gandhinagar",
+        "Symbiosis Law School"
+      ],
+      "careerOpportunities": [
+        "Litigation",
+        "Corporate Law",
+        "Compliance",
+        "Policy",
+        "Legal Consulting",
+        "Judiciary"
+      ],
+      "recruiters": [
+        "AZB & Partners",
+        "Khaitan & Co",
+        "Shardul Amarchand",
+        "Luthra & Luthra",
+        "Trilegal",
+        "Government Bodies"
+      ],
+      "pros": [
+        "Respected profession",
+        "Diverse opportunities",
+        "Strong growth potential",
+        "Societal impact"
+      ],
+      "cons": [
+        "Competitive field",
+        "Long working hours",
+        "High pressure environments"
+      ],
+      "relatedCareers": [
+        "Policy Analyst",
+        "Compliance Manager",
+        "Mediator",
+        "Legal Consultant"
+      ]
+    },
+    {
+      "id": "tax-lawyer",
+      "name": "Tax Lawyer",
+      "overview": "Tax Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
+      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
+      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
+      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
+      "feeRange": "₹1 Lakh – ₹25 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "salary": {
+        "fresher": "₹3–8 LPA",
+        "midLevel": "₹8–20 LPA",
+        "seniorLevel": "₹20–60+ LPA"
+      },
+      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
+      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "skills": [
+        "Legal Research",
+        "Critical Thinking",
+        "Communication",
+        "Negotiation",
+        "Analytical Skills",
+        "Drafting"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "SLAT",
+        "MH CET Law"
+      ],
+      "topColleges": [
+        "NLSIU Bangalore",
+        "NLU Delhi",
+        "NALSAR Hyderabad",
+        "WBNUJS Kolkata",
+        "GNLU Gandhinagar",
+        "Symbiosis Law School"
+      ],
+      "careerOpportunities": [
+        "Litigation",
+        "Corporate Law",
+        "Compliance",
+        "Policy",
+        "Legal Consulting",
+        "Judiciary"
+      ],
+      "recruiters": [
+        "AZB & Partners",
+        "Khaitan & Co",
+        "Shardul Amarchand",
+        "Luthra & Luthra",
+        "Trilegal",
+        "Government Bodies"
+      ],
+      "pros": [
+        "Respected profession",
+        "Diverse opportunities",
+        "Strong growth potential",
+        "Societal impact"
+      ],
+      "cons": [
+        "Competitive field",
+        "Long working hours",
+        "High pressure environments"
+      ],
+      "relatedCareers": [
+        "Policy Analyst",
+        "Compliance Manager",
+        "Mediator",
+        "Legal Consultant"
+      ]
+    },
+    {
+      "id": "environmental-lawyer",
+      "name": "Environmental Lawyer",
+      "overview": "Environmental Lawyer is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Environmental Lawyer offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
+      },
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
+      "skills": [
+        "Legal Reasoning",
+        "Research",
+        "Writing",
+        "Communication",
+        "Negotiation",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "CUET",
+        "State Law Entrance Tests"
+      ],
+      "topColleges": [
+        "NLSIU Bengaluru",
+        "NALSAR Hyderabad",
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
+      ],
+      "careerOpportunities": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
+      ],
+      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
+      ],
+      "pros": [
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
+      ],
+      "cons": [
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
+      ]
+    },
+    {
+      "id": "labour-lawyer",
+      "name": "Labour Lawyer",
+      "overview": "Labour Lawyer is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Labour Lawyer offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
+      },
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
+      "skills": [
+        "Legal Reasoning",
+        "Research",
+        "Writing",
+        "Communication",
+        "Negotiation",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "CUET",
+        "State Law Entrance Tests"
+      ],
+      "topColleges": [
+        "NLSIU Bengaluru",
+        "NALSAR Hyderabad",
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
+      ],
+      "careerOpportunities": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
+      ],
+      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
+      ],
+      "pros": [
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
+      ],
+      "cons": [
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
+      ]
+    },
+    {
       "id": "judge",
       "name": "Judge",
       "overview": "Judge is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
@@ -514,149 +920,141 @@
       ]
     },
     {
-      "id": "intellectual-property-lawyer",
-      "name": "Intellectual Property Lawyer",
-      "overview": "Intellectual Property Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "id": "public-prosecutor",
+      "name": "Public Prosecutor",
+      "overview": "Public Prosecutor is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Public Prosecutor offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
       },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
       "skills": [
-        "Legal Research",
-        "Critical Thinking",
+        "Legal Reasoning",
+        "Research",
+        "Writing",
         "Communication",
         "Negotiation",
-        "Analytical Skills",
-        "Drafting"
+        "Ethics"
       ],
       "entranceExams": [
         "CLAT",
         "AILET",
         "LSAT India",
-        "SLAT",
-        "MH CET Law"
+        "CUET",
+        "State Law Entrance Tests"
       ],
       "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
+        "NLSIU Bengaluru",
         "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
       ],
       "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
       ],
       "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
       ],
       "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
       ],
       "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
       ],
       "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
       ]
     },
     {
-      "id": "cyber-lawyer",
-      "name": "Cyber Lawyer",
-      "overview": "Cyber Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "id": "legal-journalist",
+      "name": "Legal Journalist",
+      "overview": "Legal Journalist is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Legal Journalist offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
       },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
       "skills": [
-        "Legal Research",
-        "Critical Thinking",
+        "Legal Reasoning",
+        "Research",
+        "Writing",
         "Communication",
         "Negotiation",
-        "Analytical Skills",
-        "Drafting"
+        "Ethics"
       ],
       "entranceExams": [
         "CLAT",
         "AILET",
         "LSAT India",
-        "SLAT",
-        "MH CET Law"
+        "CUET",
+        "State Law Entrance Tests"
       ],
       "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
+        "NLSIU Bengaluru",
         "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
       ],
       "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
       ],
       "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
       ],
       "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
       ],
       "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
       ],
       "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
       ]
     },
     {
@@ -733,451 +1131,280 @@
       ]
     },
     {
-      "id": "tax-lawyer",
-      "name": "Tax Lawyer",
-      "overview": "Tax Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
+      "id": "international-lawyer",
+      "name": "International Lawyer",
+      "overview": "International Lawyer is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "International Lawyer offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
       "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
       },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
       "skills": [
-        "Legal Research",
-        "Critical Thinking",
+        "Legal Reasoning",
+        "Research",
+        "Writing",
         "Communication",
         "Negotiation",
-        "Analytical Skills",
-        "Drafting"
+        "Ethics"
       ],
       "entranceExams": [
         "CLAT",
         "AILET",
         "LSAT India",
-        "SLAT",
-        "MH CET Law"
+        "CUET",
+        "State Law Entrance Tests"
       ],
       "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
+        "NLSIU Bengaluru",
         "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
-      ],
-      "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
-      ],
-      "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
-      ],
-      "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
-      ],
-      "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
-      ],
-      "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
-      ]
-    },
-    {
-      "id": "litigation-lawyer",
-      "name": "Litigation Lawyer",
-      "overview": "Litigation Lawyer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
-      },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
-      "skills": [
-        "Legal Research",
-        "Critical Thinking",
-        "Communication",
-        "Negotiation",
-        "Analytical Skills",
-        "Drafting"
-      ],
-      "entranceExams": [
-        "CLAT",
-        "AILET",
-        "LSAT India",
-        "SLAT",
-        "MH CET Law"
-      ],
-      "topColleges": [
-        "NLSIU Bangalore",
         "NLU Delhi",
-        "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
       ],
       "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
-      ],
-      "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
-      ],
-      "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
-      ],
-      "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
-      ],
-      "relatedCareers": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
         "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
         "Legal Consultant"
-      ]
-    },
-    {
-      "id": "company-secretary",
-      "name": "Company Secretary",
-      "overview": "Company Secretary is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
-      },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
-      "skills": [
-        "Legal Research",
-        "Critical Thinking",
-        "Communication",
-        "Negotiation",
-        "Analytical Skills",
-        "Drafting"
-      ],
-      "entranceExams": [
-        "CLAT",
-        "AILET",
-        "LSAT India",
-        "SLAT",
-        "MH CET Law"
-      ],
-      "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
-        "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
-      ],
-      "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
       ],
       "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
-      ],
-      "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
-      ],
-      "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
-      ],
-      "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
-      ]
-    },
-    {
-      "id": "compliance-officer",
-      "name": "Compliance Officer",
-      "overview": "Compliance Officer is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
-      },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
-      "skills": [
-        "Legal Research",
-        "Critical Thinking",
-        "Communication",
-        "Negotiation",
-        "Analytical Skills",
-        "Drafting"
-      ],
-      "entranceExams": [
-        "CLAT",
-        "AILET",
-        "LSAT India",
-        "SLAT",
-        "MH CET Law"
-      ],
-      "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
-        "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
-      ],
-      "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
-      ],
-      "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
-      ],
-      "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
-      ],
-      "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
-      ],
-      "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
-      ]
-    },
-    {
-      "id": "legal-researcher",
-      "name": "Legal Researcher",
-      "overview": "Legal Researcher is a legal profession focused on interpreting laws, protecting rights, resolving disputes and providing legal guidance.",
-      "whyChoose": "Strong professional prestige, intellectual challenge, diverse career paths and significant societal impact.",
-      "eligibility": "10+2 from any stream followed by an integrated law degree or graduation followed by LLB.",
-      "educationPath": "Class 12 → CLAT/AILET/LSAT → BA LLB/BBA LLB/BCom LLB or Graduation → LLB → Practice/Higher Studies.",
-      "feeRange": "₹1 Lakh – ₹25 Lakhs",
-      "workEnvironment": "Courts, law firms, corporate legal departments, government agencies, NGOs and consulting firms.",
-      "salary": {
-        "fresher": "₹3–8 LPA",
-        "midLevel": "₹8–20 LPA",
-        "seniorLevel": "₹20–60+ LPA"
-      },
-      "futureScope": "Growing demand due to regulatory complexity, corporate governance, cyber law and intellectual property matters.",
-      "aiImpact": "AI will assist research and documentation, but legal reasoning, advocacy and negotiation remain human-driven.",
-      "skills": [
-        "Legal Research",
-        "Critical Thinking",
-        "Communication",
-        "Negotiation",
-        "Analytical Skills",
-        "Drafting"
-      ],
-      "entranceExams": [
-        "CLAT",
-        "AILET",
-        "LSAT India",
-        "SLAT",
-        "MH CET Law"
-      ],
-      "topColleges": [
-        "NLSIU Bangalore",
-        "NLU Delhi",
-        "NALSAR Hyderabad",
-        "WBNUJS Kolkata",
-        "GNLU Gandhinagar",
-        "Symbiosis Law School"
-      ],
-      "careerOpportunities": [
-        "Litigation",
-        "Corporate Law",
-        "Compliance",
-        "Policy",
-        "Legal Consulting",
-        "Judiciary"
-      ],
-      "recruiters": [
-        "AZB & Partners",
-        "Khaitan & Co",
-        "Shardul Amarchand",
-        "Luthra & Luthra",
-        "Trilegal",
-        "Government Bodies"
-      ],
-      "pros": [
-        "Respected profession",
-        "Diverse opportunities",
-        "Strong growth potential",
-        "Societal impact"
-      ],
-      "cons": [
-        "Competitive field",
-        "Long working hours",
-        "High pressure environments"
-      ],
-      "relatedCareers": [
-        "Policy Analyst",
-        "Compliance Manager",
-        "Mediator",
-        "Legal Consultant"
-      ]
-    },
-
-    {
-      "id": "constitutional-lawyer",
-      "name": "Constitutional Lawyer",
-      "overview": "Specializes in constitutional law and citizens' rights.",
-      "whyChoose": "Prestigious legal specialization with policy impact.",
-      "eligibility": "10+2 + Law Degree",
-      "educationPath": "BA LLB/LLB \u2192 Constitutional Law",
-      "feeRange": "\u20b91\u201325 Lakhs",
-      "workEnvironment": "Courts, Government, Academia",
-      "salary": {
-        "fresher": "\u20b94\u20138 LPA",
-        "midLevel": "\u20b98\u201320 LPA",
-        "seniorLevel": "\u20b920\u201350+ LPA"
-      },
-      "futureScope": "Strong",
-      "aiImpact": "Research assistance only",
-      "skills": [
-        "Legal Research",
-        "Advocacy",
-        "Critical Thinking"
-      ],
-      "entranceExams": [
-        "CLAT",
-        "AILET"
-      ],
-      "topColleges": [
-        "NLSIU",
-        "NLU Delhi"
-      ],
-      "careerOpportunities": [
-        "Constitutional Lawyer",
-        "Policy Expert"
-      ],
-      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
         "Courts",
-        "Government"
+        "Government Bodies",
+        "Consulting Firms"
       ],
       "pros": [
-        "Prestige",
-        "Impact"
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
       ],
       "cons": [
-        "Highly competitive"
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
       ],
       "relatedCareers": [
         "Lawyer",
-        "Judge"
+        "Corporate Lawyer",
+        "Criminal Lawyer"
       ]
     },
     {
-      "id": "environmental-lawyer",
-      "name": "Environmental Lawyer"
-    },
-    {
-      "id": "labour-lawyer",
-      "name": "Labour Lawyer"
-    },
-    {
-      "id": "public-prosecutor",
-      "name": "Public Prosecutor"
-    },
-    {
-      "id": "legal-journalist",
-      "name": "Legal Journalist"
-    },
-    {
-      "id": "international-lawyer",
-      "name": "International Lawyer"
-    },
-    {
       "id": "arbitrator",
-      "name": "Arbitrator"
+      "name": "Arbitrator",
+      "overview": "Arbitrator is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Arbitrator offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
+      },
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
+      "skills": [
+        "Legal Reasoning",
+        "Research",
+        "Writing",
+        "Communication",
+        "Negotiation",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "CUET",
+        "State Law Entrance Tests"
+      ],
+      "topColleges": [
+        "NLSIU Bengaluru",
+        "NALSAR Hyderabad",
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
+      ],
+      "careerOpportunities": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
+      ],
+      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
+      ],
+      "pros": [
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
+      ],
+      "cons": [
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
+      ]
     },
     {
       "id": "company-law-specialist",
-      "name": "Company Law Specialist"
+      "name": "Company Law Specialist",
+      "overview": "Company Law Specialist is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Company Law Specialist offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
+      },
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
+      "skills": [
+        "Legal Reasoning",
+        "Research",
+        "Writing",
+        "Communication",
+        "Negotiation",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "CUET",
+        "State Law Entrance Tests"
+      ],
+      "topColleges": [
+        "NLSIU Bengaluru",
+        "NALSAR Hyderabad",
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
+      ],
+      "careerOpportunities": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
+      ],
+      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
+      ],
+      "pros": [
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
+      ],
+      "cons": [
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
+      ]
     },
     {
       "id": "litigation-specialist",
-      "name": "Litigation Specialist"
+      "name": "Litigation Specialist",
+      "overview": "Litigation Specialist is a legal career focused on rights, justice, regulation, advisory work, contracts and dispute resolution.",
+      "whyChoose": "Litigation Specialist offers intellectual challenge, public impact, strong professional identity and wide specialization options.",
+      "eligibility": "Class 12 for integrated law programs or graduation for 3-year LL.B.",
+      "educationPath": "Class 12 -> Law entrance -> BA LL.B./BBA LL.B. or LL.B. -> Internship -> Practice or specialization.",
+      "feeRange": "Rs 1-18 Lakhs",
+      "workEnvironment": "Courts, law firms, corporate legal teams, government departments, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-25 LPA",
+        "seniorLevel": "Rs 25-75+ LPA"
+      },
+      "futureScope": "Strong due to corporate regulation, technology law, compliance, disputes and policy needs.",
+      "aiImpact": "AI will help with research and drafting, while argument, judgement, client strategy and ethics remain human-led.",
+      "skills": [
+        "Legal Reasoning",
+        "Research",
+        "Writing",
+        "Communication",
+        "Negotiation",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CLAT",
+        "AILET",
+        "LSAT India",
+        "CUET",
+        "State Law Entrance Tests"
+      ],
+      "topColleges": [
+        "NLSIU Bengaluru",
+        "NALSAR Hyderabad",
+        "NLU Delhi",
+        "NUJS Kolkata",
+        "GNLU Gandhinagar"
+      ],
+      "careerOpportunities": [
+        "Lawyer",
+        "Legal Advisor",
+        "Compliance Officer",
+        "Policy Analyst",
+        "Legal Consultant"
+      ],
+      "recruiters": [
+        "Law Firms",
+        "Corporate Legal Teams",
+        "Courts",
+        "Government Bodies",
+        "Consulting Firms"
+      ],
+      "pros": [
+        "High impact",
+        "Specialization options",
+        "Professional respect",
+        "Strong reasoning skills"
+      ],
+      "cons": [
+        "Long hours",
+        "Competitive practice",
+        "Continuous reading required"
+      ],
+      "relatedCareers": [
+        "Lawyer",
+        "Corporate Lawyer",
+        "Criminal Lawyer"
+      ]
     }
   ]
 }

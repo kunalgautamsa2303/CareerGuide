@@ -1,0 +1,65 @@
+{
+  "domain": "Sports",
+  "careers": [
+    {
+      "id": "professional-athlete",
+      "name": "Professional Athlete"
+    },
+    {
+      "id": "sports-coach",
+      "name": "Sports Coach"
+    },
+    {
+      "id": "fitness-trainer",
+      "name": "Fitness Trainer"
+    },
+    {
+      "id": "sports-physiotherapist",
+      "name": "Sports Physiotherapist"
+    },
+    {
+      "id": "sports-nutritionist",
+      "name": "Sports Nutritionist"
+    },
+    {
+      "id": "sports-psychologist",
+      "name": "Sports Psychologist"
+    },
+    {
+      "id": "physical-education-teacher",
+      "name": "Physical Education Teacher"
+    },
+    {
+      "id": "sports-manager",
+      "name": "Sports Manager"
+    },
+    {
+      "id": "sports-analyst",
+      "name": "Sports Analyst"
+    },
+    {
+      "id": "referee",
+      "name": "Referee"
+    },
+    {
+      "id": "yoga-instructor",
+      "name": "Yoga Instructor"
+    },
+    {
+      "id": "strength-and-conditioning-coach",
+      "name": "Strength and Conditioning Coach"
+    },
+    {
+      "id": "sports-journalist",
+      "name": "Sports Journalist"
+    },
+    {
+      "id": "adventure-sports-instructor",
+      "name": "Adventure Sports Instructor"
+    },
+    {
+      "id": "esports-player",
+      "name": "Esports Player"
+    }
+  ]
+}

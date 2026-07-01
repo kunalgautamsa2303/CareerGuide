@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Dashboard | USSC Connect</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/dashboard-suite.css">
+</head>
+<body class="suite-body">
+<div class="suite-shell">
+    <aside class="suite-sidebar">
+        <a class="suite-logo" href="../index.html"><img src="../assets/images/logo.png" alt="USSC Connect Logo"><div><strong>USSC Connect</strong><span>School Dashboard</span></div></a>
+        <nav class="suite-nav">
+            <a class="active" href="dashboard.html"><i class="bi bi-building-fill-gear"></i> Dashboard</a>
+            <a href="../school-connect/index.html"><i class="bi bi-diagram-3-fill"></i> School Connect</a>
+            <a href="../careers/guide.html?guide=choose-after-class-10"><i class="bi bi-signpost-split-fill"></i> Planning Guides</a>
+            <a href="../careers/exams.html"><i class="bi bi-journal-check"></i> Exam Library</a>
+            <a href="../index.html"><i class="bi bi-house-fill"></i> Home</a>
+        </nav>
+        <div class="suite-sidebar-card"><strong>School Goal</strong><p>Run structured career guidance activities for Classes 9-12 with trackable outcomes.</p></div>
+    </aside>
+    <main class="suite-main">
+        <header class="suite-topbar">
+            <label class="suite-search"><i class="bi bi-search"></i><input data-suite-search type="text" placeholder="Search students, workshops, reports..."></label>
+            <div class="suite-user"><div class="suite-avatar">SC</div><div><strong>School Admin</strong><span>Guidance operations</span></div></div>
+        </header>
+        <div class="suite-content">
+            <section class="suite-hero">
+                <div class="suite-hero-card">
+                    <span class="suite-badge premium"><i class="bi bi-gem"></i> Premium School Dashboard</span>
+                    <h1>Manage career activities, student planning progress and institutional outreach.</h1>
+                    <p>Use this dashboard to organise class-wise career sessions, stream-selection support, exam awareness workshops, counselor follow-ups and university connect activities.</p>
+                    <div class="suite-actions">
+                        <a class="suite-btn" href="../school-connect/index.html"><i class="bi bi-send-check-fill"></i> Open School Connect</a>
+                        <a class="suite-btn secondary" href="javascript:void(0)" data-suite-action="Premium access" data-suite-message="School Dashboard is a premium workspace for registered schools."><i class="bi bi-lock-fill"></i> Premium Access</a>
+                    </div>
+                    <div class="premium-access-card"><strong><i class="bi bi-gem"></i> Premium workspace</strong><p>Designed for schools to manage students, workshops, reports and institutional collaborations.</p></div>
+                </div>
+                <aside class="suite-panel">
+                    <h2>This Week</h2>
+                    <div class="suite-timeline">
+                        <article><i class="bi bi-calendar2-event"></i><div><strong>Class 10 stream session</strong><span>Section A and B, Friday.</span></div></article>
+                        <article><i class="bi bi-camera-video"></i><div><strong>University webinar</strong><span>Engineering and design pathways.</span></div></article>
+                        <article><i class="bi bi-file-earmark-bar-graph"></i><div><strong>Parent report</strong><span>Class 12 exam readiness summary.</span></div></article>
+                    </div>
+                </aside>
+            </section>
+            <section class="suite-stats">
+                <article class="suite-stat"><i class="bi bi-people-fill"></i><strong>842</strong><span>Students mapped</span></article>
+                <article class="suite-stat"><i class="bi bi-person-check"></i><strong>126</strong><span>Counselling cases</span></article>
+                <article class="suite-stat"><i class="bi bi-megaphone-fill"></i><strong>18</strong><span>Career activities</span></article>
+                <article class="suite-stat"><i class="bi bi-bank"></i><strong>9</strong><span>University partners</span></article>
+            </section>
+            <section class="suite-section">
+                <div class="suite-section-head">
+                    <div><h2>School Modules</h2><p>Operational tools for school career guidance teams.</p></div>
+                    <div class="suite-tabs" data-tab-group data-tab-target="#schoolModules"><button class="active" data-tab-filter="all">All</button><button data-tab-filter="students">Students</button><button data-tab-filter="events">Events</button><button data-tab-filter="reports">Reports</button></div>
+                </div>
+                <div id="schoolModules" class="suite-grid">
+                    <article class="suite-card" data-category="students" data-search-item="student records class wise stream counselling"><div class="suite-card-icon"><i class="bi bi-person-lines-fill"></i></div><h3>Student Records</h3><p>Track class, stream interest, assessment status, saved careers and counselling notes.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Student records are available for premium school accounts.">Open module <i class="bi bi-arrow-right"></i></button></article>
+                    <article class="suite-card" data-category="events" data-search-item="workshops career fair webinars university sessions"><div class="suite-card-icon"><i class="bi bi-calendar-event-fill"></i></div><h3>Activities Calendar</h3><p>Plan career fairs, stream sessions, parent orientations and university webinars.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Activities calendar is available for premium school accounts.">Plan activity <i class="bi bi-arrow-right"></i></button></article>
+                    <article class="suite-card" data-category="reports" data-search-item="reports career readiness class 10 class 12"><div class="suite-card-icon"><i class="bi bi-clipboard-data-fill"></i></div><h3>Readiness Reports</h3><p>Generate class-wise reports for exam readiness, stream confusion and career interests.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Reports are available for premium school accounts.">Generate report <i class="bi bi-arrow-right"></i></button></article>
+                </div>
+            </section>
+        </div>
+    </main>
+</div>
+<script src="../assets/js/dashboard-suite.js"></script>
+</body>
+</html>
+

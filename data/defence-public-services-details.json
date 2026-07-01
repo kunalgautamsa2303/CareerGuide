@@ -1,0 +1,1038 @@
+{
+  "domain": "Defence & Public Services",
+  "description": "Armed forces, civil services, policing, emergency and government-service careers.",
+  "careers": [
+    {
+      "id": "army-officer",
+      "name": "Army Officer",
+      "overview": "Army Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Army Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Air Force Officer",
+        "Police Officer",
+        "IAS Officer"
+      ]
+    },
+    {
+      "id": "navy-officer",
+      "name": "Navy Officer",
+      "overview": "Navy Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Navy Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Police Officer",
+        "IAS Officer",
+        "IPS Officer"
+      ]
+    },
+    {
+      "id": "air-force-officer",
+      "name": "Air Force Officer",
+      "overview": "Air Force Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Air Force Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "IAS Officer",
+        "IPS Officer",
+        "IFS Officer"
+      ]
+    },
+    {
+      "id": "police-officer",
+      "name": "Police Officer",
+      "overview": "Police Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Police Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "IPS Officer",
+        "IFS Officer",
+        "Defence Scientist"
+      ]
+    },
+    {
+      "id": "ias-officer",
+      "name": "IAS Officer",
+      "overview": "IAS Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "IAS Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "IFS Officer",
+        "Defence Scientist",
+        "Paramilitary Officer"
+      ]
+    },
+    {
+      "id": "ips-officer",
+      "name": "IPS Officer",
+      "overview": "IPS Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "IPS Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Defence Scientist",
+        "Paramilitary Officer",
+        "Disaster Management Specialist"
+      ]
+    },
+    {
+      "id": "ifs-officer",
+      "name": "IFS Officer",
+      "overview": "IFS Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "IFS Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Paramilitary Officer",
+        "Disaster Management Specialist",
+        "Intelligence Analyst"
+      ]
+    },
+    {
+      "id": "defence-scientist",
+      "name": "Defence Scientist",
+      "overview": "Defence Scientist serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Defence Scientist is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Disaster Management Specialist",
+        "Intelligence Analyst",
+        "Fire Safety Officer"
+      ]
+    },
+    {
+      "id": "paramilitary-officer",
+      "name": "Paramilitary Officer",
+      "overview": "Paramilitary Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Paramilitary Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Intelligence Analyst",
+        "Fire Safety Officer",
+        "Customs Officer"
+      ]
+    },
+    {
+      "id": "disaster-management-specialist",
+      "name": "Disaster Management Specialist",
+      "overview": "Disaster Management Specialist serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Disaster Management Specialist is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Fire Safety Officer",
+        "Customs Officer",
+        "Public Administration Officer"
+      ]
+    },
+    {
+      "id": "intelligence-analyst",
+      "name": "Intelligence Analyst",
+      "overview": "Intelligence Analyst serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Intelligence Analyst is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Customs Officer",
+        "Public Administration Officer",
+        "Coast Guard Officer"
+      ]
+    },
+    {
+      "id": "fire-safety-officer",
+      "name": "Fire Safety Officer",
+      "overview": "Fire Safety Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Fire Safety Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Public Administration Officer",
+        "Coast Guard Officer"
+      ]
+    },
+    {
+      "id": "customs-officer",
+      "name": "Customs Officer",
+      "overview": "Customs Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Customs Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Coast Guard Officer"
+      ]
+    },
+    {
+      "id": "public-administration-officer",
+      "name": "Public Administration Officer",
+      "overview": "Public Administration Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Public Administration Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Army Officer",
+        "Navy Officer",
+        "Air Force Officer"
+      ]
+    },
+    {
+      "id": "coast-guard-officer",
+      "name": "Coast Guard Officer",
+      "overview": "Coast Guard Officer serves citizens through defence, administration, policing, safety, emergency response and public institutions.",
+      "whyChoose": "Coast Guard Officer is useful because it offers public respect, responsibility, leadership, national service and structured career growth.",
+      "eligibility": "Class 12 or graduation depending on role; physical, written and interview stages may apply.",
+      "educationPath": "Class 12/Graduation -> Entrance exam/selection -> Training academy -> Defence or public-service role.",
+      "feeRange": "Low training cost in many government routes; exam coaching costs vary.",
+      "workEnvironment": "Defence units, government offices, police departments, field operations, training academies and public agencies.",
+      "salary": {
+        "fresher": "Rs 4-10 LPA",
+        "midLevel": "Rs 10-22 LPA",
+        "seniorLevel": "Rs 22-50+ LPA"
+      },
+      "futureScope": "Strong due to governance, national security, emergency management and public administration needs.",
+      "aiImpact": "AI will support surveillance, analytics and administration while leadership and ethical judgement remain central.",
+      "skills": [
+        "Discipline",
+        "Leadership",
+        "Fitness",
+        "Decision Making",
+        "Public Service",
+        "Integrity"
+      ],
+      "entranceExams": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "UPSC CSE",
+        "State PSC",
+        "SSC Exams"
+      ],
+      "topColleges": [
+        "National Defence Academy",
+        "Indian Military Academy",
+        "LBSNAA",
+        "State Training Academies",
+        "Police Academies"
+      ],
+      "careerOpportunities": [
+        "Defence",
+        "Administration",
+        "Police",
+        "Emergency Services",
+        "Public Policy"
+      ],
+      "recruiters": [
+        "Government of India",
+        "State Governments",
+        "Armed Forces",
+        "Police Departments",
+        "Public Agencies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Army Officer",
+        "Navy Officer",
+        "Air Force Officer"
+      ]
+    }
+  ]
+}

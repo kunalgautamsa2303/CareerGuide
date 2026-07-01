@@ -1,0 +1,65 @@
+{
+  "domain": "AI & Data Science",
+  "careers": [
+    {
+      "id": "data-scientist",
+      "name": "Data Scientist"
+    },
+    {
+      "id": "artificial-intelligence-engineer",
+      "name": "Artificial Intelligence Engineer"
+    },
+    {
+      "id": "machine-learning-engineer",
+      "name": "Machine Learning Engineer"
+    },
+    {
+      "id": "data-analyst",
+      "name": "Data Analyst"
+    },
+    {
+      "id": "business-intelligence-analyst",
+      "name": "Business Intelligence Analyst"
+    },
+    {
+      "id": "data-engineer",
+      "name": "Data Engineer"
+    },
+    {
+      "id": "nlp-engineer",
+      "name": "NLP Engineer"
+    },
+    {
+      "id": "computer-vision-engineer",
+      "name": "Computer Vision Engineer"
+    },
+    {
+      "id": "ai-product-manager",
+      "name": "AI Product Manager"
+    },
+    {
+      "id": "robotics-ai-engineer",
+      "name": "Robotics AI Engineer"
+    },
+    {
+      "id": "deep-learning-engineer",
+      "name": "Deep Learning Engineer"
+    },
+    {
+      "id": "mlops-engineer",
+      "name": "MLOps Engineer"
+    },
+    {
+      "id": "ai-research-scientist",
+      "name": "AI Research Scientist"
+    },
+    {
+      "id": "big-data-engineer",
+      "name": "Big Data Engineer"
+    },
+    {
+      "id": "prompt-engineer",
+      "name": "Prompt Engineer"
+    }
+  ]
+}

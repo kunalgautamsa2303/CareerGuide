@@ -69,6 +69,83 @@
       "icon": "🏗️",
       "description": "Architecture, planning and construction careers.",
       "file": "architecture.json"
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "icon": "EDU",
+      "description": "Teaching, training, education technology and academic careers.",
+      "file": "education.json"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "SPT",
+      "description": "Sports, fitness, coaching and performance careers.",
+      "file": "sports.json"
+    },
+    {
+      "id": "agriculture-environment",
+      "name": "Agriculture & Environment",
+      "icon": "AGR",
+      "description": "Agriculture, food, sustainability, climate and allied science careers.",
+      "file": "agriculture-environment.json"
+    },
+    {
+      "id": "humanities-social-sciences",
+      "name": "Humanities & Social Sciences",
+      "icon": "SOC",
+      "description": "Society, policy, history, languages, development and public-impact careers.",
+      "file": "humanities-social-sciences.json"
+    },
+    {
+      "id": "hospitality-tourism",
+      "name": "Hospitality & Tourism",
+      "icon": "HTM",
+      "description": "Hotel, travel, tourism, food service, events and guest-experience careers.",
+      "file": "hospitality-tourism.json"
+    },
+    {
+      "id": "pure-sciences-research",
+      "name": "Pure Sciences & Research",
+      "icon": "SCI",
+      "description": "Physics, chemistry, biology, mathematics, research and lab-based careers.",
+      "file": "pure-sciences-research.json"
+    },
+    {
+      "id": "performing-arts",
+      "name": "Performing Arts",
+      "icon": "ART",
+      "description": "Music, theatre, dance, performance, production and creative stage careers.",
+      "file": "performing-arts.json"
+    },
+    {
+      "id": "defence-public-services",
+      "name": "Defence & Public Services",
+      "icon": "DPS",
+      "description": "Armed forces, civil services, policing, emergency and government-service careers.",
+      "file": "defence-public-services.json"
+    },
+    {
+      "id": "vocational-skills",
+      "name": "Vocational & Skilled Careers",
+      "icon": "VOC",
+      "description": "Hands-on technical, service, trade, skill-development and applied careers.",
+      "file": "vocational-skills.json"
+    },
+    {
+      "id": "computer-applications-it",
+      "name": "Computer Applications & IT",
+      "icon": "IT",
+      "description": "BCA, software, IT services, cloud, networking and application careers.",
+      "file": "computer-applications-it.json"
+    },
+    {
+      "id": "cybersecurity-ethical-hacking",
+      "name": "Cybersecurity & Ethical Hacking",
+      "icon": "SEC",
+      "description": "Cyber defence, ethical hacking, digital forensics and information-security careers.",
+      "file": "cybersecurity-ethical-hacking.json"
     }
   ]
 }

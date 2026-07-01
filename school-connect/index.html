@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Connect | USSC Connect</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/dashboard-suite.css">
+</head>
+<body class="suite-body">
+<div class="suite-shell">
+    <aside class="suite-sidebar">
+        <a class="suite-logo" href="../index.html"><img src="../assets/images/logo.png" alt="USSC Connect Logo"><div><strong>USSC Connect</strong><span>School Connect</span></div></a>
+        <nav class="suite-nav">
+            <a class="active" href="index.html"><i class="bi bi-diagram-3-fill"></i> School Connect</a>
+            <a href="../school/dashboard.html"><i class="bi bi-building-fill-gear"></i> School Dashboard</a>
+            <a href="../university-connect/index.html"><i class="bi bi-send-check-fill"></i> University Connect</a>
+            <a href="../careers/guide.html?guide=entrance-exam-planning"><i class="bi bi-journal-check"></i> Exam Planning</a>
+            <a href="../index.html"><i class="bi bi-house-fill"></i> Home</a>
+        </nav>
+        <div class="suite-sidebar-card"><strong>Connect Mission</strong><p>Bring universities, counselors and career activities directly to school students.</p></div>
+    </aside>
+    <main class="suite-main">
+        <header class="suite-topbar">
+            <label class="suite-search"><i class="bi bi-search"></i><input data-suite-search type="text" placeholder="Search universities, events, workshops..."></label>
+            <div class="suite-user"><div class="suite-avatar">SC</div><div><strong>School Connect</strong><span>Outreach hub</span></div></div>
+        </header>
+        <div class="suite-content">
+            <section class="suite-hero">
+                <div class="suite-hero-card">
+                    <span class="suite-badge premium"><i class="bi bi-gem"></i> Premium School Connect</span>
+                    <h1>Invite universities, counselors and career experts into structured school guidance programs.</h1>
+                    <p>Schools can request webinars, career fairs, stream-selection sessions, exam-awareness programs and parent orientations from verified universities and career professionals.</p>
+                    <div class="suite-actions">
+                        <a class="suite-btn" href="javascript:void(0)" data-suite-action="Premium access" data-suite-message="School Connect is a premium collaboration portal for registered schools."><i class="bi bi-lock-fill"></i> Request Premium Access</a>
+                        <a class="suite-btn secondary" href="../university-connect/index.html"><i class="bi bi-bank"></i> View University Connect</a>
+                    </div>
+                    <div class="premium-access-card"><strong><i class="bi bi-gem"></i> Premium connect portal</strong><p>Built for schools that want verified university sessions, counselor programs and structured career events.</p></div>
+                </div>
+                <aside class="suite-panel">
+                    <h2>Suggested Events</h2>
+                    <div class="suite-timeline">
+                        <article><i class="bi bi-signpost-split"></i><div><strong>Class 10 stream week</strong><span>Science, Commerce, Humanities and skill pathways.</span></div></article>
+                        <article><i class="bi bi-journal-check"></i><div><strong>Entrance exam bootcamp</strong><span>NEET, JEE, CUET, CLAT and design exams.</span></div></article>
+                        <article><i class="bi bi-people"></i><div><strong>Parent orientation</strong><span>Decision support without pressure.</span></div></article>
+                    </div>
+                </aside>
+            </section>
+            <section class="suite-stats">
+                <article class="suite-stat"><i class="bi bi-bank"></i><strong>60+</strong><span>University partners</span></article>
+                <article class="suite-stat"><i class="bi bi-calendar2-event"></i><strong>120</strong><span>Event formats</span></article>
+                <article class="suite-stat"><i class="bi bi-person-workspace"></i><strong>35</strong><span>Counselor experts</span></article>
+                <article class="suite-stat"><i class="bi bi-mortarboard"></i><strong>9-12</strong><span>Class coverage</span></article>
+            </section>
+            <section class="suite-section">
+                <div class="suite-section-head">
+                    <div><h2>Connect Opportunities</h2><p>Filter event formats schools can request.</p></div>
+                    <div class="suite-tabs" data-tab-group data-tab-target="#schoolConnectGrid"><button class="active" data-tab-filter="all">All</button><button data-tab-filter="university">University</button><button data-tab-filter="career">Career</button><button data-tab-filter="parent">Parent</button></div>
+                </div>
+                <div id="schoolConnectGrid" class="suite-grid">
+                    <article class="suite-card" data-category="university" data-search-item="university open house admissions courses scholarships"><div class="suite-card-icon"><i class="bi bi-bank"></i></div><h3>University Open House</h3><p>Invite universities to explain courses, scholarships, campus life, eligibility and admissions.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Open-house requests are available for premium school accounts.">Request <i class="bi bi-arrow-right"></i></button></article>
+                    <article class="suite-card" data-category="career" data-search-item="career fair stream selection class 10 class 12"><div class="suite-card-icon"><i class="bi bi-compass-fill"></i></div><h3>Career Discovery Fair</h3><p>Run career booths for medicine, engineering, law, design, commerce, humanities and vocational options.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Career fair planning is available for premium school accounts.">Plan fair <i class="bi bi-arrow-right"></i></button></article>
+                    <article class="suite-card" data-category="parent" data-search-item="parent orientation counselling pressure stream choices"><div class="suite-card-icon"><i class="bi bi-people-fill"></i></div><h3>Parent Orientation</h3><p>Help parents support stream, exam and course choices with facts instead of pressure.</p><span class="suite-premium-lock"><i class="bi bi-lock-fill"></i> Premium</span><button data-suite-action="Premium module" data-suite-message="Parent orientation requests are available for premium school accounts.">Invite expert <i class="bi bi-arrow-right"></i></button></article>
+                </div>
+            </section>
+        </div>
+    </main>
+</div>
+<script src="../assets/js/dashboard-suite.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,65 @@
+{
+  "domain": "Humanities & Social Sciences",
+  "careers": [
+    {
+      "id": "sociologist",
+      "name": "Sociologist"
+    },
+    {
+      "id": "political-scientist",
+      "name": "Political Scientist"
+    },
+    {
+      "id": "historian",
+      "name": "Historian"
+    },
+    {
+      "id": "archaeologist",
+      "name": "Archaeologist"
+    },
+    {
+      "id": "anthropologist",
+      "name": "Anthropologist"
+    },
+    {
+      "id": "civil-services-officer",
+      "name": "Civil Services Officer"
+    },
+    {
+      "id": "public-policy-analyst",
+      "name": "Public Policy Analyst"
+    },
+    {
+      "id": "social-worker",
+      "name": "Social Worker"
+    },
+    {
+      "id": "international-relations-specialist",
+      "name": "International Relations Specialist"
+    },
+    {
+      "id": "economist",
+      "name": "Economist"
+    },
+    {
+      "id": "geographer",
+      "name": "Geographer"
+    },
+    {
+      "id": "linguist",
+      "name": "Linguist"
+    },
+    {
+      "id": "writer",
+      "name": "Writer"
+    },
+    {
+      "id": "ngo-program-manager",
+      "name": "NGO Program Manager"
+    },
+    {
+      "id": "development-sector-professional",
+      "name": "Development Sector Professional"
+    }
+  ]
+}

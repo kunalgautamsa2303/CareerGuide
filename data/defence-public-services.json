@@ -1,0 +1,65 @@
+{
+  "domain": "Defence & Public Services",
+  "careers": [
+    {
+      "id": "army-officer",
+      "name": "Army Officer"
+    },
+    {
+      "id": "navy-officer",
+      "name": "Navy Officer"
+    },
+    {
+      "id": "air-force-officer",
+      "name": "Air Force Officer"
+    },
+    {
+      "id": "police-officer",
+      "name": "Police Officer"
+    },
+    {
+      "id": "ias-officer",
+      "name": "IAS Officer"
+    },
+    {
+      "id": "ips-officer",
+      "name": "IPS Officer"
+    },
+    {
+      "id": "ifs-officer",
+      "name": "IFS Officer"
+    },
+    {
+      "id": "defence-scientist",
+      "name": "Defence Scientist"
+    },
+    {
+      "id": "paramilitary-officer",
+      "name": "Paramilitary Officer"
+    },
+    {
+      "id": "disaster-management-specialist",
+      "name": "Disaster Management Specialist"
+    },
+    {
+      "id": "intelligence-analyst",
+      "name": "Intelligence Analyst"
+    },
+    {
+      "id": "fire-safety-officer",
+      "name": "Fire Safety Officer"
+    },
+    {
+      "id": "customs-officer",
+      "name": "Customs Officer"
+    },
+    {
+      "id": "public-administration-officer",
+      "name": "Public Administration Officer"
+    },
+    {
+      "id": "coast-guard-officer",
+      "name": "Coast Guard Officer"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "domain": "Agriculture & Environment",
+  "careers": [
+    {
+      "id": "agricultural-scientist",
+      "name": "Agricultural Scientist"
+    },
+    {
+      "id": "agronomist",
+      "name": "Agronomist"
+    },
+    {
+      "id": "horticulturist",
+      "name": "Horticulturist"
+    },
+    {
+      "id": "food-technologist",
+      "name": "Food Technologist"
+    },
+    {
+      "id": "dairy-technologist",
+      "name": "Dairy Technologist"
+    },
+    {
+      "id": "fisheries-scientist",
+      "name": "Fisheries Scientist"
+    },
+    {
+      "id": "forestry-officer",
+      "name": "Forestry Officer"
+    },
+    {
+      "id": "soil-scientist",
+      "name": "Soil Scientist"
+    },
+    {
+      "id": "farm-management-specialist",
+      "name": "Farm Management Specialist"
+    },
+    {
+      "id": "agri-business-manager",
+      "name": "Agri-Business Manager"
+    },
+    {
+      "id": "plant-breeder",
+      "name": "Plant Breeder"
+    },
+    {
+      "id": "seed-technologist",
+      "name": "Seed Technologist"
+    },
+    {
+      "id": "environmental-scientist",
+      "name": "Environmental Scientist"
+    },
+    {
+      "id": "sustainability-consultant",
+      "name": "Sustainability Consultant"
+    },
+    {
+      "id": "climate-change-analyst",
+      "name": "Climate Change Analyst"
+    }
+  ]
+}

@@ -1,0 +1,1008 @@
+{
+  "domain": "Agriculture & Environment",
+  "description": "Agriculture, food, sustainability, climate and allied science careers.",
+  "careers": [
+    {
+      "id": "agricultural-scientist",
+      "name": "Agricultural Scientist",
+      "overview": "Agricultural Scientist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Agricultural Scientist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Horticulturist",
+        "Food Technologist",
+        "Dairy Technologist"
+      ]
+    },
+    {
+      "id": "agronomist",
+      "name": "Agronomist",
+      "overview": "Agronomist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Agronomist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Food Technologist",
+        "Dairy Technologist",
+        "Fisheries Scientist"
+      ]
+    },
+    {
+      "id": "horticulturist",
+      "name": "Horticulturist",
+      "overview": "Horticulturist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Horticulturist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Dairy Technologist",
+        "Fisheries Scientist",
+        "Forestry Officer"
+      ]
+    },
+    {
+      "id": "food-technologist",
+      "name": "Food Technologist",
+      "overview": "Food Technologist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Food Technologist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Fisheries Scientist",
+        "Forestry Officer",
+        "Soil Scientist"
+      ]
+    },
+    {
+      "id": "dairy-technologist",
+      "name": "Dairy Technologist",
+      "overview": "Dairy Technologist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Dairy Technologist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Forestry Officer",
+        "Soil Scientist",
+        "Farm Management Specialist"
+      ]
+    },
+    {
+      "id": "fisheries-scientist",
+      "name": "Fisheries Scientist",
+      "overview": "Fisheries Scientist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Fisheries Scientist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Soil Scientist",
+        "Farm Management Specialist",
+        "Agri-Business Manager"
+      ]
+    },
+    {
+      "id": "forestry-officer",
+      "name": "Forestry Officer",
+      "overview": "Forestry Officer works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Forestry Officer is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Farm Management Specialist",
+        "Agri-Business Manager",
+        "Plant Breeder"
+      ]
+    },
+    {
+      "id": "soil-scientist",
+      "name": "Soil Scientist",
+      "overview": "Soil Scientist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Soil Scientist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Agri-Business Manager",
+        "Plant Breeder",
+        "Seed Technologist"
+      ]
+    },
+    {
+      "id": "farm-management-specialist",
+      "name": "Farm Management Specialist",
+      "overview": "Farm Management Specialist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Farm Management Specialist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Plant Breeder",
+        "Seed Technologist",
+        "Environmental Scientist"
+      ]
+    },
+    {
+      "id": "agri-business-manager",
+      "name": "Agri-Business Manager",
+      "overview": "Agri-Business Manager works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Agri-Business Manager is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Seed Technologist",
+        "Environmental Scientist",
+        "Sustainability Consultant"
+      ]
+    },
+    {
+      "id": "plant-breeder",
+      "name": "Plant Breeder",
+      "overview": "Plant Breeder works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Plant Breeder is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Environmental Scientist",
+        "Sustainability Consultant",
+        "Climate Change Analyst"
+      ]
+    },
+    {
+      "id": "seed-technologist",
+      "name": "Seed Technologist",
+      "overview": "Seed Technologist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Seed Technologist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sustainability Consultant",
+        "Climate Change Analyst"
+      ]
+    },
+    {
+      "id": "environmental-scientist",
+      "name": "Environmental Scientist",
+      "overview": "Environmental Scientist works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Environmental Scientist is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Climate Change Analyst"
+      ]
+    },
+    {
+      "id": "sustainability-consultant",
+      "name": "Sustainability Consultant",
+      "overview": "Sustainability Consultant works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Sustainability Consultant is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Agricultural Scientist",
+        "Agronomist",
+        "Horticulturist"
+      ]
+    },
+    {
+      "id": "climate-change-analyst",
+      "name": "Climate Change Analyst",
+      "overview": "Climate Change Analyst works with food systems, natural resources, farming, environment, sustainability and climate-aware development.",
+      "whyChoose": "Climate Change Analyst is useful because it connects science with real-world impact in food security, sustainability and rural innovation.",
+      "eligibility": "Class 12 with Science is preferred for most B.Sc/B.Tech pathways; some agribusiness routes accept Commerce or Humanities.",
+      "educationPath": "Class 12 -> B.Sc/B.Tech/B.Voc or diploma -> Field/lab internship -> Agriculture, food or sustainability role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Farms, labs, food companies, agri-tech firms, government departments, NGOs and sustainability teams.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to food security, climate adaptation, agri-tech, sustainability reporting and allied rural development.",
+      "aiImpact": "AI will support crop monitoring, climate modelling and precision farming while field judgement stays important.",
+      "skills": [
+        "Biology",
+        "Field Work",
+        "Data Handling",
+        "Sustainability",
+        "Problem Solving",
+        "Communication"
+      ],
+      "entranceExams": [
+        "CUET",
+        "ICAR AIEEA",
+        "State Agriculture Entrance Tests",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "ICAR Institutes",
+        "GB Pant University",
+        "Tamil Nadu Agricultural University",
+        "Punjab Agricultural University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Agri-Tech",
+        "Food Industry",
+        "Government Projects",
+        "Sustainability Consulting"
+      ],
+      "recruiters": [
+        "Agriculture Departments",
+        "Food Companies",
+        "Agri-Tech Startups",
+        "NGOs",
+        "Research Institutes"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Agricultural Scientist",
+        "Agronomist",
+        "Horticulturist"
+      ]
+    }
+  ]
+}

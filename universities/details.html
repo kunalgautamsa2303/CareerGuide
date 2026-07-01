@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Details | USSC Connect</title>
+    <meta name="description" content="View official website, admission link, courses, eligibility, entrance exams and key details for a university or college.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/components.css">
+    <link rel="stylesheet" href="../assets/css/university-directory.css">
+</head>
+<body class="university-page">
+    <header class="uni-header">
+        <div class="uni-shell uni-nav">
+            <a class="uni-logo" href="../index.html">
+                <img src="../assets/images/logo.png" alt="USSC Connect Logo">
+                <span>
+                    <strong>USSC Connect</strong>
+                    <small>Career Discovery & Education Network</small>
+                </span>
+            </a>
+
+            <nav class="uni-links" aria-label="Primary navigation">
+                <a href="../index.html">Home</a>
+                <a href="../careers/index.html">Career Library</a>
+                <a href="index.html" class="active">University Directory</a>
+                <a href="../careers/guide.html?guide=compare-careers">Career Assessment</a>
+                <a href="../university-connect/index.html">University Connect</a>
+            </nav>
+        </div>
+    </header>
+
+    <main id="universityDetail" class="uni-detail-main">
+        <section class="uni-detail-hero">
+            <div class="uni-shell">
+                <a class="uni-back-link" href="index.html">
+                    <i class="bi bi-arrow-left"></i>
+                    Back to University Directory
+                </a>
+                <div id="detailHero" class="uni-detail-grid">
+                    <div class="uni-loading">
+                        <i class="bi bi-arrow-repeat"></i>
+                        Loading institution details...
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="uni-detail-section">
+            <div class="uni-shell uni-detail-layout">
+                <div class="uni-detail-content">
+                    <section class="uni-info-block">
+                        <div class="uni-section-head compact">
+                            <div>
+                                <span class="uni-kicker">Programs</span>
+                                <h2>Courses You Can Explore</h2>
+                                <p>Program names are grouped by broad stream. Check the official admission link for current seats, fees, dates and exact eligibility.</p>
+                            </div>
+                        </div>
+                        <div id="programList" class="program-grid"></div>
+                    </section>
+
+                    <section class="uni-info-block">
+                        <div class="uni-section-head compact">
+                            <div>
+                                <span class="uni-kicker">Admissions</span>
+                                <h2>Admission Route</h2>
+                            </div>
+                        </div>
+                        <div id="admissionSteps" class="admission-steps"></div>
+                    </section>
+                </div>
+
+                <aside class="uni-detail-sidebar">
+                    <section class="uni-side-card">
+                        <h2>Entrance Exams</h2>
+                        <div id="entranceExamList" class="detail-chip-list"></div>
+                    </section>
+                    <section class="uni-side-card">
+                        <h2>Quick Facts</h2>
+                        <div id="quickFacts" class="quick-facts"></div>
+                    </section>
+                    <section class="uni-side-card">
+                        <h2>Student Notes</h2>
+                        <div id="studentNotes" class="student-notes"></div>
+                    </section>
+                </aside>
+            </div>
+        </section>
+    </main>
+
+    <script src="../assets/js/university-directory.js" defer></script>
+</body>
+</html>

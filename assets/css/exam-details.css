@@ -1,0 +1,124 @@
+/* ==========================================================
+   USSC Connect
+   Exam Details
+========================================================== */
+
+.exam-details-hero{
+    padding:42px 0;
+    background:
+        radial-gradient(circle at top right,rgba(219,234,254,.9) 0%,transparent 34%),
+        linear-gradient(180deg,#F8FAFC 0%,#EEF4FF 100%);
+    border-bottom:1px solid var(--border);
+}
+
+.exam-hero-grid{
+    display:grid;
+    grid-template-columns:minmax(0,1fr) 360px;
+    gap:34px;
+    align-items:start;
+    padding:38px;
+    border:1px solid var(--border);
+    border-radius:28px;
+    background:rgba(255,255,255,.94);
+    box-shadow:var(--shadow-lg);
+}
+
+.exam-details-hero h1{
+    max-width:760px;
+    color:var(--text);
+    font-size:44px;
+    line-height:1.08;
+    margin-bottom:14px;
+}
+
+.exam-details-hero p{
+    max-width:720px;
+    color:var(--text-secondary);
+    font-size:15px;
+    line-height:1.75;
+    margin-bottom:22px;
+}
+
+.official-exam-card{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    max-width:720px;
+    padding:16px 18px;
+    margin:0 0 20px;
+    border:1px solid rgba(37,99,235,.18);
+    border-radius:16px;
+    background:#EFF6FF;
+}
+
+.official-exam-card span{
+    color:var(--text);
+    font-size:12px;
+    font-weight:800;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+}
+
+.official-exam-card a{
+    color:var(--primary);
+    font-size:15px;
+    font-weight:700;
+    line-height:1.45;
+    overflow-wrap:anywhere;
+}
+
+.mini-card p{
+    color:var(--text-secondary);
+    font-size:13px;
+    line-height:1.6;
+    margin-top:8px;
+}
+
+.admission-card{
+    min-height:138px;
+}
+
+.admission-card h3{
+    font-size:14px;
+    line-height:1.55;
+}
+
+#officialExamLink[hidden]{
+    display:none;
+}
+
+.official-exam-card[hidden]{
+    display:none;
+}
+
+@media(max-width:1100px){
+    .exam-hero-grid{
+        grid-template-columns:1fr;
+    }
+}
+
+@media(max-width:768px){
+    .exam-details-hero{
+        padding:24px 0 34px;
+    }
+
+    .exam-hero-grid{
+        padding:24px;
+        border-radius:22px;
+    }
+
+    .exam-details-hero h1{
+        font-size:32px;
+    }
+}
+
+@media(max-width:520px){
+    .exam-hero-grid{
+        padding:20px;
+        border-radius:20px;
+    }
+
+    .exam-details-hero h1{
+        font-size:28px;
+    }
+}

@@ -1,107 +1,85 @@
 {
   "domain": "Commerce & Finance",
-
   "careers": [
-
     {
       "id": "chartered-accountant",
       "name": "Chartered Accountant (CA)"
     },
-
     {
       "id": "company-secretary",
       "name": "Company Secretary (CS)"
     },
-
     {
       "id": "cost-management-accountant",
       "name": "Cost & Management Accountant (CMA)"
     },
-
     {
       "id": "investment-banker",
       "name": "Investment Banker"
     },
-
     {
       "id": "financial-analyst",
       "name": "Financial Analyst"
     },
-
     {
       "id": "financial-planner",
       "name": "Financial Planner"
     },
-
     {
       "id": "stock-market-analyst",
       "name": "Stock Market Analyst"
     },
-
     {
       "id": "equity-research-analyst",
       "name": "Equity Research Analyst"
     },
-
     {
       "id": "risk-manager",
       "name": "Risk Manager"
     },
-
     {
       "id": "actuary",
       "name": "Actuary"
     },
-
     {
       "id": "fintech-specialist",
       "name": "FinTech Specialist"
     },
-
     {
       "id": "wealth-manager",
       "name": "Wealth Manager"
     },
-
     {
       "id": "tax-consultant",
       "name": "Tax Consultant"
     },
-
     {
       "id": "auditor",
       "name": "Auditor"
     },
-
     {
       "id": "management-accountant",
       "name": "Management Accountant"
     },
-
     {
       "id": "banking-professional",
       "name": "Banking Professional"
     },
-
     {
       "id": "credit-analyst",
       "name": "Credit Analyst"
     },
-
     {
       "id": "treasury-manager",
       "name": "Treasury Manager"
     },
-
     {
       "id": "insurance-specialist",
       "name": "Insurance Specialist"
     },
-
     {
       "id": "financial-consultant",
       "name": "Financial Consultant"
     }
-
   ]
 }

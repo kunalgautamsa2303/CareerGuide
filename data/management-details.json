@@ -1381,6 +1381,333 @@
         "Product Manager",
         "Entrepreneur"
       ]
+    },
+    {
+      "id": "sales-manager",
+      "name": "Sales Manager",
+      "overview": "Sales Manager works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Sales Manager is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Strategy Manager",
+        "Healthcare Manager",
+        "Event Manager"
+      ]
+    },
+    {
+      "id": "brand-manager",
+      "name": "Brand Manager",
+      "overview": "Brand Manager works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Brand Manager is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Healthcare Manager",
+        "Event Manager"
+      ]
+    },
+    {
+      "id": "strategy-manager",
+      "name": "Strategy Manager",
+      "overview": "Strategy Manager works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Strategy Manager is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Event Manager"
+      ]
+    },
+    {
+      "id": "healthcare-manager",
+      "name": "Healthcare Manager",
+      "overview": "Healthcare Manager works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Healthcare Manager is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Business Manager",
+        "Marketing Manager",
+        "Human Resource Manager"
+      ]
+    },
+    {
+      "id": "event-manager",
+      "name": "Event Manager",
+      "overview": "Event Manager works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Event Manager is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Business Manager",
+        "Marketing Manager",
+        "Human Resource Manager"
+      ]
     }
   ]
 }

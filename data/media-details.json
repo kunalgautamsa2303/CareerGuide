@@ -1,0 +1,1353 @@
+{
+  "domain": "Media & Communication",
+  "description": "Media, journalism and communication careers.",
+  "careers": [
+    {
+      "id": "journalist",
+      "name": "Journalist",
+      "overview": "Journalist is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Journalist offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Digital Content Creator",
+        "Mass Communication Specialist",
+        "Public Relations Officer"
+      ]
+    },
+    {
+      "id": "digital-content-creator",
+      "name": "Digital Content Creator",
+      "overview": "Digital Content Creator is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Digital Content Creator offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Mass Communication Specialist",
+        "Public Relations Officer"
+      ]
+    },
+    {
+      "id": "mass-communication-specialist",
+      "name": "Mass Communication Specialist",
+      "overview": "Mass Communication Specialist is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Mass Communication Specialist offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Public Relations Officer"
+      ]
+    },
+    {
+      "id": "public-relations-officer",
+      "name": "Public Relations Officer",
+      "overview": "Public Relations Officer is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Public Relations Officer offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "advertising-executive",
+      "name": "Advertising Executive",
+      "overview": "Advertising Executive is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Advertising Executive offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "film-director",
+      "name": "Film Director",
+      "overview": "Film Director is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Film Director offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "video-editor",
+      "name": "Video Editor",
+      "overview": "Video Editor is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Video Editor offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "radio-jockey",
+      "name": "Radio Jockey",
+      "overview": "Radio Jockey is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Radio Jockey offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "news-anchor",
+      "name": "News Anchor",
+      "overview": "News Anchor is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "News Anchor offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "social-media-manager",
+      "name": "Social Media Manager",
+      "overview": "Social Media Manager is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Social Media Manager offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "copywriter",
+      "name": "Copywriter",
+      "overview": "Copywriter is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Copywriter offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "media-planner",
+      "name": "Media Planner",
+      "overview": "Media Planner is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Media Planner offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "corporate-communication-manager",
+      "name": "Corporate Communication Manager",
+      "overview": "Corporate Communication Manager is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Corporate Communication Manager offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "podcast-producer",
+      "name": "Podcast Producer",
+      "overview": "Podcast Producer is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Podcast Producer offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "photojournalist",
+      "name": "Photojournalist",
+      "overview": "Photojournalist is a media and communication career focused on storytelling, public information, digital content and audience engagement.",
+      "whyChoose": "Photojournalist offers creative, public-facing work with opportunities in digital media, journalism, branding and entertainment.",
+      "eligibility": "Class 12 in any stream; communication, journalism, media or film degrees are useful.",
+      "educationPath": "Class 12 -> Media/Journalism/Communication degree -> Portfolio/Internship -> Media role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Newsrooms, agencies, production houses, digital platforms, corporate communication teams and studios.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-40+ LPA"
+      },
+      "futureScope": "Strong due to digital content, social platforms, brand storytelling and video-first communication.",
+      "aiImpact": "AI will speed up editing, research and content drafts, while originality, credibility and audience judgement remain key.",
+      "skills": [
+        "Writing",
+        "Storytelling",
+        "Research",
+        "Editing",
+        "Public Speaking",
+        "Digital Tools"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IIMC Entrance",
+        "XIC OET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IIMC Delhi",
+        "Jamia Millia Islamia",
+        "Symbiosis Pune",
+        "Christ University",
+        "Xavier Institute of Communications"
+      ],
+      "careerOpportunities": [
+        "Journalist",
+        "Content Creator",
+        "PR Executive",
+        "Video Producer",
+        "Social Media Specialist"
+      ],
+      "recruiters": [
+        "News Networks",
+        "Digital Media Companies",
+        "Advertising Agencies",
+        "Production Houses",
+        "Corporate Brands"
+      ],
+      "pros": [
+        "Creative work",
+        "Public impact",
+        "Digital opportunities",
+        "Portfolio-led growth"
+      ],
+      "cons": [
+        "Deadline pressure",
+        "Competitive industry",
+        "Irregular schedules"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "screenwriter",
+      "name": "Screenwriter",
+      "overview": "Screenwriter works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Screenwriter is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sound Engineer",
+        "Documentary Filmmaker",
+        "Broadcast Producer"
+      ]
+    },
+    {
+      "id": "cinematographer",
+      "name": "Cinematographer",
+      "overview": "Cinematographer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Cinematographer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Documentary Filmmaker",
+        "Broadcast Producer"
+      ]
+    },
+    {
+      "id": "sound-engineer",
+      "name": "Sound Engineer",
+      "overview": "Sound Engineer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Sound Engineer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Broadcast Producer"
+      ]
+    },
+    {
+      "id": "documentary-filmmaker",
+      "name": "Documentary Filmmaker",
+      "overview": "Documentary Filmmaker works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Documentary Filmmaker is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    },
+    {
+      "id": "broadcast-producer",
+      "name": "Broadcast Producer",
+      "overview": "Broadcast Producer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Broadcast Producer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Journalist",
+        "Digital Content Creator",
+        "Mass Communication Specialist"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "domain": "Education",
+  "description": "Teaching, training, education technology and academic careers.",
+  "careers": [
+    {
+      "id": "school-teacher",
+      "name": "School Teacher",
+      "overview": "School Teacher is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "School Teacher offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "College Professor",
+        "Special Educator",
+        "Education Counsellor"
+      ]
+    },
+    {
+      "id": "college-professor",
+      "name": "College Professor",
+      "overview": "College Professor is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "College Professor offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "Special Educator",
+        "Education Counsellor"
+      ]
+    },
+    {
+      "id": "special-educator",
+      "name": "Special Educator",
+      "overview": "Special Educator is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Special Educator offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Education Counsellor"
+      ]
+    },
+    {
+      "id": "education-counsellor",
+      "name": "Education Counsellor",
+      "overview": "Education Counsellor is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Education Counsellor offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "curriculum-developer",
+      "name": "Curriculum Developer",
+      "overview": "Curriculum Developer is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Curriculum Developer offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "instructional-designer",
+      "name": "Instructional Designer",
+      "overview": "Instructional Designer is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Instructional Designer offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "education-administrator",
+      "name": "Education Administrator",
+      "overview": "Education Administrator is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Education Administrator offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "early-childhood-educator",
+      "name": "Early Childhood Educator",
+      "overview": "Early Childhood Educator is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Early Childhood Educator offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "educational-psychologist",
+      "name": "Educational Psychologist",
+      "overview": "Educational Psychologist is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Educational Psychologist offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "edtech-specialist",
+      "name": "EdTech Specialist",
+      "overview": "EdTech Specialist is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "EdTech Specialist offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "corporate-trainer",
+      "name": "Corporate Trainer",
+      "overview": "Corporate Trainer is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Corporate Trainer offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "language-trainer",
+      "name": "Language Trainer",
+      "overview": "Language Trainer is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Language Trainer offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "online-tutor",
+      "name": "Online Tutor",
+      "overview": "Online Tutor is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Online Tutor offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "academic-coordinator",
+      "name": "Academic Coordinator",
+      "overview": "Academic Coordinator is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Academic Coordinator offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    },
+    {
+      "id": "education-policy-analyst",
+      "name": "Education Policy Analyst",
+      "overview": "Education Policy Analyst is an education career focused on teaching, learning design, student development and academic systems.",
+      "whyChoose": "Education Policy Analyst offers meaningful work, stable demand and opportunities in schools, colleges, training and education technology.",
+      "eligibility": "Class 12 followed by graduation; B.Ed, D.El.Ed, NET or specialization may be required for some roles.",
+      "educationPath": "Class 12 -> Graduation -> Teaching/training qualification -> Internship/practice -> Education role.",
+      "feeRange": "Rs 50,000-10 Lakhs",
+      "workEnvironment": "Schools, colleges, coaching centers, EdTech companies, training teams, NGOs and policy organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-14 LPA",
+        "seniorLevel": "Rs 14-35+ LPA"
+      },
+      "futureScope": "Strong due to online learning, skill development, inclusive education and lifelong learning.",
+      "aiImpact": "AI will support lesson planning and assessment while human mentorship, classroom judgement and empathy remain essential.",
+      "skills": [
+        "Teaching",
+        "Communication",
+        "Patience",
+        "Curriculum Planning",
+        "Assessment",
+        "Mentoring"
+      ],
+      "entranceExams": [
+        "CTET",
+        "TET",
+        "CUET",
+        "NET/JRF",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Jamia Millia Islamia",
+        "TISS",
+        "Banaras Hindu University",
+        "Regional Institutes of Education"
+      ],
+      "careerOpportunities": [
+        "Teacher",
+        "Trainer",
+        "Curriculum Developer",
+        "Academic Coordinator",
+        "Education Counsellor"
+      ],
+      "recruiters": [
+        "Schools",
+        "Colleges",
+        "EdTech Companies",
+        "NGOs",
+        "Training Organizations"
+      ],
+      "pros": [
+        "Meaningful impact",
+        "Stable demand",
+        "Mentorship role",
+        "Multiple settings"
+      ],
+      "cons": [
+        "Patience required",
+        "Administrative workload",
+        "Continuous curriculum updates"
+      ],
+      "relatedCareers": [
+        "School Teacher",
+        "College Professor",
+        "Special Educator"
+      ]
+    }
+  ]
+}

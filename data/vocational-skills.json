@@ -1,0 +1,65 @@
+{
+  "domain": "Vocational & Skilled Careers",
+  "careers": [
+    {
+      "id": "electrician",
+      "name": "Electrician"
+    },
+    {
+      "id": "plumber",
+      "name": "Plumber"
+    },
+    {
+      "id": "automotive-technician",
+      "name": "Automotive Technician"
+    },
+    {
+      "id": "hvac-technician",
+      "name": "HVAC Technician"
+    },
+    {
+      "id": "welder",
+      "name": "Welder"
+    },
+    {
+      "id": "solar-panel-technician",
+      "name": "Solar Panel Technician"
+    },
+    {
+      "id": "beauty-and-wellness-professional",
+      "name": "Beauty and Wellness Professional"
+    },
+    {
+      "id": "retail-associate",
+      "name": "Retail Associate"
+    },
+    {
+      "id": "logistics-assistant",
+      "name": "Logistics Assistant"
+    },
+    {
+      "id": "medical-assistant",
+      "name": "Medical Assistant"
+    },
+    {
+      "id": "lab-assistant",
+      "name": "Lab Assistant"
+    },
+    {
+      "id": "graphic-production-operator",
+      "name": "Graphic Production Operator"
+    },
+    {
+      "id": "food-processing-technician",
+      "name": "Food Processing Technician"
+    },
+    {
+      "id": "apparel-production-supervisor",
+      "name": "Apparel Production Supervisor"
+    },
+    {
+      "id": "cnc-machine-operator",
+      "name": "CNC Machine Operator"
+    }
+  ]
+}

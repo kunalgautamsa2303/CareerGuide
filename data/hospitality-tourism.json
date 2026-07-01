@@ -1,0 +1,65 @@
+{
+  "domain": "Hospitality & Tourism",
+  "careers": [
+    {
+      "id": "hotel-manager",
+      "name": "Hotel Manager"
+    },
+    {
+      "id": "chef",
+      "name": "Chef"
+    },
+    {
+      "id": "food-and-beverage-manager",
+      "name": "Food and Beverage Manager"
+    },
+    {
+      "id": "front-office-manager",
+      "name": "Front Office Manager"
+    },
+    {
+      "id": "travel-consultant",
+      "name": "Travel Consultant"
+    },
+    {
+      "id": "tour-manager",
+      "name": "Tour Manager"
+    },
+    {
+      "id": "event-manager",
+      "name": "Event Manager"
+    },
+    {
+      "id": "airline-cabin-crew",
+      "name": "Airline Cabin Crew"
+    },
+    {
+      "id": "hospitality-entrepreneur",
+      "name": "Hospitality Entrepreneur"
+    },
+    {
+      "id": "resort-manager",
+      "name": "Resort Manager"
+    },
+    {
+      "id": "cruise-line-professional",
+      "name": "Cruise Line Professional"
+    },
+    {
+      "id": "housekeeping-manager",
+      "name": "Housekeeping Manager"
+    },
+    {
+      "id": "bakery-and-pastry-chef",
+      "name": "Bakery and Pastry Chef"
+    },
+    {
+      "id": "tourism-officer",
+      "name": "Tourism Officer"
+    },
+    {
+      "id": "restaurant-manager",
+      "name": "Restaurant Manager"
+    }
+  ]
+}

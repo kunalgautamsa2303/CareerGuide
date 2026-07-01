@@ -80,6 +80,148 @@
       ]
     },
     {
+      "id": "company-secretary",
+      "name": "Company Secretary (CS)",
+      "overview": "Company Secretary (CS) is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Company Secretary (CS) offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Cost & Management Accountant (CMA)",
+        "Investment Banker"
+      ]
+    },
+    {
+      "id": "cost-management-accountant",
+      "name": "Cost & Management Accountant (CMA)",
+      "overview": "Cost & Management Accountant (CMA) is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Cost & Management Accountant (CMA) offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Investment Banker"
+      ]
+    },
+    {
       "id": "investment-banker",
       "name": "Investment Banker",
       "overview": "Investment Banker is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
@@ -234,9 +376,9 @@
       ]
     },
     {
-      "id": "actuary",
-      "name": "Actuary",
-      "overview": "Actuary is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "financial-planner",
+      "name": "Financial Planner",
+      "overview": "Financial Planner is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -311,163 +453,80 @@
       ]
     },
     {
-      "id": "certified-public-accountant",
-      "name": "Certified Public Accountant (CPA)",
-      "overview": "Certified Public Accountant (CPA) is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
-      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
-      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
-      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
-      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
-      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
+      "id": "stock-market-analyst",
+      "name": "Stock Market Analyst",
+      "overview": "Stock Market Analyst is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Stock Market Analyst offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
       "salary": {
-        "fresher": "₹4–10 LPA",
-        "midLevel": "₹10–25 LPA",
-        "seniorLevel": "₹25–80+ LPA"
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
       },
-      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
-      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
       "skills": [
-        "Financial Analysis",
         "Accounting",
-        "Data Analysis",
-        "Risk Assessment",
-        "Communication",
-        "Decision Making"
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
       ],
       "entranceExams": [
         "CA Foundation",
-        "CFA",
-        "FRM",
-        "CPA",
-        "NISM Certifications",
-        "CUET"
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
       ],
       "topColleges": [
-        "SRCC Delhi",
-        "Shri Ram College of Commerce",
-        "Narsee Monjee",
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
         "Christ University",
-        "IIMs",
-        "Delhi University"
+        "NMIMS",
+        "Loyola College"
       ],
       "careerOpportunities": [
-        "Investment Banking",
-        "Corporate Finance",
-        "Wealth Management",
-        "Auditing",
-        "Risk Management",
-        "FinTech"
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
       ],
       "recruiters": [
-        "Goldman Sachs",
-        "JP Morgan",
-        "Morgan Stanley",
         "Deloitte",
         "EY",
-        "PwC",
         "KPMG",
+        "PwC",
         "HDFC Bank",
         "ICICI Bank"
       ],
       "pros": [
-        "Excellent salary growth",
-        "Global opportunities",
-        "High demand",
-        "Multiple specializations"
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
       ],
       "cons": [
-        "Competitive certifications",
-        "High pressure environments",
-        "Continuous upskilling required"
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
       ],
       "relatedCareers": [
-        "Business Analyst",
-        "Investment Banker",
-        "Risk Analyst",
-        "Financial Consultant"
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Cost & Management Accountant (CMA)"
       ]
     },
     {
-      "id": "wealth-manager",
-      "name": "Wealth Manager",
-      "overview": "Wealth Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
-      "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
-      "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
-      "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
-      "feeRange": "₹50,000 – ₹20 Lakhs depending on program and certification.",
-      "workEnvironment": "Banks, investment firms, consulting companies, financial institutions, stock markets and corporate finance departments.",
-      "salary": {
-        "fresher": "₹4–10 LPA",
-        "midLevel": "₹10–25 LPA",
-        "seniorLevel": "₹25–80+ LPA"
-      },
-      "futureScope": "Strong growth due to digital banking, investments, wealth management, fintech and global financial markets.",
-      "aiImpact": "AI automates routine analysis but increases demand for strategic financial planning and advisory expertise.",
-      "skills": [
-        "Financial Analysis",
-        "Accounting",
-        "Data Analysis",
-        "Risk Assessment",
-        "Communication",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "CA Foundation",
-        "CFA",
-        "FRM",
-        "CPA",
-        "NISM Certifications",
-        "CUET"
-      ],
-      "topColleges": [
-        "SRCC Delhi",
-        "Shri Ram College of Commerce",
-        "Narsee Monjee",
-        "Christ University",
-        "IIMs",
-        "Delhi University"
-      ],
-      "careerOpportunities": [
-        "Investment Banking",
-        "Corporate Finance",
-        "Wealth Management",
-        "Auditing",
-        "Risk Management",
-        "FinTech"
-      ],
-      "recruiters": [
-        "Goldman Sachs",
-        "JP Morgan",
-        "Morgan Stanley",
-        "Deloitte",
-        "EY",
-        "PwC",
-        "KPMG",
-        "HDFC Bank",
-        "ICICI Bank"
-      ],
-      "pros": [
-        "Excellent salary growth",
-        "Global opportunities",
-        "High demand",
-        "Multiple specializations"
-      ],
-      "cons": [
-        "Competitive certifications",
-        "High pressure environments",
-        "Continuous upskilling required"
-      ],
-      "relatedCareers": [
-        "Business Analyst",
-        "Investment Banker",
-        "Risk Analyst",
-        "Financial Consultant"
-      ]
-    },
-    {
-      "id": "portfolio-manager",
-      "name": "Portfolio Manager",
-      "overview": "Portfolio Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "equity-research-analyst",
+      "name": "Equity Research Analyst",
+      "overview": "Equity Research Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -619,9 +678,9 @@
       ]
     },
     {
-      "id": "equity-research-analyst",
-      "name": "Equity Research Analyst",
-      "overview": "Equity Research Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "actuary",
+      "name": "Actuary",
+      "overview": "Actuary is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -696,9 +755,9 @@
       ]
     },
     {
-      "id": "financial-planner",
-      "name": "Financial Planner",
-      "overview": "Financial Planner is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "fintech-specialist",
+      "name": "FinTech Specialist",
+      "overview": "FinTech Specialist is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -773,9 +832,9 @@
       ]
     },
     {
-      "id": "credit-analyst",
-      "name": "Credit Analyst",
-      "overview": "Credit Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "wealth-manager",
+      "name": "Wealth Manager",
+      "overview": "Wealth Manager is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -1004,6 +1063,77 @@
       ]
     },
     {
+      "id": "management-accountant",
+      "name": "Management Accountant",
+      "overview": "Management Accountant is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Management Accountant offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Cost & Management Accountant (CMA)"
+      ]
+    },
+    {
       "id": "banking-professional",
       "name": "Banking Professional",
       "overview": "Banking Professional is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
@@ -1081,9 +1211,9 @@
       ]
     },
     {
-      "id": "fintech-specialist",
-      "name": "FinTech Specialist",
-      "overview": "FinTech Specialist is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
+      "id": "credit-analyst",
+      "name": "Credit Analyst",
+      "overview": "Credit Analyst is a finance profession focused on financial management, investments, analysis, compliance, risk assessment and wealth creation.",
       "whyChoose": "Strong salary potential, high industry demand, global opportunities and excellent career progression.",
       "eligibility": "10+2 from any stream, preferably Commerce. Relevant degrees include B.Com, BBA, Economics, Finance and Accounting.",
       "educationPath": "Class 12 → B.Com/BBA/Economics → Professional Certification (CA/CFA/CPA/FRM etc.) → Industry Experience.",
@@ -1155,6 +1285,219 @@
         "Investment Banker",
         "Risk Analyst",
         "Financial Consultant"
+      ]
+    },
+    {
+      "id": "treasury-manager",
+      "name": "Treasury Manager",
+      "overview": "Treasury Manager is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Treasury Manager offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Cost & Management Accountant (CMA)"
+      ]
+    },
+    {
+      "id": "insurance-specialist",
+      "name": "Insurance Specialist",
+      "overview": "Insurance Specialist is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Insurance Specialist offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Cost & Management Accountant (CMA)"
+      ]
+    },
+    {
+      "id": "financial-consultant",
+      "name": "Financial Consultant",
+      "overview": "Financial Consultant is a commerce and finance career focused on money, accounting, markets, business performance and financial decisions.",
+      "whyChoose": "Financial Consultant offers stable demand, strong professional pathways and opportunities in business, banking and advisory services.",
+      "eligibility": "Class 12 Commerce is preferred, though some pathways are open to other streams.",
+      "educationPath": "Class 12 -> B.Com/BBA/Economics or professional course -> Internship/articleship -> Job or certification.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Banks, accounting firms, financial institutions, corporates, consulting firms and government bodies.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to financial planning, taxation, digital banking, investment and compliance demand.",
+      "aiImpact": "AI will automate routine accounting and reporting while increasing demand for advisory, analytics and judgement.",
+      "skills": [
+        "Accounting",
+        "Numeracy",
+        "Financial Analysis",
+        "Business Awareness",
+        "Excel",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "CA Foundation",
+        "CUET",
+        "CMA Foundation",
+        "CS Executive Entrance",
+        "Bank Exams"
+      ],
+      "topColleges": [
+        "SRCC",
+        "Hindu College",
+        "St. Xavier's College",
+        "Christ University",
+        "NMIMS",
+        "Loyola College"
+      ],
+      "careerOpportunities": [
+        "Accountant",
+        "Analyst",
+        "Auditor",
+        "Tax Consultant",
+        "Banking Officer"
+      ],
+      "recruiters": [
+        "Deloitte",
+        "EY",
+        "KPMG",
+        "PwC",
+        "HDFC Bank",
+        "ICICI Bank"
+      ],
+      "pros": [
+        "Stable demand",
+        "Professional certifications",
+        "Business relevance",
+        "Good growth"
+      ],
+      "cons": [
+        "Detail-heavy work",
+        "Exam difficulty",
+        "Regulatory updates"
+      ],
+      "relatedCareers": [
+        "Chartered Accountant (CA)",
+        "Company Secretary (CS)",
+        "Cost & Management Accountant (CMA)"
       ]
     }
   ]

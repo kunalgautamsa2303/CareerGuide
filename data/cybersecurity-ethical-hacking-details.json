@@ -1,0 +1,1008 @@
+{
+  "domain": "Cybersecurity & Ethical Hacking",
+  "description": "Cyber defence, ethical hacking, digital forensics and information-security careers.",
+  "careers": [
+    {
+      "id": "cybersecurity-analyst",
+      "name": "Cybersecurity Analyst",
+      "overview": "Cybersecurity Analyst protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Cybersecurity Analyst is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Security Architect",
+        "Security Operations Center Analyst",
+        "Digital Forensics Investigator"
+      ]
+    },
+    {
+      "id": "ethical-hacker",
+      "name": "Ethical Hacker",
+      "overview": "Ethical Hacker protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Ethical Hacker is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Security Operations Center Analyst",
+        "Digital Forensics Investigator",
+        "Cloud Security Engineer"
+      ]
+    },
+    {
+      "id": "security-architect",
+      "name": "Security Architect",
+      "overview": "Security Architect protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Security Architect is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Digital Forensics Investigator",
+        "Cloud Security Engineer",
+        "Application Security Engineer"
+      ]
+    },
+    {
+      "id": "security-operations-center-analyst",
+      "name": "Security Operations Center Analyst",
+      "overview": "Security Operations Center Analyst protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Security Operations Center Analyst is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cloud Security Engineer",
+        "Application Security Engineer",
+        "Network Security Engineer"
+      ]
+    },
+    {
+      "id": "digital-forensics-investigator",
+      "name": "Digital Forensics Investigator",
+      "overview": "Digital Forensics Investigator protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Digital Forensics Investigator is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Application Security Engineer",
+        "Network Security Engineer",
+        "Malware Analyst"
+      ]
+    },
+    {
+      "id": "cloud-security-engineer",
+      "name": "Cloud Security Engineer",
+      "overview": "Cloud Security Engineer protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Cloud Security Engineer is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Network Security Engineer",
+        "Malware Analyst",
+        "Cyber Law Consultant"
+      ]
+    },
+    {
+      "id": "application-security-engineer",
+      "name": "Application Security Engineer",
+      "overview": "Application Security Engineer protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Application Security Engineer is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Malware Analyst",
+        "Cyber Law Consultant",
+        "Incident Response Analyst"
+      ]
+    },
+    {
+      "id": "network-security-engineer",
+      "name": "Network Security Engineer",
+      "overview": "Network Security Engineer protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Network Security Engineer is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cyber Law Consultant",
+        "Incident Response Analyst",
+        "Penetration Tester"
+      ]
+    },
+    {
+      "id": "malware-analyst",
+      "name": "Malware Analyst",
+      "overview": "Malware Analyst protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Malware Analyst is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Incident Response Analyst",
+        "Penetration Tester",
+        "Information Security Auditor"
+      ]
+    },
+    {
+      "id": "cyber-law-consultant",
+      "name": "Cyber Law Consultant",
+      "overview": "Cyber Law Consultant protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Cyber Law Consultant is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Penetration Tester",
+        "Information Security Auditor",
+        "Governance Risk Compliance Analyst"
+      ]
+    },
+    {
+      "id": "incident-response-analyst",
+      "name": "Incident Response Analyst",
+      "overview": "Incident Response Analyst protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Incident Response Analyst is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Information Security Auditor",
+        "Governance Risk Compliance Analyst",
+        "Cybersecurity Trainer"
+      ]
+    },
+    {
+      "id": "penetration-tester",
+      "name": "Penetration Tester",
+      "overview": "Penetration Tester protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Penetration Tester is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Governance Risk Compliance Analyst",
+        "Cybersecurity Trainer"
+      ]
+    },
+    {
+      "id": "information-security-auditor",
+      "name": "Information Security Auditor",
+      "overview": "Information Security Auditor protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Information Security Auditor is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cybersecurity Trainer"
+      ]
+    },
+    {
+      "id": "governance-risk-compliance-analyst",
+      "name": "Governance Risk Compliance Analyst",
+      "overview": "Governance Risk Compliance Analyst protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Governance Risk Compliance Analyst is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cybersecurity Analyst",
+        "Ethical Hacker",
+        "Security Architect"
+      ]
+    },
+    {
+      "id": "cybersecurity-trainer",
+      "name": "Cybersecurity Trainer",
+      "overview": "Cybersecurity Trainer protects digital systems, networks, data and users from cyber threats through security testing and defence.",
+      "whyChoose": "Cybersecurity Trainer is useful because it is a fast-growing, high-responsibility field with demand across technology, banking, government and consulting.",
+      "eligibility": "Class 12 with Mathematics or Computer Science is useful; B.Tech/BCA/B.Sc IT and certifications are common.",
+      "educationPath": "Class 12 -> CS/IT/cybersecurity degree or certification -> Labs/projects -> Security role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Security operations centers, IT companies, banks, consulting firms, government cyber units and product companies.",
+      "salary": {
+        "fresher": "Rs 4-9 LPA",
+        "midLevel": "Rs 9-25 LPA",
+        "seniorLevel": "Rs 25-70+ LPA"
+      },
+      "futureScope": "Excellent due to digital payments, cloud, data privacy, cybercrime and organizational security needs.",
+      "aiImpact": "AI will support threat detection while attackers also use AI, increasing demand for skilled security professionals.",
+      "skills": [
+        "Networking",
+        "Linux",
+        "Security Tools",
+        "Ethical Hacking",
+        "Risk Analysis",
+        "Incident Response"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "University Entrance Tests",
+        "Cybersecurity Certifications"
+      ],
+      "topColleges": [
+        "IIIT Delhi",
+        "VIT",
+        "SRM Institute",
+        "Amity University",
+        "UPES"
+      ],
+      "careerOpportunities": [
+        "Cyber Defence",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Security Audit",
+        "Cloud Security"
+      ],
+      "recruiters": [
+        "Banks",
+        "Cybersecurity Firms",
+        "IT Companies",
+        "Consulting Firms",
+        "Government Cyber Cells"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cybersecurity Analyst",
+        "Ethical Hacker",
+        "Security Architect"
+      ]
+    }
+  ]
+}

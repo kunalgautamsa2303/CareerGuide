@@ -1,107 +1,105 @@
 {
   "domain": "Design & Creative Arts",
-
   "careers": [
-
     {
       "id": "graphic-designer",
       "name": "Graphic Designer"
     },
-
     {
       "id": "communication-designer",
       "name": "Communication Designer"
     },
-
     {
       "id": "ui-designer",
       "name": "UI Designer"
     },
-
     {
       "id": "ux-designer",
       "name": "UX Designer"
     },
-
     {
       "id": "product-designer",
       "name": "Product Designer"
     },
-
     {
       "id": "industrial-designer",
       "name": "Industrial Designer"
     },
-
     {
       "id": "fashion-designer",
       "name": "Fashion Designer"
     },
-
     {
       "id": "textile-designer",
       "name": "Textile Designer"
     },
-
     {
       "id": "interior-designer",
       "name": "Interior Designer"
     },
-
     {
       "id": "furniture-designer",
       "name": "Furniture Designer"
     },
-
     {
       "id": "animation-designer",
       "name": "Animation Designer"
     },
-
     {
       "id": "game-designer",
       "name": "Game Designer"
     },
-
     {
       "id": "vfx-artist",
       "name": "VFX Artist"
     },
-
     {
       "id": "film-maker",
       "name": "Film Maker"
     },
-
     {
       "id": "photographer",
       "name": "Photographer"
     },
-
     {
       "id": "jewellery-designer",
       "name": "Jewellery Designer"
     },
-
     {
       "id": "transportation-designer",
       "name": "Transportation Designer"
     },
-
     {
       "id": "exhibition-designer",
       "name": "Exhibition Designer"
     },
-
     {
       "id": "service-designer",
       "name": "Service Designer"
     },
-
     {
       "id": "design-researcher",
       "name": "Design Researcher"
+    },
+    {
+      "id": "ux-researcher",
+      "name": "UX Researcher"
+    },
+    {
+      "id": "motion-graphics-designer",
+      "name": "Motion Graphics Designer"
+    },
+    {
+      "id": "interaction-designer",
+      "name": "Interaction Designer"
+    },
+    {
+      "id": "web-designer",
+      "name": "Web Designer"
+    },
+    {
+      "id": "toy-designer",
+      "name": "Toy Designer"
     }
-
   ]
 }

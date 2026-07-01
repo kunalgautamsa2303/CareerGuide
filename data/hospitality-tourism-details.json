@@ -1,0 +1,1008 @@
+{
+  "domain": "Hospitality & Tourism",
+  "description": "Hotel, travel, tourism, food service, events and guest-experience careers.",
+  "careers": [
+    {
+      "id": "hotel-manager",
+      "name": "Hotel Manager",
+      "overview": "Hotel Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Hotel Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Food and Beverage Manager",
+        "Front Office Manager",
+        "Travel Consultant"
+      ]
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "overview": "Chef manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Chef is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Front Office Manager",
+        "Travel Consultant",
+        "Tour Manager"
+      ]
+    },
+    {
+      "id": "food-and-beverage-manager",
+      "name": "Food and Beverage Manager",
+      "overview": "Food and Beverage Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Food and Beverage Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Travel Consultant",
+        "Tour Manager",
+        "Event Manager"
+      ]
+    },
+    {
+      "id": "front-office-manager",
+      "name": "Front Office Manager",
+      "overview": "Front Office Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Front Office Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Tour Manager",
+        "Event Manager",
+        "Airline Cabin Crew"
+      ]
+    },
+    {
+      "id": "travel-consultant",
+      "name": "Travel Consultant",
+      "overview": "Travel Consultant manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Travel Consultant is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Event Manager",
+        "Airline Cabin Crew",
+        "Hospitality Entrepreneur"
+      ]
+    },
+    {
+      "id": "tour-manager",
+      "name": "Tour Manager",
+      "overview": "Tour Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Tour Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Airline Cabin Crew",
+        "Hospitality Entrepreneur",
+        "Resort Manager"
+      ]
+    },
+    {
+      "id": "event-manager",
+      "name": "Event Manager",
+      "overview": "Event Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Event Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Hospitality Entrepreneur",
+        "Resort Manager",
+        "Cruise Line Professional"
+      ]
+    },
+    {
+      "id": "airline-cabin-crew",
+      "name": "Airline Cabin Crew",
+      "overview": "Airline Cabin Crew manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Airline Cabin Crew is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Resort Manager",
+        "Cruise Line Professional",
+        "Housekeeping Manager"
+      ]
+    },
+    {
+      "id": "hospitality-entrepreneur",
+      "name": "Hospitality Entrepreneur",
+      "overview": "Hospitality Entrepreneur manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Hospitality Entrepreneur is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Cruise Line Professional",
+        "Housekeeping Manager",
+        "Bakery and Pastry Chef"
+      ]
+    },
+    {
+      "id": "resort-manager",
+      "name": "Resort Manager",
+      "overview": "Resort Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Resort Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Housekeeping Manager",
+        "Bakery and Pastry Chef",
+        "Tourism Officer"
+      ]
+    },
+    {
+      "id": "cruise-line-professional",
+      "name": "Cruise Line Professional",
+      "overview": "Cruise Line Professional manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Cruise Line Professional is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Bakery and Pastry Chef",
+        "Tourism Officer",
+        "Restaurant Manager"
+      ]
+    },
+    {
+      "id": "housekeeping-manager",
+      "name": "Housekeeping Manager",
+      "overview": "Housekeeping Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Housekeeping Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Tourism Officer",
+        "Restaurant Manager"
+      ]
+    },
+    {
+      "id": "bakery-and-pastry-chef",
+      "name": "Bakery and Pastry Chef",
+      "overview": "Bakery and Pastry Chef manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Bakery and Pastry Chef is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Restaurant Manager"
+      ]
+    },
+    {
+      "id": "tourism-officer",
+      "name": "Tourism Officer",
+      "overview": "Tourism Officer manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Tourism Officer is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Hotel Manager",
+        "Chef",
+        "Food and Beverage Manager"
+      ]
+    },
+    {
+      "id": "restaurant-manager",
+      "name": "Restaurant Manager",
+      "overview": "Restaurant Manager manages guest experience, travel, hotels, food service, events, tourism operations and service businesses.",
+      "whyChoose": "Restaurant Manager is useful because it offers people-facing work, global mobility and practical career growth in a large service industry.",
+      "eligibility": "Class 12 in any stream; hotel management or tourism entrance exams may be required.",
+      "educationPath": "Class 12 -> Hotel/tourism degree or diploma -> Industrial training -> Hospitality, travel or event role.",
+      "feeRange": "Rs 1-15 Lakhs",
+      "workEnvironment": "Hotels, resorts, restaurants, airlines, travel companies, event firms, cruise lines and tourism departments.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-16 LPA",
+        "seniorLevel": "Rs 16-45+ LPA"
+      },
+      "futureScope": "Strong due to tourism, food service, events, luxury experiences and global travel recovery.",
+      "aiImpact": "AI will support booking and service systems while hospitality, empathy and operations remain human-led.",
+      "skills": [
+        "Communication",
+        "Service Mindset",
+        "Operations",
+        "Teamwork",
+        "Problem Solving",
+        "Presentation"
+      ],
+      "entranceExams": [
+        "NCHM JEE",
+        "CUET",
+        "Institute Specific Admissions",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IHM Delhi",
+        "IHM Mumbai",
+        "IHM Bengaluru",
+        "Welcomgroup Graduate School",
+        "Christ University"
+      ],
+      "careerOpportunities": [
+        "Hotel Operations",
+        "Food Service",
+        "Travel Planning",
+        "Events",
+        "Airline Services"
+      ],
+      "recruiters": [
+        "Taj Hotels",
+        "Oberoi Hotels",
+        "Marriott",
+        "IndiGo",
+        "Travel Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Hotel Manager",
+        "Chef",
+        "Food and Beverage Manager"
+      ]
+    }
+  ]
+}

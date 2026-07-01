@@ -1,0 +1,65 @@
+{
+  "domain": "Education",
+  "careers": [
+    {
+      "id": "school-teacher",
+      "name": "School Teacher"
+    },
+    {
+      "id": "college-professor",
+      "name": "College Professor"
+    },
+    {
+      "id": "special-educator",
+      "name": "Special Educator"
+    },
+    {
+      "id": "education-counsellor",
+      "name": "Education Counsellor"
+    },
+    {
+      "id": "curriculum-developer",
+      "name": "Curriculum Developer"
+    },
+    {
+      "id": "instructional-designer",
+      "name": "Instructional Designer"
+    },
+    {
+      "id": "education-administrator",
+      "name": "Education Administrator"
+    },
+    {
+      "id": "early-childhood-educator",
+      "name": "Early Childhood Educator"
+    },
+    {
+      "id": "educational-psychologist",
+      "name": "Educational Psychologist"
+    },
+    {
+      "id": "edtech-specialist",
+      "name": "EdTech Specialist"
+    },
+    {
+      "id": "corporate-trainer",
+      "name": "Corporate Trainer"
+    },
+    {
+      "id": "language-trainer",
+      "name": "Language Trainer"
+    },
+    {
+      "id": "online-tutor",
+      "name": "Online Tutor"
+    },
+    {
+      "id": "academic-coordinator",
+      "name": "Academic Coordinator"
+    },
+    {
+      "id": "education-policy-analyst",
+      "name": "Education Policy Analyst"
+    }
+  ]
+}

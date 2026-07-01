@@ -1,0 +1,65 @@
+{
+  "domain": "Computer Applications & IT",
+  "careers": [
+    {
+      "id": "bca-developer",
+      "name": "BCA Developer"
+    },
+    {
+      "id": "web-developer",
+      "name": "Web Developer"
+    },
+    {
+      "id": "mobile-app-developer",
+      "name": "Mobile App Developer"
+    },
+    {
+      "id": "cloud-computing-specialist",
+      "name": "Cloud Computing Specialist"
+    },
+    {
+      "id": "network-administrator",
+      "name": "Network Administrator"
+    },
+    {
+      "id": "database-administrator",
+      "name": "Database Administrator"
+    },
+    {
+      "id": "systems-analyst",
+      "name": "Systems Analyst"
+    },
+    {
+      "id": "it-support-specialist",
+      "name": "IT Support Specialist"
+    },
+    {
+      "id": "devops-engineer",
+      "name": "DevOps Engineer"
+    },
+    {
+      "id": "qa-tester",
+      "name": "QA Tester"
+    },
+    {
+      "id": "ui-developer",
+      "name": "UI Developer"
+    },
+    {
+      "id": "erp-consultant",
+      "name": "ERP Consultant"
+    },
+    {
+      "id": "it-project-coordinator",
+      "name": "IT Project Coordinator"
+    },
+    {
+      "id": "technical-writer",
+      "name": "Technical Writer"
+    },
+    {
+      "id": "computer-applications-teacher",
+      "name": "Computer Applications Teacher"
+    }
+  ]
+}

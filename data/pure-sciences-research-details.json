@@ -1,0 +1,1023 @@
+{
+  "domain": "Pure Sciences & Research",
+  "description": "Physics, chemistry, biology, mathematics, research and lab-based careers.",
+  "careers": [
+    {
+      "id": "physicist",
+      "name": "Physicist",
+      "overview": "Physicist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Physicist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Mathematician",
+        "Statistician",
+        "Biologist"
+      ]
+    },
+    {
+      "id": "chemist",
+      "name": "Chemist",
+      "overview": "Chemist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Chemist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Statistician",
+        "Biologist",
+        "Microbiologist"
+      ]
+    },
+    {
+      "id": "mathematician",
+      "name": "Mathematician",
+      "overview": "Mathematician explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Mathematician is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Biologist",
+        "Microbiologist",
+        "Biochemist"
+      ]
+    },
+    {
+      "id": "statistician",
+      "name": "Statistician",
+      "overview": "Statistician explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Statistician is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Microbiologist",
+        "Biochemist",
+        "Zoologist"
+      ]
+    },
+    {
+      "id": "biologist",
+      "name": "Biologist",
+      "overview": "Biologist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Biologist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Biochemist",
+        "Zoologist",
+        "Botanist"
+      ]
+    },
+    {
+      "id": "microbiologist",
+      "name": "Microbiologist",
+      "overview": "Microbiologist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Microbiologist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Zoologist",
+        "Botanist",
+        "Geologist"
+      ]
+    },
+    {
+      "id": "biochemist",
+      "name": "Biochemist",
+      "overview": "Biochemist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Biochemist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Botanist",
+        "Geologist",
+        "Astronomer"
+      ]
+    },
+    {
+      "id": "zoologist",
+      "name": "Zoologist",
+      "overview": "Zoologist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Zoologist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Geologist",
+        "Astronomer",
+        "Environmental Researcher"
+      ]
+    },
+    {
+      "id": "botanist",
+      "name": "Botanist",
+      "overview": "Botanist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Botanist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Astronomer",
+        "Environmental Researcher",
+        "Science Communicator"
+      ]
+    },
+    {
+      "id": "geologist",
+      "name": "Geologist",
+      "overview": "Geologist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Geologist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Environmental Researcher",
+        "Science Communicator",
+        "Lab Research Scientist"
+      ]
+    },
+    {
+      "id": "astronomer",
+      "name": "Astronomer",
+      "overview": "Astronomer explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Astronomer is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Science Communicator",
+        "Lab Research Scientist",
+        "Research Assistant"
+      ]
+    },
+    {
+      "id": "environmental-researcher",
+      "name": "Environmental Researcher",
+      "overview": "Environmental Researcher explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Environmental Researcher is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Lab Research Scientist",
+        "Research Assistant"
+      ]
+    },
+    {
+      "id": "science-communicator",
+      "name": "Science Communicator",
+      "overview": "Science Communicator explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Science Communicator is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Research Assistant"
+      ]
+    },
+    {
+      "id": "lab-research-scientist",
+      "name": "Lab Research Scientist",
+      "overview": "Lab Research Scientist explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Lab Research Scientist is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Physicist",
+        "Chemist",
+        "Mathematician"
+      ]
+    },
+    {
+      "id": "research-assistant",
+      "name": "Research Assistant",
+      "overview": "Research Assistant explores scientific principles through experiments, analysis, data, lab work and research projects.",
+      "whyChoose": "Research Assistant is useful because it is ideal for students who enjoy deep subject knowledge, discovery, experimentation and research.",
+      "eligibility": "Class 12 Science with relevant subjects such as PCM, PCB or PCMB.",
+      "educationPath": "Class 12 Science -> B.Sc/BS/MS integrated degree -> Research projects -> MSc/PhD or science role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Universities, research labs, science institutes, industry R&D teams, analytics units and education organizations.",
+      "salary": {
+        "fresher": "Rs 2.5-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for research, analytics, biotechnology, climate science, space science, education and data-driven work.",
+      "aiImpact": "AI will support modelling and analysis while scientific reasoning and experimental design remain critical.",
+      "skills": [
+        "Scientific Thinking",
+        "Mathematics",
+        "Lab Skills",
+        "Data Analysis",
+        "Research Writing",
+        "Patience"
+      ],
+      "entranceExams": [
+        "CUET",
+        "IISER Aptitude Test",
+        "NEST",
+        "JEE Main",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "IISc Bengaluru",
+        "IISERs",
+        "Delhi University",
+        "Banaras Hindu University",
+        "St. Xavier's College"
+      ],
+      "careerOpportunities": [
+        "Research",
+        "Teaching",
+        "R&D",
+        "Analytics",
+        "Science Communication"
+      ],
+      "recruiters": [
+        "Research Institutes",
+        "Universities",
+        "Pharma Companies",
+        "Analytics Firms",
+        "Government Labs"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Physicist",
+        "Chemist",
+        "Mathematician"
+      ]
+    }
+  ]
+}

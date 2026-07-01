@@ -1,0 +1,65 @@
+{
+  "domain": "Pure Sciences & Research",
+  "careers": [
+    {
+      "id": "physicist",
+      "name": "Physicist"
+    },
+    {
+      "id": "chemist",
+      "name": "Chemist"
+    },
+    {
+      "id": "mathematician",
+      "name": "Mathematician"
+    },
+    {
+      "id": "statistician",
+      "name": "Statistician"
+    },
+    {
+      "id": "biologist",
+      "name": "Biologist"
+    },
+    {
+      "id": "microbiologist",
+      "name": "Microbiologist"
+    },
+    {
+      "id": "biochemist",
+      "name": "Biochemist"
+    },
+    {
+      "id": "zoologist",
+      "name": "Zoologist"
+    },
+    {
+      "id": "botanist",
+      "name": "Botanist"
+    },
+    {
+      "id": "geologist",
+      "name": "Geologist"
+    },
+    {
+      "id": "astronomer",
+      "name": "Astronomer"
+    },
+    {
+      "id": "environmental-researcher",
+      "name": "Environmental Researcher"
+    },
+    {
+      "id": "science-communicator",
+      "name": "Science Communicator"
+    },
+    {
+      "id": "lab-research-scientist",
+      "name": "Lab Research Scientist"
+    },
+    {
+      "id": "research-assistant",
+      "name": "Research Assistant"
+    }
+  ]
+}

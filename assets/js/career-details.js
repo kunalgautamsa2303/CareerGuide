@@ -91,7 +91,7 @@ function renderCareerDetails(career, domain, allCareers) {
 
     renderEducationPath(career.educationPath);
     renderChips("skillsGrid", career.skills);
-    renderChips("entranceExamGrid", career.entranceExams);
+    renderExamLinks("entranceExamGrid", career.entranceExams);
     renderCards("collegeGrid", career.topColleges, "bi-mortarboard-fill");
     renderChips("recruiterGrid", career.recruiters);
     renderChips("opportunityGrid", career.careerOpportunities);
@@ -166,6 +166,24 @@ function renderChips(containerId, items) {
 
     container.innerHTML = values.length > 0
         ? values.map(item => `<span class="info-chip">${item}</span>`).join("")
+        : '<span class="info-chip">Information will be updated soon.</span>';
+}
+
+function renderExamLinks(containerId, items) {
+    const container = document.getElementById(containerId);
+
+    if (!container) return;
+
+    const values = normalizeItems(items);
+
+    container.innerHTML = values.length > 0
+        ? values.map(item => `
+            <a class="info-chip exam-chip"
+               href="exam.html?exam=${slugify(item)}">
+                ${item}
+                <i class="bi bi-arrow-right"></i>
+            </a>
+        `).join("")
         : '<span class="info-chip">Information will be updated soon.</span>';
 }
 
@@ -250,6 +268,14 @@ function normalizeItems(items) {
     }
 
     return [];
+}
+
+function slugify(value) {
+    return String(value || "")
+        .toLowerCase()
+        .replace(/&/g, "and")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-|-$/g, "");
 }
 
 function getSalaryValue(salary, key) {

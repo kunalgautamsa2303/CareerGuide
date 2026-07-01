@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Career Planning Guide | USSC Connect</title>
+    <meta name="description"
+          content="Premium career planning guides for stream selection, Class 12 planning, career comparison and entrance exam planning.">
+
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet"
+          href="../assets/css/variables.css">
+    <link rel="stylesheet"
+          href="../assets/css/base.css">
+    <link rel="stylesheet"
+          href="../assets/css/components.css">
+    <link rel="stylesheet"
+          href="../assets/css/career-details.css">
+    <link rel="stylesheet"
+          href="../assets/css/planning-guide.css">
+    <link rel="stylesheet"
+          href="../assets/css/responsive.css">
+</head>
+
+<body>
+    <header class="page-header">
+        <div class="container">
+            <a href="../index.html"
+               class="logo">
+                <div class="logo-mark">
+                    <img src="../assets/images/logo.png"
+                         alt="USSC Connect Logo">
+                </div>
+                <div class="logo-info">
+                    <h2>USSC Connect</h2>
+                    <span>Career Discovery & Education Network</span>
+                </div>
+            </a>
+
+            <nav>
+                <a href="../index.html">Home</a>
+                <a href="index.html">Career Library</a>
+                <a href="exams.html">Entrance Exams</a>
+                <a href="../experts/index.html">Career Experts</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="breadcrumb-section">
+        <div class="container">
+            <a href="index.html#guideGrid">
+                <i class="bi bi-arrow-left"></i>
+                Planning Guides
+            </a>
+            <span>/</span>
+            <span id="guideCrumb">Guide</span>
+        </div>
+    </section>
+
+    <main id="guideApp">
+        <section class="planning-hero">
+            <div class="container planning-hero-grid">
+                <div>
+                    <span id="guideEyebrow"
+                          class="hero-tag">Planning Guide</span>
+                    <h1 id="guideTitle">Loading Guide...</h1>
+                    <p id="guideIntro">Loading career planning guidance...</p>
+
+                    <div id="guideReference"
+                         class="guide-reference"></div>
+
+                    <div id="guideActions"
+                         class="hero-buttons"></div>
+                </div>
+
+                <aside class="guide-summary-panel">
+                    <span>Best For</span>
+                    <div id="guideBestFor"
+                         class="guide-chip-list"></div>
+                </aside>
+            </div>
+        </section>
+
+        <section class="career-section">
+            <div class="container guide-layout">
+                <aside class="guide-jump-panel">
+                    <a href="#interactiveTool">Interactive Tool</a>
+                    <a href="#quickAnswer">Quick Answer</a>
+                    <a href="#steps">Step-by-Step Plan</a>
+                    <a href="#pathways">Pathways</a>
+                    <a href="#mistakes">Mistakes to Avoid</a>
+                    <a href="#nextGuides">More Guides</a>
+                </aside>
+
+                <div class="guide-main">
+                    <section id="interactiveTool"
+                             class="guide-card interactive-guide-card">
+                        <span>Interactive Planner</span>
+                        <div class="interactive-heading">
+                            <div>
+                                <h2 id="interactiveTitle">Choose Your Starting Point</h2>
+                                <p id="interactiveIntro">Answer a few choices to get a focused recommendation.</p>
+                            </div>
+                            <button id="resetInteractiveTool"
+                                    type="button">
+                                <i class="bi bi-arrow-counterclockwise"></i>
+                                Reset
+                            </button>
+                        </div>
+                        <div id="interactiveProgress"
+                             class="interactive-progress"></div>
+                        <div id="interactiveQuestions"
+                             class="interactive-questions"></div>
+                        <div id="interactiveResult"
+                             class="interactive-result"
+                             hidden></div>
+                    </section>
+
+                    <section id="quickAnswer"
+                             class="guide-card">
+                        <span>Start Here</span>
+                        <h2>Quick Answer</h2>
+                        <p id="guideQuickAnswer"></p>
+                    </section>
+
+                    <section id="steps"
+                             class="guide-card">
+                        <span>Decision Process</span>
+                        <h2>Step-by-Step Plan</h2>
+                        <div id="guideSteps"
+                             class="guide-step-list"></div>
+                    </section>
+
+                    <section id="pathways"
+                             class="guide-card">
+                        <span>Explore Options</span>
+                        <h2>Pathways to Compare</h2>
+                        <div id="guidePathways"
+                             class="pathway-grid"></div>
+                    </section>
+
+                    <section id="mistakes"
+                             class="guide-card">
+                        <span>Decision Safety</span>
+                        <h2>Mistakes to Avoid</h2>
+                        <div id="guideMistakes"
+                             class="mistake-list"></div>
+                    </section>
+
+                    <section id="nextGuides"
+                             class="guide-card">
+                        <span>Keep Planning</span>
+                        <h2>Related Planning Guides</h2>
+                        <div id="relatedGuides"
+                             class="related-guide-grid"></div>
+                    </section>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="../assets/js/planning-guide.js"></script>
+</body>
+
+</html>

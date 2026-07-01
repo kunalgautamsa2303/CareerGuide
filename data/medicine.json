@@ -1,82 +1,105 @@
 {
   "domain": "Medicine & Healthcare",
-
   "careers": [
-
     {
       "id": "doctor",
       "name": "Doctor (MBBS)"
     },
-
     {
       "id": "dentist",
       "name": "Dentist"
     },
-
     {
       "id": "physiotherapist",
       "name": "Physiotherapist"
     },
-
     {
       "id": "nurse",
       "name": "Nurse"
     },
-
     {
       "id": "pharmacist",
       "name": "Pharmacist"
     },
-
     {
       "id": "occupational-therapist",
       "name": "Occupational Therapist"
     },
-
     {
       "id": "audiologist",
       "name": "Audiologist"
     },
-
     {
       "id": "speech-therapist",
       "name": "Speech Therapist"
     },
-
     {
       "id": "nutritionist",
       "name": "Nutritionist"
     },
-
     {
       "id": "public-health-specialist",
       "name": "Public Health Specialist"
     },
-
     {
       "id": "veterinarian",
       "name": "Veterinarian"
     },
-
     {
       "id": "radiographer",
       "name": "Radiographer"
     },
-
     {
       "id": "medical-laboratory-technologist",
       "name": "Medical Laboratory Technologist"
     },
-
     {
       "id": "optometrist",
       "name": "Optometrist"
     },
-
     {
       "id": "emergency-medical-technician",
       "name": "Emergency Medical Technician"
+    },
+    {
+      "id": "clinical-research-associate",
+      "name": "Clinical Research Associate"
+    },
+    {
+      "id": "biomedical-scientist",
+      "name": "Biomedical Scientist"
+    },
+    {
+      "id": "genetic-counselor",
+      "name": "Genetic Counselor"
+    },
+    {
+      "id": "healthcare-administrator",
+      "name": "Healthcare Administrator"
+    },
+    {
+      "id": "medical-coder",
+      "name": "Medical Coder"
+    },
+    {
+      "id": "sonographer",
+      "name": "Sonographer"
+    },
+    {
+      "id": "operation-theatre-technologist",
+      "name": "Operation Theatre Technologist"
+    },
+    {
+      "id": "dialysis-technologist",
+      "name": "Dialysis Technologist"
+    },
+    {
+      "id": "physician-assistant",
+      "name": "Physician Assistant"
+    },
+    {
+      "id": "paramedic",
+      "name": "Paramedic"
     }
-
   ]
 }

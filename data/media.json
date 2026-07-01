@@ -1,0 +1,85 @@
+{
+  "domain": "Media & Communication",
+  "careers": [
+    {
+      "id": "journalist",
+      "name": "Journalist"
+    },
+    {
+      "id": "digital-content-creator",
+      "name": "Digital Content Creator"
+    },
+    {
+      "id": "mass-communication-specialist",
+      "name": "Mass Communication Specialist"
+    },
+    {
+      "id": "public-relations-officer",
+      "name": "Public Relations Officer"
+    },
+    {
+      "id": "advertising-executive",
+      "name": "Advertising Executive"
+    },
+    {
+      "id": "film-director",
+      "name": "Film Director"
+    },
+    {
+      "id": "video-editor",
+      "name": "Video Editor"
+    },
+    {
+      "id": "radio-jockey",
+      "name": "Radio Jockey"
+    },
+    {
+      "id": "news-anchor",
+      "name": "News Anchor"
+    },
+    {
+      "id": "social-media-manager",
+      "name": "Social Media Manager"
+    },
+    {
+      "id": "copywriter",
+      "name": "Copywriter"
+    },
+    {
+      "id": "media-planner",
+      "name": "Media Planner"
+    },
+    {
+      "id": "corporate-communication-manager",
+      "name": "Corporate Communication Manager"
+    },
+    {
+      "id": "podcast-producer",
+      "name": "Podcast Producer"
+    },
+    {
+      "id": "photojournalist",
+      "name": "Photojournalist"
+    },
+    {
+      "id": "screenwriter",
+      "name": "Screenwriter"
+    },
+    {
+      "id": "cinematographer",
+      "name": "Cinematographer"
+    },
+    {
+      "id": "sound-engineer",
+      "name": "Sound Engineer"
+    },
+    {
+      "id": "documentary-filmmaker",
+      "name": "Documentary Filmmaker"
+    },
+    {
+      "id": "broadcast-producer",
+      "name": "Broadcast Producer"
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "domain": "Sports",
+  "description": "Sports, fitness, coaching and performance careers.",
+  "careers": [
+    {
+      "id": "professional-athlete",
+      "name": "Professional Athlete",
+      "overview": "Professional Athlete is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Professional Athlete offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Sports Coach",
+        "Fitness Trainer",
+        "Sports Physiotherapist"
+      ]
+    },
+    {
+      "id": "sports-coach",
+      "name": "Sports Coach",
+      "overview": "Sports Coach is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Coach offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Fitness Trainer",
+        "Sports Physiotherapist"
+      ]
+    },
+    {
+      "id": "fitness-trainer",
+      "name": "Fitness Trainer",
+      "overview": "Fitness Trainer is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Fitness Trainer offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Sports Physiotherapist"
+      ]
+    },
+    {
+      "id": "sports-physiotherapist",
+      "name": "Sports Physiotherapist",
+      "overview": "Sports Physiotherapist is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Physiotherapist offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "sports-nutritionist",
+      "name": "Sports Nutritionist",
+      "overview": "Sports Nutritionist is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Nutritionist offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "sports-psychologist",
+      "name": "Sports Psychologist",
+      "overview": "Sports Psychologist is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Psychologist offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "physical-education-teacher",
+      "name": "Physical Education Teacher",
+      "overview": "Physical Education Teacher is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Physical Education Teacher offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "sports-manager",
+      "name": "Sports Manager",
+      "overview": "Sports Manager is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Manager offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "sports-analyst",
+      "name": "Sports Analyst",
+      "overview": "Sports Analyst is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Analyst offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "referee",
+      "name": "Referee",
+      "overview": "Referee is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Referee offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "yoga-instructor",
+      "name": "Yoga Instructor",
+      "overview": "Yoga Instructor is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Yoga Instructor offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "strength-and-conditioning-coach",
+      "name": "Strength and Conditioning Coach",
+      "overview": "Strength and Conditioning Coach is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Strength and Conditioning Coach offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "sports-journalist",
+      "name": "Sports Journalist",
+      "overview": "Sports Journalist is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Sports Journalist offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "adventure-sports-instructor",
+      "name": "Adventure Sports Instructor",
+      "overview": "Adventure Sports Instructor is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Adventure Sports Instructor offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    },
+    {
+      "id": "esports-player",
+      "name": "Esports Player",
+      "overview": "Esports Player is a sports career focused on performance, coaching, health, fitness, competition and sports management.",
+      "whyChoose": "Esports Player offers active work, growing sports industry, fitness awareness and opportunities beyond professional playing.",
+      "eligibility": "Class 12 in any stream; fitness, sports science, coaching or physical education qualifications help.",
+      "educationPath": "Class 12 -> Sports training/degree/certification -> Competition/internship -> Sports or fitness role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Sports academies, schools, fitness centers, clubs, teams, leagues, media organizations and wellness companies.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-15 LPA",
+        "seniorLevel": "Rs 15-50+ LPA"
+      },
+      "futureScope": "Strong due to sports leagues, fitness culture, sports science and performance analytics.",
+      "aiImpact": "AI will support performance tracking and analytics, while coaching judgement and physical skill remain human-centered.",
+      "skills": [
+        "Discipline",
+        "Fitness",
+        "Coaching",
+        "Teamwork",
+        "Performance Analysis",
+        "Communication"
+      ],
+      "entranceExams": [
+        "University Entrance Tests",
+        "Physical Education Tests",
+        "Sports Trials",
+        "CUET"
+      ],
+      "topColleges": [
+        "Lakshmibai National Institute of Physical Education",
+        "NSNIS Patiala",
+        "Delhi University",
+        "Amity University",
+        "SRM University"
+      ],
+      "careerOpportunities": [
+        "Athlete",
+        "Coach",
+        "Trainer",
+        "Sports Analyst",
+        "Sports Manager"
+      ],
+      "recruiters": [
+        "Sports Academies",
+        "Schools",
+        "Fitness Brands",
+        "Sports Clubs",
+        "Media Platforms"
+      ],
+      "pros": [
+        "Active career",
+        "Growing industry",
+        "Multiple roles",
+        "Performance-based growth"
+      ],
+      "cons": [
+        "Physical demands",
+        "Injury risk",
+        "Competitive field"
+      ],
+      "relatedCareers": [
+        "Professional Athlete",
+        "Sports Coach",
+        "Fitness Trainer"
+      ]
+    }
+  ]
+}

@@ -1,82 +1,65 @@
 {
   "domain": "Architecture & Planning",
-
   "careers": [
-
     {
       "id": "architect",
       "name": "Architect"
     },
-
     {
       "id": "interior-architect",
       "name": "Interior Architect"
     },
-
     {
       "id": "urban-planner",
       "name": "Urban Planner"
     },
-
     {
       "id": "landscape-architect",
       "name": "Landscape Architect"
     },
-
     {
       "id": "sustainable-design-consultant",
       "name": "Sustainable Design Consultant"
     },
-
     {
       "id": "conservation-architect",
       "name": "Conservation Architect"
     },
-
     {
       "id": "urban-designer",
       "name": "Urban Designer"
     },
-
     {
       "id": "regional-planner",
       "name": "Regional Planner"
     },
-
     {
       "id": "transportation-planner",
       "name": "Transportation Planner"
     },
-
     {
       "id": "housing-planner",
       "name": "Housing Planner"
     },
-
     {
       "id": "industrial-planner",
       "name": "Industrial Planner"
     },
-
     {
       "id": "architectural-technologist",
       "name": "Architectural Technologist"
     },
-
     {
       "id": "building-information-modeling-specialist",
       "name": "Building Information Modeling (BIM) Specialist"
     },
-
     {
       "id": "construction-planner",
       "name": "Construction Planner"
     },
-
     {
       "id": "smart-city-planner",
       "name": "Smart City Planner"
     }
-
   ]
 }

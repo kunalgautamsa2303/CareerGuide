@@ -1,0 +1,1086 @@
+{
+  "domain": "AI & Data Science",
+  "description": "Artificial Intelligence, Machine Learning and Data careers.",
+  "careers": [
+    {
+      "id": "data-scientist",
+      "name": "Data Scientist",
+      "overview": "Data Scientist is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Data Scientist offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer",
+        "Data Analyst"
+      ]
+    },
+    {
+      "id": "artificial-intelligence-engineer",
+      "name": "Artificial Intelligence Engineer",
+      "overview": "Artificial Intelligence Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Artificial Intelligence Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "Data Analyst"
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "name": "Machine Learning Engineer",
+      "overview": "Machine Learning Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Machine Learning Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Data Analyst"
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "name": "Data Analyst",
+      "overview": "Data Analyst is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Data Analyst offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "business-intelligence-analyst",
+      "name": "Business Intelligence Analyst",
+      "overview": "Business Intelligence Analyst is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Business Intelligence Analyst offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "data-engineer",
+      "name": "Data Engineer",
+      "overview": "Data Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Data Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer",
+      "name": "NLP Engineer",
+      "overview": "NLP Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "NLP Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "computer-vision-engineer",
+      "name": "Computer Vision Engineer",
+      "overview": "Computer Vision Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Computer Vision Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ai-product-manager",
+      "name": "AI Product Manager",
+      "overview": "AI Product Manager is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "AI Product Manager offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "robotics-ai-engineer",
+      "name": "Robotics AI Engineer",
+      "overview": "Robotics AI Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Robotics AI Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "deep-learning-engineer",
+      "name": "Deep Learning Engineer",
+      "overview": "Deep Learning Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Deep Learning Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "mlops-engineer",
+      "name": "MLOps Engineer",
+      "overview": "MLOps Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "MLOps Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ai-research-scientist",
+      "name": "AI Research Scientist",
+      "overview": "AI Research Scientist is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "AI Research Scientist offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "big-data-engineer",
+      "name": "Big Data Engineer",
+      "overview": "Big Data Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Big Data Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "prompt-engineer",
+      "name": "Prompt Engineer",
+      "overview": "Prompt Engineer is a data and artificial intelligence career focused on using data, algorithms and models to solve real-world problems.",
+      "whyChoose": "Prompt Engineer offers high-growth field, strong salaries, future-ready skills and opportunities across nearly every industry.",
+      "eligibility": "Class 12 with Mathematics is preferred; engineering, statistics, computer science or analytics degrees are common.",
+      "educationPath": "Class 12 with Mathematics -> Degree in CS/Data/Stats/Engineering -> Projects -> Internship -> AI/Data role.",
+      "feeRange": "Rs 2-25 Lakhs",
+      "workEnvironment": "Technology companies, analytics teams, research labs, startups, product companies and consulting firms.",
+      "salary": {
+        "fresher": "Rs 5-12 LPA",
+        "midLevel": "Rs 12-30 LPA",
+        "seniorLevel": "Rs 30-90+ LPA"
+      },
+      "futureScope": "Excellent due to AI adoption, automation, data-driven decisions and intelligent products.",
+      "aiImpact": "AI is the core of this field; professionals who understand data, models and deployment will remain in strong demand.",
+      "skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization",
+        "SQL",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "JEE Main",
+        "CUET",
+        "BITSAT",
+        "University Entrance Tests",
+        "GATE for PG"
+      ],
+      "topColleges": [
+        "IIT Madras",
+        "IIT Delhi",
+        "IIIT Hyderabad",
+        "BITS Pilani",
+        "IISc Bengaluru",
+        "VIT Vellore"
+      ],
+      "careerOpportunities": [
+        "Data Scientist",
+        "AI Engineer",
+        "ML Engineer",
+        "Data Analyst",
+        "Research Associate"
+      ],
+      "recruiters": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "TCS",
+        "Infosys",
+        "Fractal",
+        "Accenture"
+      ],
+      "pros": [
+        "High demand",
+        "Strong salaries",
+        "Future-ready skills",
+        "Global opportunities"
+      ],
+      "cons": [
+        "Fast-changing tools",
+        "Math and coding depth required",
+        "Portfolio pressure"
+      ],
+      "relatedCareers": [
+        "Data Scientist",
+        "Artificial Intelligence Engineer",
+        "Machine Learning Engineer"
+      ]
+    }
+  ]
+}

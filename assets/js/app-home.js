@@ -27,6 +27,12 @@ const globalSearch = document.getElementById("globalSearch");
 
 const heroSearch = document.getElementById("heroSearch");
 
+const heroSearchBtn = document.getElementById("heroSearchBtn");
+
+const mobileSearch = document.getElementById("mobileSearch");
+
+let homeSearchIndex = [];
+
 /* ==========================================================
    PAGE LOADER
 ========================================================== */
@@ -115,8 +121,13 @@ function performSearch(keyword) {
 
     if (!query) return;
 
+    const institutionMatch = findInstitutionSearchMatch(query);
+    const target = institutionMatch
+        ? "universities/index.html"
+        : "careers/index.html";
+
     window.location.href =
-        `careers/index.html?search=${encodeURIComponent(query)}`;
+        `${target}?search=${encodeURIComponent(query)}`;
 
 }
 
@@ -134,6 +145,244 @@ if (heroSearch) {
 
 }
 
+async function initializeHomeSearchSuggestions() {
+
+    homeSearchIndex = await loadHomeSearchIndex();
+
+    [globalSearch, heroSearch, mobileSearch].forEach(input => {
+
+        if (!input) return;
+
+        const results = createSearchResults(input);
+
+        input.addEventListener("input", () => {
+
+            renderSearchSuggestions(input, results);
+
+        });
+
+        input.addEventListener("focus", () => {
+
+            renderSearchSuggestions(input, results);
+
+        });
+
+    });
+
+    document.addEventListener("click", (event) => {
+
+        if (!event.target.closest(".search-wrapper")) {
+
+            document
+                .querySelectorAll(".live-search-results")
+                .forEach(results => results.classList.remove("active"));
+
+        }
+
+    });
+
+}
+
+async function loadHomeSearchIndex() {
+
+    try {
+
+        const response = await fetch("data/careers.json");
+        const data = await response.json();
+        const domains = data.domains || [];
+        const groups = await Promise.all(domains.map(async domain => {
+
+            const listResponse = await fetch(`data/${domain.file}`);
+
+            if (!listResponse.ok) return [];
+
+            const text = await listResponse.text();
+
+            if (!text.trim()) return [];
+
+            const listData = JSON.parse(text);
+
+            return (listData.careers || []).map(career => ({
+
+                id: career.id,
+                name: career.name,
+                domainId: domain.id,
+                domainName: domain.name,
+                href: `careers/details.html?domain=${domain.id}&career=${career.id}`
+
+            }));
+
+        }));
+
+        const careerItems = groups.flat().map(item => ({
+
+            ...item,
+            kind: "Career",
+            searchableText: `${item.name} ${item.domainName}`
+
+        }));
+
+        let universityItems = [];
+
+        try {
+
+            const universityResponse = await fetch("data/universities.json");
+
+            if (universityResponse.ok) {
+
+                const universityData = await universityResponse.json();
+                universityItems = (universityData.universities || []).map(university => ({
+
+                    id: university.id,
+                    name: university.name,
+                    domainName: `${university.city}, ${university.state}`,
+                    kind: university.type && university.type.includes("College") ? "College" : "University",
+                    href: `universities/details.html?id=${encodeURIComponent(university.id)}`,
+                    searchableText: [
+                        university.name,
+                        university.type,
+                        university.city,
+                        university.state,
+                        ...(university.streams || []),
+                        ...(university.entranceExams || [])
+                    ].join(" ")
+
+                }));
+
+            }
+
+        } catch (universityError) {
+
+            console.error(universityError);
+
+        }
+
+        return [...careerItems, ...universityItems];
+
+    }
+
+    catch (error) {
+
+        console.error(error);
+
+        return [];
+
+    }
+
+}
+
+function createSearchResults(input) {
+
+    const wrapper = document.createElement("div");
+    const results = document.createElement("div");
+
+    wrapper.className = "search-wrapper";
+    results.className = "live-search-results";
+
+    input.parentNode.insertBefore(wrapper, input);
+    wrapper.appendChild(input);
+    wrapper.appendChild(results);
+
+    return results;
+
+}
+
+function renderSearchSuggestions(input, results) {
+
+    const query = input.value.trim().toLowerCase();
+
+    if (query.length < 1) {
+
+        results.classList.remove("active");
+        results.innerHTML = "";
+        return;
+
+    }
+
+    const matches = homeSearchIndex
+        .filter(career => {
+
+            const name = career.name.toLowerCase();
+            const domain = career.domainName.toLowerCase();
+            const searchText = (career.searchableText || "").toLowerCase();
+
+            return name.startsWith(query) ||
+                name.includes(query) ||
+                domain.includes(query) ||
+                searchText.includes(query);
+
+        })
+        .slice(0, 8);
+
+    if (matches.length === 0) {
+
+        results.innerHTML = `
+            <button type="button" class="live-search-empty">
+                No matching results found
+            </button>
+        `;
+        results.classList.add("active");
+        return;
+
+    }
+
+    results.innerHTML = matches.map(career => `
+        <a href="${career.href}" class="live-search-item">
+            <span>${career.name}</span>
+            <small>${career.kind || "Career"} - ${career.domainName}</small>
+        </a>
+    `).join("");
+
+    results.classList.add("active");
+
+}
+
+function findInstitutionSearchMatch(query) {
+
+    const normalizedQuery = query.trim().toLowerCase();
+
+    if (!normalizedQuery || !homeSearchIndex.length) return null;
+
+    const institutionWords = [
+        "university",
+        "college",
+        "iit",
+        "iim",
+        "nit",
+        "iiit",
+        "aiims",
+        "nift",
+        "nid",
+        "nlu",
+        "iisc",
+        "bits"
+    ];
+
+    return homeSearchIndex.find(item => {
+
+        if (!["University", "College"].includes(item.kind)) return false;
+
+        const name = item.name.toLowerCase();
+        const looksLikeInstitution = institutionWords.some(word => normalizedQuery.includes(word));
+
+        return name === normalizedQuery ||
+            name.startsWith(normalizedQuery) ||
+            (looksLikeInstitution && name.includes(normalizedQuery));
+
+    });
+
+}
+
+if (heroSearchBtn && heroSearch) {
+
+    heroSearchBtn.addEventListener("click", () => {
+
+        performSearch(heroSearch.value);
+
+    });
+
+}
+
 if (globalSearch) {
 
     globalSearch.addEventListener("keydown", (event) => {
@@ -141,6 +390,20 @@ if (globalSearch) {
         if (event.key === "Enter") {
 
             performSearch(globalSearch.value);
+
+        }
+
+    });
+
+}
+
+if (mobileSearch) {
+
+    mobileSearch.addEventListener("keydown", (event) => {
+
+        if (event.key === "Enter") {
+
+            performSearch(mobileSearch.value);
 
         }
 
@@ -227,6 +490,8 @@ document.addEventListener("DOMContentLoaded", () => {
     animateCounter("schoolCount", 100);
 
     animateCounter("expertCount", 1000);
+
+    initializeHomeSearchSuggestions();
 
 });
 /* ==========================================================

@@ -422,6 +422,7 @@ section{
 
 .career-search{
 
+    position:relative;
     display:flex;
     align-items:center;
     gap:16px;
@@ -469,6 +470,68 @@ section{
 
     background:var(--secondary);
 
+}
+
+.search-wrapper{
+    position:relative;
+    flex:1;
+    min-width:0;
+}
+
+.header-search .search-wrapper{
+    width:100%;
+}
+
+.search-wrapper input{
+    width:100%;
+}
+
+.live-search-results{
+    position:absolute;
+    top:calc(100% + 10px);
+    left:0;
+    right:0;
+    z-index:2000;
+    display:none;
+    max-height:340px;
+    overflow:auto;
+    padding:8px;
+    border:1px solid var(--border);
+    border-radius:16px;
+    background:#FFFFFF;
+    box-shadow:var(--shadow-lg);
+}
+
+.live-search-results.active{
+    display:block;
+}
+
+.live-search-item,
+.live-search-empty{
+    display:block;
+    width:100%;
+    padding:11px 12px;
+    border:none;
+    border-radius:12px;
+    background:transparent;
+    text-align:left;
+}
+
+.live-search-item:hover{
+    background:#EFF6FF;
+}
+
+.live-search-item span{
+    display:block;
+    color:var(--text);
+    font-size:13px;
+    font-weight:700;
+}
+
+.live-search-item small,
+.live-search-empty{
+    color:var(--text-light);
+    font-size:12px;
 }
 
 
@@ -861,6 +924,8 @@ section{
 
     overflow:hidden;
 
+    min-height:360px;
+
 }
 
 .career-card:hover{
@@ -907,6 +972,16 @@ section{
 
     line-height:1.35;
 
+    min-height:60px;
+
+    display:-webkit-box;
+
+    -webkit-line-clamp:2;
+
+    -webkit-box-orient:vertical;
+
+    overflow:hidden;
+
 }
 
 .career-card p{
@@ -919,7 +994,15 @@ section{
 
     margin-bottom:22px;
 
-    flex:1;
+    min-height:76px;
+
+    display:-webkit-box;
+
+    -webkit-line-clamp:3;
+
+    -webkit-box-orient:vertical;
+
+    overflow:hidden;
 
 }
 
@@ -931,7 +1014,9 @@ section{
 
     gap:10px;
 
-    margin-bottom:24px;
+    min-height:74px;
+
+    margin-bottom:22px;
 
 }
 
@@ -946,6 +1031,16 @@ section{
     font-size:14px;
 
     color:var(--text);
+
+    line-height:1.45;
+
+    display:-webkit-box;
+
+    -webkit-line-clamp:2;
+
+    -webkit-box-orient:vertical;
+
+    overflow:hidden;
 
 }
 
@@ -970,6 +1065,8 @@ section{
     color:var(--primary);
 
     transition:.3s;
+
+    margin-top:auto;
 
 }
 
@@ -1092,6 +1189,8 @@ section{
 
     box-shadow:var(--shadow-xs);
 
+    cursor:pointer;
+
 }
 
 .guide-card:hover{
@@ -1212,6 +1311,8 @@ section{
 
     box-shadow:var(--shadow-xs);
 
+    cursor:pointer;
+
 }
 
 .exam-card:hover{
@@ -1238,6 +1339,42 @@ section{
 
     color:var(--text-secondary);
 
+}
+
+.exam-card a{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    margin-top:18px;
+
+    color:var(--primary);
+
+    font-size:13px;
+
+    font-weight:700;
+
+}
+
+.exam-card:hover a{
+
+    gap:12px;
+
+}
+
+.exam-card-actions{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px 16px;
+    align-items:center;
+    margin-top:18px;
+}
+
+.exam-card-actions a{
+    margin-top:0;
 }
 
 
@@ -1750,6 +1887,18 @@ section{
 
     }
 
+    .career-search .search-wrapper{
+
+        position:static;
+
+    }
+
+    .career-search .live-search-results{
+
+        top:calc(100% + 10px);
+
+    }
+
     .career-search button{
 
         width:100%;
@@ -1789,6 +1938,90 @@ section{
     .assessment-card{
 
         padding:32px 20px;
+
+    }
+
+}
+
+/* ==========================================================
+   MOBILE HEADER FIX
+========================================================== */
+
+@media(max-width:991px){
+
+    html,
+    body{
+
+        max-width:100%;
+
+        overflow-x:hidden;
+
+    }
+
+    .nav-container{
+
+        height:auto;
+
+        min-height:68px;
+
+        align-items:center;
+
+    }
+
+    .desktop-nav,
+    .header-search{
+
+        display:none;
+
+    }
+
+    .logo{
+
+        min-width:0;
+
+    }
+
+    .logo-info h2{
+
+        font-size:18px;
+
+    }
+
+    .logo-info span{
+
+        max-width:210px;
+
+        overflow:hidden;
+
+        text-overflow:ellipsis;
+
+        white-space:nowrap;
+
+    }
+
+}
+
+@media(max-width:576px){
+
+    .logo-mark{
+
+        width:38px;
+
+        height:38px;
+
+    }
+
+    .logo-info h2{
+
+        font-size:16px;
+
+    }
+
+    .logo-info span{
+
+        max-width:170px;
+
+        font-size:10px;
 
     }
 

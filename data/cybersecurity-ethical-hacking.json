@@ -1,0 +1,65 @@
+{
+  "domain": "Cybersecurity & Ethical Hacking",
+  "careers": [
+    {
+      "id": "cybersecurity-analyst",
+      "name": "Cybersecurity Analyst"
+    },
+    {
+      "id": "ethical-hacker",
+      "name": "Ethical Hacker"
+    },
+    {
+      "id": "security-architect",
+      "name": "Security Architect"
+    },
+    {
+      "id": "security-operations-center-analyst",
+      "name": "Security Operations Center Analyst"
+    },
+    {
+      "id": "digital-forensics-investigator",
+      "name": "Digital Forensics Investigator"
+    },
+    {
+      "id": "cloud-security-engineer",
+      "name": "Cloud Security Engineer"
+    },
+    {
+      "id": "application-security-engineer",
+      "name": "Application Security Engineer"
+    },
+    {
+      "id": "network-security-engineer",
+      "name": "Network Security Engineer"
+    },
+    {
+      "id": "malware-analyst",
+      "name": "Malware Analyst"
+    },
+    {
+      "id": "cyber-law-consultant",
+      "name": "Cyber Law Consultant"
+    },
+    {
+      "id": "incident-response-analyst",
+      "name": "Incident Response Analyst"
+    },
+    {
+      "id": "penetration-tester",
+      "name": "Penetration Tester"
+    },
+    {
+      "id": "information-security-auditor",
+      "name": "Information Security Auditor"
+    },
+    {
+      "id": "governance-risk-compliance-analyst",
+      "name": "Governance Risk Compliance Analyst"
+    },
+    {
+      "id": "cybersecurity-trainer",
+      "name": "Cybersecurity Trainer"
+    }
+  ]
+}

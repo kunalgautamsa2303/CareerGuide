@@ -1,0 +1,1008 @@
+{
+  "domain": "Performing Arts",
+  "description": "Music, theatre, dance, performance, production and creative stage careers.",
+  "careers": [
+    {
+      "id": "actor",
+      "name": "Actor",
+      "overview": "Actor creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Actor is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Dancer",
+        "Choreographer",
+        "Musician"
+      ]
+    },
+    {
+      "id": "theatre-artist",
+      "name": "Theatre Artist",
+      "overview": "Theatre Artist creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Theatre Artist is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Choreographer",
+        "Musician",
+        "Singer"
+      ]
+    },
+    {
+      "id": "dancer",
+      "name": "Dancer",
+      "overview": "Dancer creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Dancer is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Musician",
+        "Singer",
+        "Music Producer"
+      ]
+    },
+    {
+      "id": "choreographer",
+      "name": "Choreographer",
+      "overview": "Choreographer creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Choreographer is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Singer",
+        "Music Producer",
+        "Sound Designer"
+      ]
+    },
+    {
+      "id": "musician",
+      "name": "Musician",
+      "overview": "Musician creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Musician is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Music Producer",
+        "Sound Designer",
+        "Theatre Director"
+      ]
+    },
+    {
+      "id": "singer",
+      "name": "Singer",
+      "overview": "Singer creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Singer is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sound Designer",
+        "Theatre Director",
+        "Performing Arts Teacher"
+      ]
+    },
+    {
+      "id": "music-producer",
+      "name": "Music Producer",
+      "overview": "Music Producer creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Music Producer is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Theatre Director",
+        "Performing Arts Teacher",
+        "Voice Artist"
+      ]
+    },
+    {
+      "id": "sound-designer",
+      "name": "Sound Designer",
+      "overview": "Sound Designer creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Sound Designer is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Performing Arts Teacher",
+        "Voice Artist",
+        "Stage Manager"
+      ]
+    },
+    {
+      "id": "theatre-director",
+      "name": "Theatre Director",
+      "overview": "Theatre Director creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Theatre Director is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Voice Artist",
+        "Stage Manager",
+        "Classical Artist"
+      ]
+    },
+    {
+      "id": "performing-arts-teacher",
+      "name": "Performing Arts Teacher",
+      "overview": "Performing Arts Teacher creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Performing Arts Teacher is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Stage Manager",
+        "Classical Artist",
+        "Instrumentalist"
+      ]
+    },
+    {
+      "id": "voice-artist",
+      "name": "Voice Artist",
+      "overview": "Voice Artist creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Voice Artist is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Classical Artist",
+        "Instrumentalist",
+        "Arts Manager"
+      ]
+    },
+    {
+      "id": "stage-manager",
+      "name": "Stage Manager",
+      "overview": "Stage Manager creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Stage Manager is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Instrumentalist",
+        "Arts Manager"
+      ]
+    },
+    {
+      "id": "classical-artist",
+      "name": "Classical Artist",
+      "overview": "Classical Artist creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Classical Artist is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Arts Manager"
+      ]
+    },
+    {
+      "id": "instrumentalist",
+      "name": "Instrumentalist",
+      "overview": "Instrumentalist creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Instrumentalist is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Actor",
+        "Theatre Artist",
+        "Dancer"
+      ]
+    },
+    {
+      "id": "arts-manager",
+      "name": "Arts Manager",
+      "overview": "Arts Manager creates live, recorded or staged artistic experiences through performance, music, theatre, movement and production.",
+      "whyChoose": "Arts Manager is useful because it suits creative students who want expression, performance, audience connection and portfolio-led growth.",
+      "eligibility": "Class 12 in any stream; auditions, portfolios or performance training may be required.",
+      "educationPath": "Class 12 -> Performing arts degree/diploma/training -> Portfolio/auditions -> Stage, studio or teaching role.",
+      "feeRange": "Rs 50,000-12 Lakhs",
+      "workEnvironment": "Theatres, studios, music labels, production houses, cultural organizations, schools and freelance projects.",
+      "salary": {
+        "fresher": "Rs 2-6 LPA",
+        "midLevel": "Rs 6-18 LPA",
+        "seniorLevel": "Rs 18-60+ LPA"
+      },
+      "futureScope": "Strong for digital performance, entertainment, cultural education, events and creator-led careers.",
+      "aiImpact": "AI will support editing and production while performance, originality and stage presence remain human strengths.",
+      "skills": [
+        "Practice Discipline",
+        "Creativity",
+        "Stage Presence",
+        "Collaboration",
+        "Voice/Movement",
+        "Portfolio Building"
+      ],
+      "entranceExams": [
+        "Auditions",
+        "University Entrance Tests",
+        "CUET",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "National School of Drama",
+        "FTII Pune",
+        "Delhi University",
+        "Rabindra Bharati University",
+        "Banaras Hindu University"
+      ],
+      "careerOpportunities": [
+        "Performance",
+        "Teaching",
+        "Production",
+        "Direction",
+        "Arts Management"
+      ],
+      "recruiters": [
+        "Production Houses",
+        "Theatre Groups",
+        "Music Labels",
+        "Schools",
+        "Event Companies"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Actor",
+        "Theatre Artist",
+        "Dancer"
+      ]
+    }
+  ]
+}

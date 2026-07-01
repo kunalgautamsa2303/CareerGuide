@@ -1,136 +1,149 @@
-{  "domain": "Engineering & Technology",
-
+{
+  "domain": "Engineering & Technology",
   "careers": [
-
     {
       "id": "computer-science-engineer",
       "name": "Computer Science Engineer"
     },
-
     {
       "id": "information-technology-engineer",
       "name": "Information Technology Engineer"
     },
-
     {
       "id": "artificial-intelligence-engineer",
       "name": "Artificial Intelligence Engineer"
     },
-
     {
       "id": "data-science-engineer",
       "name": "Data Science Engineer"
     },
-
     {
       "id": "machine-learning-engineer",
       "name": "Machine Learning Engineer"
     },
-
     {
       "id": "software-engineer",
       "name": "Software Engineer"
     },
-
     {
       "id": "mechanical-engineer",
       "name": "Mechanical Engineer"
     },
-
     {
       "id": "civil-engineer",
       "name": "Civil Engineer"
     },
-
     {
       "id": "electrical-engineer",
       "name": "Electrical Engineer"
     },
-
     {
       "id": "electronics-engineer",
       "name": "Electronics Engineer"
     },
-
     {
       "id": "electronics-communication-engineer",
       "name": "Electronics & Communication Engineer"
     },
-
     {
       "id": "robotics-engineer",
       "name": "Robotics Engineer"
     },
-
     {
       "id": "mechatronics-engineer",
       "name": "Mechatronics Engineer"
     },
-
     {
       "id": "automobile-engineer",
       "name": "Automobile Engineer"
     },
-
     {
       "id": "aerospace-engineer",
       "name": "Aerospace Engineer"
     },
-
     {
       "id": "aeronautical-engineer",
       "name": "Aeronautical Engineer"
     },
-
     {
       "id": "chemical-engineer",
       "name": "Chemical Engineer"
     },
-
     {
       "id": "biotechnology-engineer",
       "name": "Biotechnology Engineer"
     },
-
     {
       "id": "environmental-engineer",
       "name": "Environmental Engineer"
     },
-
     {
       "id": "industrial-engineer",
       "name": "Industrial Engineer"
     },
-
     {
       "id": "marine-engineer",
       "name": "Marine Engineer"
     },
-
     {
       "id": "petroleum-engineer",
       "name": "Petroleum Engineer"
     },
-
     {
       "id": "mining-engineer",
       "name": "Mining Engineer"
     },
-
     {
       "id": "metallurgical-engineer",
       "name": "Metallurgical Engineer"
     },
-
     {
       "id": "production-engineer",
       "name": "Production Engineer"
     },
-
     {
       "id": "agricultural-engineer",
       "name": "Agricultural Engineer"
+    },
+    {
+      "id": "biomedical-engineer",
+      "name": "Biomedical Engineer"
+    },
+    {
+      "id": "telecommunication-engineer",
+      "name": "Telecommunication Engineer"
+    },
+    {
+      "id": "structural-engineer",
+      "name": "Structural Engineer"
+    },
+    {
+      "id": "geotechnical-engineer",
+      "name": "Geotechnical Engineer"
+    },
+    {
+      "id": "energy-engineer",
+      "name": "Energy Engineer"
+    },
+    {
+      "id": "nuclear-engineer",
+      "name": "Nuclear Engineer"
+    },
+    {
+      "id": "textile-engineer",
+      "name": "Textile Engineer"
+    },
+    {
+      "id": "food-technology-engineer",
+      "name": "Food Technology Engineer"
+    },
+    {
+      "id": "ceramic-engineer",
+      "name": "Ceramic Engineer"
+    },
+    {
+      "id": "instrumentation-engineer",
+      "name": "Instrumentation Engineer"
     }
-
   ]
 }

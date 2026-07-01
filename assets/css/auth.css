@@ -1,0 +1,35 @@
+@import url("./variables.css");
+@import url("./base.css");
+@import url("./components.css");
+
+body{
+    min-height:100vh;
+    background:#F6F9FF;
+}
+
+.auth-wrapper,
+.auth-container,
+.login-wrapper,
+.register-wrapper,
+.role-wrapper,
+.welcome-wrapper{
+    width:min(980px,92%);
+    margin:0 auto;
+}
+
+.auth-card,
+.login-card,
+.register-card,
+.role-card,
+.welcome-card{
+    border:1px solid var(--border);
+    border-radius:22px;
+    background:#FFFFFF;
+    box-shadow:var(--shadow-md);
+}
+
+input,
+select,
+textarea{
+    border:1px solid var(--border);
+}

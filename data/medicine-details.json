@@ -4,7 +4,7 @@
   "careers": [
     {
       "id": "doctor",
-      "name": "Doctor",
+      "name": "Doctor (MBBS)",
       "overview": "Doctor is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
       "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
@@ -353,76 +353,6 @@
       ]
     },
     {
-      "id": "nutritionist",
-      "name": "Nutritionist",
-      "overview": "Nutritionist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
-      "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
-      },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
-      "skills": [
-        "Patient Care",
-        "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
-        "Empathy",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
-      ],
-      "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
-      ],
-      "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
-      ],
-      "recruiters": [
-        "AIIMS",
-        "Apollo Hospitals",
-        "Fortis",
-        "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
-      ],
-      "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
-      ],
-      "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
-      ]
-    },
-    {
       "id": "occupational-therapist",
       "name": "Occupational Therapist",
       "overview": "Occupational Therapist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
@@ -493,429 +423,129 @@
       ]
     },
     {
-      "id": "radiologist",
-      "name": "Radiologist",
-      "overview": "Radiologist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
+      "id": "audiologist",
+      "name": "Audiologist",
+      "overview": "Audiologists are healthcare professionals who diagnose, assess and treat hearing, balance and auditory disorders in patients of all age groups.",
+      "whyChoose": "A rewarding healthcare career with growing demand due to increasing awareness of hearing health and aging populations.",
+      "eligibility": "10+2 with PCB. Bachelor's degree in Audiology and Speech-Language Pathology (BASLP) or related program.",
+      "educationPath": "Class 12 PCB → BASLP → Internship → Clinical Practice or Higher Studies.",
+      "feeRange": "₹2–12 Lakhs",
+      "workEnvironment": "Hospitals, hearing clinics, rehabilitation centers, schools and private practice.",
       "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–12 LPA",
+        "seniorLevel": "₹12–25 LPA"
       },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
+      "futureScope": "Strong demand due to increasing hearing-related disorders and elderly care requirements.",
+      "aiImpact": "AI-assisted hearing diagnostics and smart hearing aids will support audiologists.",
       "skills": [
-        "Patient Care",
         "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
+        "Patient Assessment",
+        "Hearing Evaluation",
         "Empathy",
-        "Decision Making"
+        "Critical Thinking",
+        "Problem Solving"
       ],
       "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
+        "CUET",
+        "University Entrance Exams"
       ],
       "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
+        "AIISH Mysuru",
+        "Manipal University",
+        "Jamia Hamdard",
+        "CMC Vellore"
       ],
       "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
+        "Clinical Audiologist",
+        "Hearing Specialist",
+        "Rehabilitation Expert",
+        "Researcher"
       ],
       "recruiters": [
-        "AIIMS",
         "Apollo Hospitals",
         "Fortis",
         "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
+        "Hearing Solutions India"
       ],
       "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
+        "Growing demand",
+        "Meaningful patient impact",
+        "Specialized profession"
       ],
       "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
+        "Requires patience",
+        "Limited awareness among students"
       ],
       "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
+        "Speech Therapist",
+        "Occupational Therapist",
+        "Physiotherapist"
       ]
     },
     {
-      "id": "surgeon",
-      "name": "Surgeon",
-      "overview": "Surgeon is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
+      "id": "speech-therapist",
+      "name": "Speech Therapist",
+      "overview": "Speech Therapists diagnose and treat communication, speech, language and swallowing disorders.",
+      "whyChoose": "Provides the opportunity to significantly improve patients' quality of life.",
+      "eligibility": "10+2 PCB. BASLP or Speech-Language Pathology degree.",
+      "educationPath": "Class 12 PCB → BASLP → Clinical Training → Practice.",
+      "feeRange": "₹2–12 Lakhs",
+      "workEnvironment": "Hospitals, rehabilitation centers, schools and private clinics.",
       "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–12 LPA",
+        "seniorLevel": "₹12–22 LPA"
       },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
+      "futureScope": "Growing demand in healthcare and special education sectors.",
+      "aiImpact": "AI speech analysis tools will support diagnosis and therapy planning.",
       "skills": [
-        "Patient Care",
         "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
+        "Patience",
+        "Observation",
         "Empathy",
-        "Decision Making"
+        "Assessment Skills",
+        "Problem Solving"
       ],
       "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
+        "CUET",
+        "University Entrance Exams"
       ],
       "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
+        "AIISH Mysuru",
+        "Manipal University",
+        "Jamia Hamdard"
       ],
       "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
+        "Speech Therapist",
+        "Language Specialist",
+        "Clinical Practitioner"
       ],
       "recruiters": [
-        "AIIMS",
         "Apollo Hospitals",
         "Fortis",
         "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
+        "Special Schools"
       ],
       "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
+        "High patient impact",
+        "Growing field",
+        "Flexible career options"
       ],
       "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
+        "Emotionally demanding",
+        "Requires continuous learning"
       ],
       "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
+        "Audiologist",
+        "Occupational Therapist",
+        "Clinical Psychologist"
       ]
     },
     {
-      "id": "pediatrician",
-      "name": "Pediatrician",
-      "overview": "Pediatrician is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
-      "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
-      },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
-      "skills": [
-        "Patient Care",
-        "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
-        "Empathy",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
-      ],
-      "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
-      ],
-      "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
-      ],
-      "recruiters": [
-        "AIIMS",
-        "Apollo Hospitals",
-        "Fortis",
-        "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
-      ],
-      "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
-      ],
-      "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
-      ]
-    },
-    {
-      "id": "cardiologist",
-      "name": "Cardiologist",
-      "overview": "Cardiologist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
-      "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
-      },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
-      "skills": [
-        "Patient Care",
-        "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
-        "Empathy",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
-      ],
-      "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
-      ],
-      "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
-      ],
-      "recruiters": [
-        "AIIMS",
-        "Apollo Hospitals",
-        "Fortis",
-        "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
-      ],
-      "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
-      ],
-      "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
-      ]
-    },
-    {
-      "id": "dermatologist",
-      "name": "Dermatologist",
-      "overview": "Dermatologist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
-      "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
-      },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
-      "skills": [
-        "Patient Care",
-        "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
-        "Empathy",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
-      ],
-      "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
-      ],
-      "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
-      ],
-      "recruiters": [
-        "AIIMS",
-        "Apollo Hospitals",
-        "Fortis",
-        "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
-      ],
-      "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
-      ],
-      "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
-      ]
-    },
-    {
-      "id": "psychiatrist",
-      "name": "Psychiatrist",
-      "overview": "Psychiatrist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
-      "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
-      "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
-      "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
-      "feeRange": "₹2 Lakhs – ₹1 Crore+",
-      "workEnvironment": "Hospitals, clinics, research centers, healthcare organizations and public health institutions.",
-      "salary": {
-        "fresher": "₹4–12 LPA",
-        "midLevel": "₹12–30 LPA",
-        "seniorLevel": "₹30 LPA–₹1 Cr+"
-      },
-      "futureScope": "Strong global demand driven by aging populations, healthcare expansion and medical innovation.",
-      "aiImpact": "AI will support diagnosis and healthcare analytics but human expertise remains essential.",
-      "skills": [
-        "Patient Care",
-        "Communication",
-        "Critical Thinking",
-        "Medical Knowledge",
-        "Empathy",
-        "Decision Making"
-      ],
-      "entranceExams": [
-        "NEET UG",
-        "NEET PG",
-        "INI CET",
-        "AIIMS Exams"
-      ],
-      "topColleges": [
-        "AIIMS Delhi",
-        "CMC Vellore",
-        "JIPMER",
-        "KGMU",
-        "Maulana Azad Medical College",
-        "AFMC Pune"
-      ],
-      "careerOpportunities": [
-        "Clinical Practice",
-        "Research",
-        "Teaching",
-        "Hospital Administration",
-        "Public Health"
-      ],
-      "recruiters": [
-        "AIIMS",
-        "Apollo Hospitals",
-        "Fortis",
-        "Max Healthcare",
-        "Manipal Hospitals",
-        "Medanta"
-      ],
-      "pros": [
-        "High respect",
-        "Job security",
-        "Meaningful impact",
-        "Global opportunities"
-      ],
-      "cons": [
-        "Long education period",
-        "High workload",
-        "Stressful environment"
-      ],
-      "relatedCareers": [
-        "Healthcare Administrator",
-        "Medical Researcher",
-        "Public Health Specialist"
-      ]
-    },
-    {
-      "id": "medical-researcher",
-      "name": "Medical Researcher",
-      "overview": "Medical Researcher is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
+      "id": "nutritionist",
+      "name": "Nutritionist",
+      "overview": "Nutritionist is a healthcare profession dedicated to improving patient health, diagnosis, treatment, prevention and medical care.",
       "whyChoose": "Respected profession, strong societal impact, career stability and long-term growth opportunities.",
       "eligibility": "10+2 with Physics, Chemistry and Biology from a recognized board.",
       "educationPath": "Class 12 PCB → NEET → Medical Degree/Specialized Program → Internship → Practice or Higher Studies.",
@@ -1053,358 +683,966 @@
       ]
     },
     {
-  "id": "audiologist",
-  "name": "Audiologist",
-  "overview": "Audiologists are healthcare professionals who diagnose, assess and treat hearing, balance and auditory disorders in patients of all age groups.",
-  "whyChoose": "A rewarding healthcare career with growing demand due to increasing awareness of hearing health and aging populations.",
-  "eligibility": "10+2 with PCB. Bachelor's degree in Audiology and Speech-Language Pathology (BASLP) or related program.",
-  "educationPath": "Class 12 PCB → BASLP → Internship → Clinical Practice or Higher Studies.",
-  "feeRange": "₹2–12 Lakhs",
-  "workEnvironment": "Hospitals, hearing clinics, rehabilitation centers, schools and private practice.",
-  "salary": {
-    "fresher": "₹3–6 LPA",
-    "midLevel": "₹6–12 LPA",
-    "seniorLevel": "₹12–25 LPA"
-  },
-  "futureScope": "Strong demand due to increasing hearing-related disorders and elderly care requirements.",
-  "aiImpact": "AI-assisted hearing diagnostics and smart hearing aids will support audiologists.",
-  "skills": [
-    "Communication",
-    "Patient Assessment",
-    "Hearing Evaluation",
-    "Empathy",
-    "Critical Thinking",
-    "Problem Solving"
-  ],
-  "entranceExams": [
-    "CUET",
-    "University Entrance Exams"
-  ],
-  "topColleges": [
-    "AIISH Mysuru",
-    "Manipal University",
-    "Jamia Hamdard",
-    "CMC Vellore"
-  ],
-  "careerOpportunities": [
-    "Clinical Audiologist",
-    "Hearing Specialist",
-    "Rehabilitation Expert",
-    "Researcher"
-  ],
-  "recruiters": [
-    "Apollo Hospitals",
-    "Fortis",
-    "Max Healthcare",
-    "Hearing Solutions India"
-  ],
-  "pros": [
-    "Growing demand",
-    "Meaningful patient impact",
-    "Specialized profession"
-  ],
-  "cons": [
-    "Requires patience",
-    "Limited awareness among students"
-  ],
-  "relatedCareers": [
-    "Speech Therapist",
-    "Occupational Therapist",
-    "Physiotherapist"
-  ]
-},
-{
-  "id": "speech-therapist",
-  "name": "Speech Therapist",
-  "overview": "Speech Therapists diagnose and treat communication, speech, language and swallowing disorders.",
-  "whyChoose": "Provides the opportunity to significantly improve patients' quality of life.",
-  "eligibility": "10+2 PCB. BASLP or Speech-Language Pathology degree.",
-  "educationPath": "Class 12 PCB → BASLP → Clinical Training → Practice.",
-  "feeRange": "₹2–12 Lakhs",
-  "workEnvironment": "Hospitals, rehabilitation centers, schools and private clinics.",
-  "salary": {
-    "fresher": "₹3–6 LPA",
-    "midLevel": "₹6–12 LPA",
-    "seniorLevel": "₹12–22 LPA"
-  },
-  "futureScope": "Growing demand in healthcare and special education sectors.",
-  "aiImpact": "AI speech analysis tools will support diagnosis and therapy planning.",
-  "skills": [
-    "Communication",
-    "Patience",
-    "Observation",
-    "Empathy",
-    "Assessment Skills",
-    "Problem Solving"
-  ],
-  "entranceExams": [
-    "CUET",
-    "University Entrance Exams"
-  ],
-  "topColleges": [
-    "AIISH Mysuru",
-    "Manipal University",
-    "Jamia Hamdard"
-  ],
-  "careerOpportunities": [
-    "Speech Therapist",
-    "Language Specialist",
-    "Clinical Practitioner"
-  ],
-  "recruiters": [
-    "Apollo Hospitals",
-    "Fortis",
-    "Max Healthcare",
-    "Special Schools"
-  ],
-  "pros": [
-    "High patient impact",
-    "Growing field",
-    "Flexible career options"
-  ],
-  "cons": [
-    "Emotionally demanding",
-    "Requires continuous learning"
-  ],
-  "relatedCareers": [
-    "Audiologist",
-    "Occupational Therapist",
-    "Clinical Psychologist"
-  ]
-},
-{
-  "id": "veterinarian",
-  "name": "Veterinarian",
-  "overview": "Veterinarians diagnose, treat and prevent diseases in animals and ensure animal welfare.",
-  "whyChoose": "Ideal for individuals passionate about animal health and welfare.",
-  "eligibility": "10+2 PCB and NEET qualification.",
-  "educationPath": "Class 12 PCB → NEET → BVSc & AH → Practice or Specialization.",
-  "feeRange": "₹3–15 Lakhs",
-  "workEnvironment": "Animal hospitals, veterinary clinics, farms, zoos and research institutions.",
-  "salary": {
-    "fresher": "₹4–8 LPA",
-    "midLevel": "₹8–15 LPA",
-    "seniorLevel": "₹15–35 LPA"
-  },
-  "futureScope": "Increasing demand due to pet care, livestock management and animal healthcare.",
-  "aiImpact": "AI-assisted diagnostics will improve veterinary care.",
-  "skills": [
-    "Animal Care",
-    "Diagnosis",
-    "Communication",
-    "Empathy",
-    "Problem Solving",
-    "Medical Knowledge"
-  ],
-  "entranceExams": [
-    "NEET",
-    "ICAR AIEEA"
-  ],
-  "topColleges": [
-    "IVRI Bareilly",
-    "TANUVAS",
-    "GADVASU",
-    "KVASU"
-  ],
-  "careerOpportunities": [
-    "Veterinary Doctor",
-    "Animal Surgeon",
-    "Livestock Consultant",
-    "Research Scientist"
-  ],
-  "recruiters": [
-    "Government Veterinary Hospitals",
-    "Zoos",
-    "Dairy Companies",
-    "Animal Welfare Organizations"
-  ],
-  "pros": [
-    "Work with animals",
-    "High social impact",
-    "Diverse opportunities"
-  ],
-  "cons": [
-    "Physically demanding",
-    "Emotional stress"
-  ],
-  "relatedCareers": [
-    "Doctor",
-    "Medical Researcher",
-    "Public Health Specialist"
-  ]
-},
-{
-  "id": "medical-laboratory-technologist",
-  "name": "Medical Laboratory Technologist",
-  "overview": "Medical Laboratory Technologists perform laboratory tests to assist doctors in diagnosis and treatment planning.",
-  "whyChoose": "Essential healthcare role with strong demand in hospitals and diagnostic centers.",
-  "eligibility": "10+2 PCB.",
-  "educationPath": "Class 12 PCB → BMLT → Internship → Clinical Practice.",
-  "feeRange": "₹1–8 Lakhs",
-  "workEnvironment": "Hospitals, pathology labs, research centers and diagnostic laboratories.",
-  "salary": {
-    "fresher": "₹3–5 LPA",
-    "midLevel": "₹5–10 LPA",
-    "seniorLevel": "₹10–20 LPA"
-  },
-  "futureScope": "Excellent due to growth in diagnostics and preventive healthcare.",
-  "aiImpact": "AI will automate testing processes but professionals remain critical for interpretation.",
-  "skills": [
-    "Laboratory Skills",
-    "Attention to Detail",
-    "Data Analysis",
-    "Technical Skills",
-    "Problem Solving"
-  ],
-  "entranceExams": [
-    "CUET",
-    "University Entrance Exams"
-  ],
-  "topColleges": [
-    "CMC Vellore",
-    "Manipal University",
-    "Jamia Hamdard"
-  ],
-  "careerOpportunities": [
-    "Lab Technologist",
-    "Diagnostic Specialist",
-    "Research Technician"
-  ],
-  "recruiters": [
-    "Dr Lal PathLabs",
-    "SRL Diagnostics",
-    "Apollo Hospitals",
-    "Fortis"
-  ],
-  "pros": [
-    "High demand",
-    "Healthcare contribution",
-    "Stable career"
-  ],
-  "cons": [
-    "Repetitive work",
-    "Laboratory exposure risks"
-  ],
-  "relatedCareers": [
-    "Radiographer",
-    "Medical Researcher",
-    "Pharmacist"
-  ]
-},
-{
-  "id": "optometrist",
-  "name": "Optometrist",
-  "overview": "Optometrists examine vision, diagnose eye problems and prescribe corrective lenses.",
-  "whyChoose": "Growing healthcare profession with increasing eye care awareness.",
-  "eligibility": "10+2 PCB.",
-  "educationPath": "Class 12 PCB → Bachelor of Optometry → Internship → Practice.",
-  "feeRange": "₹2–10 Lakhs",
-  "workEnvironment": "Eye hospitals, clinics, optical chains and private practice.",
-  "salary": {
-    "fresher": "₹3–6 LPA",
-    "midLevel": "₹6–12 LPA",
-    "seniorLevel": "₹12–25 LPA"
-  },
-  "futureScope": "Strong due to increasing vision-related disorders and screen usage.",
-  "aiImpact": "AI-assisted eye diagnostics will improve efficiency.",
-  "skills": [
-    "Eye Examination",
-    "Patient Care",
-    "Communication",
-    "Observation",
-    "Problem Solving"
-  ],
-  "entranceExams": [
-    "CUET",
-    "University Entrance Exams"
-  ],
-  "topColleges": [
-    "AIIMS Delhi",
-    "Manipal University",
-    "Amity University"
-  ],
-  "careerOpportunities": [
-    "Optometrist",
-    "Vision Consultant",
-    "Eye Care Specialist"
-  ],
-  "recruiters": [
-    "Lenskart",
-    "Apollo Hospitals",
-    "Sankara Nethralaya",
-    "Max Healthcare"
-  ],
-  "pros": [
-    "Growing field",
-    "Good work-life balance",
-    "Private practice opportunities"
-  ],
-  "cons": [
-    "Requires precision",
-    "Continuous skill updates"
-  ],
-  "relatedCareers": [
-    "Ophthalmologist",
-    "Radiographer",
-    "Audiologist"
-  ]
-},
-{
-  "id": "emergency-medical-technician",
-  "name": "Emergency Medical Technician",
-  "overview": "Emergency Medical Technicians provide immediate medical care and transportation during emergencies.",
-  "whyChoose": "Critical frontline healthcare role that saves lives.",
-  "eligibility": "10+2 PCB preferred.",
-  "educationPath": "Class 12 → EMT Certification/Diploma → Clinical Training.",
-  "feeRange": "₹50,000–₹5 Lakhs",
-  "workEnvironment": "Ambulance services, hospitals, disaster response units and emergency departments.",
-  "salary": {
-    "fresher": "₹2–4 LPA",
-    "midLevel": "₹4–8 LPA",
-    "seniorLevel": "₹8–15 LPA"
-  },
-  "futureScope": "Growing demand due to expanding emergency healthcare services.",
-  "aiImpact": "AI will assist emergency triage and patient monitoring.",
-  "skills": [
-    "Emergency Care",
-    "Decision Making",
-    "Communication",
-    "Physical Stamina",
-    "Patient Management"
-  ],
-  "entranceExams": [
-    "Institute Specific Admissions"
-  ],
-  "topColleges": [
-    "Symbiosis Institute of Health Sciences",
-    "Manipal University",
-    "Apollo MedSkills"
-  ],
-  "careerOpportunities": [
-    "EMT",
-    "Paramedic",
-    "Emergency Response Specialist"
-  ],
-  "recruiters": [
-    "Apollo Hospitals",
-    "Fortis",
-    "108 Emergency Services",
-    "Max Healthcare"
-  ],
-  "pros": [
-    "Life-saving profession",
-    "High demand",
-    "Dynamic work environment"
-  ],
-  "cons": [
-    "Stressful situations",
-    "Shift duties"
-  ],
-  "relatedCareers": [
-    "Nurse",
-    "Doctor",
-    "Paramedic"
-  ]
-}
+      "id": "veterinarian",
+      "name": "Veterinarian",
+      "overview": "Veterinarians diagnose, treat and prevent diseases in animals and ensure animal welfare.",
+      "whyChoose": "Ideal for individuals passionate about animal health and welfare.",
+      "eligibility": "10+2 PCB and NEET qualification.",
+      "educationPath": "Class 12 PCB → NEET → BVSc & AH → Practice or Specialization.",
+      "feeRange": "₹3–15 Lakhs",
+      "workEnvironment": "Animal hospitals, veterinary clinics, farms, zoos and research institutions.",
+      "salary": {
+        "fresher": "₹4–8 LPA",
+        "midLevel": "₹8–15 LPA",
+        "seniorLevel": "₹15–35 LPA"
+      },
+      "futureScope": "Increasing demand due to pet care, livestock management and animal healthcare.",
+      "aiImpact": "AI-assisted diagnostics will improve veterinary care.",
+      "skills": [
+        "Animal Care",
+        "Diagnosis",
+        "Communication",
+        "Empathy",
+        "Problem Solving",
+        "Medical Knowledge"
+      ],
+      "entranceExams": [
+        "NEET",
+        "ICAR AIEEA"
+      ],
+      "topColleges": [
+        "IVRI Bareilly",
+        "TANUVAS",
+        "GADVASU",
+        "KVASU"
+      ],
+      "careerOpportunities": [
+        "Veterinary Doctor",
+        "Animal Surgeon",
+        "Livestock Consultant",
+        "Research Scientist"
+      ],
+      "recruiters": [
+        "Government Veterinary Hospitals",
+        "Zoos",
+        "Dairy Companies",
+        "Animal Welfare Organizations"
+      ],
+      "pros": [
+        "Work with animals",
+        "High social impact",
+        "Diverse opportunities"
+      ],
+      "cons": [
+        "Physically demanding",
+        "Emotional stress"
+      ],
+      "relatedCareers": [
+        "Doctor",
+        "Medical Researcher",
+        "Public Health Specialist"
+      ]
+    },
+    {
+      "id": "radiographer",
+      "name": "Radiographer",
+      "overview": "Radiographer is a healthcare career focused on patient care, diagnosis, treatment, prevention and improving quality of life.",
+      "whyChoose": "Radiographer offers meaningful social impact, respected work, strong career stability and growing healthcare demand.",
+      "eligibility": "10+2 with Physics, Chemistry and Biology (PCB).",
+      "educationPath": "Class 12 PCB -> Entrance exam or relevant degree -> Clinical training -> Practice or specialization.",
+      "feeRange": "Rs 2 Lakhs-1 Crore+",
+      "workEnvironment": "Hospitals, clinics, diagnostic centers, rehabilitation centers, public health teams and research institutions.",
+      "salary": {
+        "fresher": "Rs 3-8 LPA",
+        "midLevel": "Rs 8-20 LPA",
+        "seniorLevel": "Rs 20-60+ LPA"
+      },
+      "futureScope": "Strong due to healthcare expansion, preventive care, medical technology and public health needs.",
+      "aiImpact": "AI will support diagnosis, reporting and analytics, while human judgement and patient interaction remain essential.",
+      "skills": [
+        "Patient Care",
+        "Medical Knowledge",
+        "Empathy",
+        "Communication",
+        "Decision Making",
+        "Ethics"
+      ],
+      "entranceExams": [
+        "NEET UG",
+        "NEET PG",
+        "INI CET",
+        "CUET",
+        "University Entrance Tests"
+      ],
+      "topColleges": [
+        "AIIMS Delhi",
+        "CMC Vellore",
+        "JIPMER",
+        "KGMU",
+        "AFMC Pune",
+        "Manipal Academy"
+      ],
+      "careerOpportunities": [
+        "Clinical Practice",
+        "Research",
+        "Teaching",
+        "Healthcare Administration",
+        "Public Health"
+      ],
+      "recruiters": [
+        "AIIMS",
+        "Apollo Hospitals",
+        "Fortis",
+        "Max Healthcare",
+        "Manipal Hospitals",
+        "Medanta"
+      ],
+      "pros": [
+        "High respect",
+        "Meaningful impact",
+        "Job stability",
+        "Growing demand"
+      ],
+      "cons": [
+        "Long education path",
+        "High responsibility",
+        "Stressful work"
+      ],
+      "relatedCareers": [
+        "Doctor (MBBS)",
+        "Dentist",
+        "Physiotherapist"
+      ]
+    },
+    {
+      "id": "medical-laboratory-technologist",
+      "name": "Medical Laboratory Technologist",
+      "overview": "Medical Laboratory Technologists perform laboratory tests to assist doctors in diagnosis and treatment planning.",
+      "whyChoose": "Essential healthcare role with strong demand in hospitals and diagnostic centers.",
+      "eligibility": "10+2 PCB.",
+      "educationPath": "Class 12 PCB → BMLT → Internship → Clinical Practice.",
+      "feeRange": "₹1–8 Lakhs",
+      "workEnvironment": "Hospitals, pathology labs, research centers and diagnostic laboratories.",
+      "salary": {
+        "fresher": "₹3–5 LPA",
+        "midLevel": "₹5–10 LPA",
+        "seniorLevel": "₹10–20 LPA"
+      },
+      "futureScope": "Excellent due to growth in diagnostics and preventive healthcare.",
+      "aiImpact": "AI will automate testing processes but professionals remain critical for interpretation.",
+      "skills": [
+        "Laboratory Skills",
+        "Attention to Detail",
+        "Data Analysis",
+        "Technical Skills",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Exams"
+      ],
+      "topColleges": [
+        "CMC Vellore",
+        "Manipal University",
+        "Jamia Hamdard"
+      ],
+      "careerOpportunities": [
+        "Lab Technologist",
+        "Diagnostic Specialist",
+        "Research Technician"
+      ],
+      "recruiters": [
+        "Dr Lal PathLabs",
+        "SRL Diagnostics",
+        "Apollo Hospitals",
+        "Fortis"
+      ],
+      "pros": [
+        "High demand",
+        "Healthcare contribution",
+        "Stable career"
+      ],
+      "cons": [
+        "Repetitive work",
+        "Laboratory exposure risks"
+      ],
+      "relatedCareers": [
+        "Radiographer",
+        "Medical Researcher",
+        "Pharmacist"
+      ]
+    },
+    {
+      "id": "optometrist",
+      "name": "Optometrist",
+      "overview": "Optometrists examine vision, diagnose eye problems and prescribe corrective lenses.",
+      "whyChoose": "Growing healthcare profession with increasing eye care awareness.",
+      "eligibility": "10+2 PCB.",
+      "educationPath": "Class 12 PCB → Bachelor of Optometry → Internship → Practice.",
+      "feeRange": "₹2–10 Lakhs",
+      "workEnvironment": "Eye hospitals, clinics, optical chains and private practice.",
+      "salary": {
+        "fresher": "₹3–6 LPA",
+        "midLevel": "₹6–12 LPA",
+        "seniorLevel": "₹12–25 LPA"
+      },
+      "futureScope": "Strong due to increasing vision-related disorders and screen usage.",
+      "aiImpact": "AI-assisted eye diagnostics will improve efficiency.",
+      "skills": [
+        "Eye Examination",
+        "Patient Care",
+        "Communication",
+        "Observation",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Exams"
+      ],
+      "topColleges": [
+        "AIIMS Delhi",
+        "Manipal University",
+        "Amity University"
+      ],
+      "careerOpportunities": [
+        "Optometrist",
+        "Vision Consultant",
+        "Eye Care Specialist"
+      ],
+      "recruiters": [
+        "Lenskart",
+        "Apollo Hospitals",
+        "Sankara Nethralaya",
+        "Max Healthcare"
+      ],
+      "pros": [
+        "Growing field",
+        "Good work-life balance",
+        "Private practice opportunities"
+      ],
+      "cons": [
+        "Requires precision",
+        "Continuous skill updates"
+      ],
+      "relatedCareers": [
+        "Ophthalmologist",
+        "Radiographer",
+        "Audiologist"
+      ]
+    },
+    {
+      "id": "emergency-medical-technician",
+      "name": "Emergency Medical Technician",
+      "overview": "Emergency Medical Technicians provide immediate medical care and transportation during emergencies.",
+      "whyChoose": "Critical frontline healthcare role that saves lives.",
+      "eligibility": "10+2 PCB preferred.",
+      "educationPath": "Class 12 → EMT Certification/Diploma → Clinical Training.",
+      "feeRange": "₹50,000–₹5 Lakhs",
+      "workEnvironment": "Ambulance services, hospitals, disaster response units and emergency departments.",
+      "salary": {
+        "fresher": "₹2–4 LPA",
+        "midLevel": "₹4–8 LPA",
+        "seniorLevel": "₹8–15 LPA"
+      },
+      "futureScope": "Growing demand due to expanding emergency healthcare services.",
+      "aiImpact": "AI will assist emergency triage and patient monitoring.",
+      "skills": [
+        "Emergency Care",
+        "Decision Making",
+        "Communication",
+        "Physical Stamina",
+        "Patient Management"
+      ],
+      "entranceExams": [
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Symbiosis Institute of Health Sciences",
+        "Manipal University",
+        "Apollo MedSkills"
+      ],
+      "careerOpportunities": [
+        "EMT",
+        "Paramedic",
+        "Emergency Response Specialist"
+      ],
+      "recruiters": [
+        "Apollo Hospitals",
+        "Fortis",
+        "108 Emergency Services",
+        "Max Healthcare"
+      ],
+      "pros": [
+        "Life-saving profession",
+        "High demand",
+        "Dynamic work environment"
+      ],
+      "cons": [
+        "Stressful situations",
+        "Shift duties"
+      ],
+      "relatedCareers": [
+        "Nurse",
+        "Doctor",
+        "Paramedic"
+      ]
+    },
+    {
+      "id": "clinical-research-associate",
+      "name": "Clinical Research Associate",
+      "overview": "Clinical Research Associate works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Clinical Research Associate is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Genetic Counselor",
+        "Healthcare Administrator",
+        "Medical Coder"
+      ]
+    },
+    {
+      "id": "biomedical-scientist",
+      "name": "Biomedical Scientist",
+      "overview": "Biomedical Scientist works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Biomedical Scientist is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Healthcare Administrator",
+        "Medical Coder",
+        "Sonographer"
+      ]
+    },
+    {
+      "id": "genetic-counselor",
+      "name": "Genetic Counselor",
+      "overview": "Genetic Counselor works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Genetic Counselor is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Medical Coder",
+        "Sonographer",
+        "Operation Theatre Technologist"
+      ]
+    },
+    {
+      "id": "healthcare-administrator",
+      "name": "Healthcare Administrator",
+      "overview": "Healthcare Administrator works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Healthcare Administrator is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Sonographer",
+        "Operation Theatre Technologist",
+        "Dialysis Technologist"
+      ]
+    },
+    {
+      "id": "medical-coder",
+      "name": "Medical Coder",
+      "overview": "Medical Coder works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Medical Coder is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Operation Theatre Technologist",
+        "Dialysis Technologist",
+        "Physician Assistant"
+      ]
+    },
+    {
+      "id": "sonographer",
+      "name": "Sonographer",
+      "overview": "Sonographer works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Sonographer is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Dialysis Technologist",
+        "Physician Assistant",
+        "Paramedic"
+      ]
+    },
+    {
+      "id": "operation-theatre-technologist",
+      "name": "Operation Theatre Technologist",
+      "overview": "Operation Theatre Technologist works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Operation Theatre Technologist is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Physician Assistant",
+        "Paramedic"
+      ]
+    },
+    {
+      "id": "dialysis-technologist",
+      "name": "Dialysis Technologist",
+      "overview": "Dialysis Technologist works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Dialysis Technologist is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Paramedic"
+      ]
+    },
+    {
+      "id": "physician-assistant",
+      "name": "Physician Assistant",
+      "overview": "Physician Assistant works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Physician Assistant is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Doctor (MBBS)",
+        "Dentist",
+        "Physiotherapist"
+      ]
+    },
+    {
+      "id": "paramedic",
+      "name": "Paramedic",
+      "overview": "Paramedic works in a specialized professional pathway with applied knowledge, problem solving and industry-ready skills.",
+      "whyChoose": "Paramedic is useful because it offers focused career growth, practical skill building and opportunities across relevant organizations.",
+      "eligibility": "Class 12 or graduation requirements vary by institution and specialization.",
+      "educationPath": "Class 12 -> Relevant degree/diploma/certification -> Internship/projects -> Professional role.",
+      "feeRange": "Rs 50,000-15 Lakhs",
+      "workEnvironment": "Companies, institutions, agencies, startups, government bodies and specialist teams.",
+      "salary": {
+        "fresher": "Rs 3-7 LPA",
+        "midLevel": "Rs 7-18 LPA",
+        "seniorLevel": "Rs 18-45+ LPA"
+      },
+      "futureScope": "Strong for students who build practical skills, portfolios, internships and updated domain knowledge.",
+      "aiImpact": "AI will support routine work while judgement, communication and specialist expertise remain important.",
+      "skills": [
+        "Problem Solving",
+        "Communication",
+        "Technical Knowledge",
+        "Research",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "entranceExams": [
+        "CUET",
+        "University Entrance Tests",
+        "Institute Specific Admissions"
+      ],
+      "topColleges": [
+        "Delhi University",
+        "Christ University",
+        "Symbiosis",
+        "Amity University",
+        "State Universities"
+      ],
+      "careerOpportunities": [
+        "Specialist",
+        "Associate",
+        "Consultant",
+        "Coordinator",
+        "Entrepreneur"
+      ],
+      "recruiters": [
+        "Companies",
+        "Startups",
+        "Consulting Firms",
+        "Government Bodies",
+        "Educational Institutions"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Doctor (MBBS)",
+        "Dentist",
+        "Physiotherapist"
+      ]
+    }
   ]
 }

@@ -1,4 +1,6 @@
 {
+  "domain": "Psychology & Behavioral Sciences",
+  "description": "Mental health and behavioural science careers.",
   "careers": [
     {
       "id": "clinical-psychologist",
@@ -6,7 +8,16 @@
       "overview": "Clinical Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Clinical Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -32,7 +43,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Clinical Psychologist",
         "Consultant",
@@ -40,12 +50,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -54,8 +58,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -77,7 +79,16 @@
       "overview": "Counselling Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Counselling Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -103,7 +114,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Counselling Psychologist",
         "Consultant",
@@ -111,12 +121,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -125,8 +129,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -148,7 +150,16 @@
       "overview": "Child Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Child Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -174,7 +185,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Child Psychologist",
         "Consultant",
@@ -182,12 +192,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -196,8 +200,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -219,7 +221,16 @@
       "overview": "Educational Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Educational Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -245,7 +256,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Educational Psychologist",
         "Consultant",
@@ -253,12 +263,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -267,8 +271,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -290,7 +292,16 @@
       "overview": "Industrial & Organizational Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Industrial & Organizational Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -316,7 +327,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Industrial & Organizational Psychologist",
         "Consultant",
@@ -324,12 +334,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -338,8 +342,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -361,7 +363,16 @@
       "overview": "Forensic Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Forensic Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -387,7 +398,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Forensic Psychologist",
         "Consultant",
@@ -395,12 +405,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -409,8 +413,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -432,7 +434,16 @@
       "overview": "Sports Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Sports Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -458,7 +469,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Sports Psychologist",
         "Consultant",
@@ -466,12 +476,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -480,8 +484,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -503,7 +505,16 @@
       "overview": "Health Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Health Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -529,7 +540,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Health Psychologist",
         "Consultant",
@@ -537,12 +547,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -551,8 +555,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -574,7 +576,16 @@
       "overview": "Neuropsychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Neuropsychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -600,7 +611,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Neuropsychologist",
         "Consultant",
@@ -608,12 +618,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -622,8 +626,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -645,7 +647,16 @@
       "overview": "Rehabilitation Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Rehabilitation Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -671,7 +682,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Rehabilitation Psychologist",
         "Consultant",
@@ -679,12 +689,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -693,8 +697,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -716,7 +718,16 @@
       "overview": "Military Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Military Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -742,7 +753,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Military Psychologist",
         "Consultant",
@@ -750,12 +760,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -764,8 +768,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -787,7 +789,16 @@
       "overview": "Consumer Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Consumer Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -813,7 +824,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Consumer Psychologist",
         "Consultant",
@@ -821,12 +831,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -835,8 +839,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -858,7 +860,16 @@
       "overview": "Behavioral Scientist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Behavioral Scientist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -884,7 +895,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Behavioral Scientist",
         "Consultant",
@@ -892,12 +902,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -906,8 +910,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -929,7 +931,16 @@
       "overview": "Psychotherapist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Psychotherapist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -955,7 +966,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Psychotherapist",
         "Consultant",
@@ -963,12 +973,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -977,8 +981,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1000,7 +1002,16 @@
       "overview": "Career Counsellor focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Career Counsellor offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1026,7 +1037,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Career Counsellor",
         "Consultant",
@@ -1034,12 +1044,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1048,8 +1052,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1071,7 +1073,16 @@
       "overview": "School Counsellor focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "School Counsellor offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1097,7 +1108,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "School Counsellor",
         "Consultant",
@@ -1105,12 +1115,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1119,8 +1123,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1142,7 +1144,16 @@
       "overview": "Research Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Research Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1168,7 +1179,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Research Psychologist",
         "Consultant",
@@ -1176,12 +1186,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1190,8 +1194,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1213,7 +1215,16 @@
       "overview": "Social Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Social Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1239,7 +1250,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Social Psychologist",
         "Consultant",
@@ -1247,12 +1257,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1261,8 +1265,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1284,7 +1286,16 @@
       "overview": "Cognitive Psychologist focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Cognitive Psychologist offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1310,7 +1321,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Cognitive Psychologist",
         "Consultant",
@@ -1318,12 +1328,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1332,8 +1336,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",
@@ -1355,7 +1357,16 @@
       "overview": "Psychology Professor focuses on understanding human behaviour, emotions, cognition and mental well-being.",
       "whyChoose": "Psychology Professor offers opportunities to help individuals, organizations and society through psychological knowledge.",
       "eligibility": "10+2 in any stream followed by Psychology studies.",
-      "educationPath": "BA/BSc Psychology \u2192 MA/MSc Psychology \u2192 Specialization / MPhil / PhD where applicable.",
+      "educationPath": "BA/BSc Psychology → MA/MSc Psychology → Specialization / MPhil / PhD where applicable.",
+      "feeRange": "₹30,000 - ₹15,00,000",
+      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
+      "salary": {
+        "fresher": "₹3-6 LPA",
+        "midLevel": "₹6-15 LPA",
+        "seniorLevel": "₹15-35+ LPA"
+      },
+      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
+      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "skills": [
         "Communication",
         "Empathy",
@@ -1381,7 +1392,6 @@
         "Amity University",
         "Jain University"
       ],
-      "feeRange": "\u20b930,000 - \u20b915,00,000",
       "careerOpportunities": [
         "Psychology Professor",
         "Consultant",
@@ -1389,12 +1399,6 @@
         "Counsellor",
         "Specialist"
       ],
-      "workEnvironment": "Hospitals, schools, universities, rehabilitation centres, NGOs, research institutes and corporate organizations.",
-      "salary": {
-        "fresher": "\u20b93-6 LPA",
-        "midLevel": "\u20b96-15 LPA",
-        "seniorLevel": "\u20b915-35+ LPA"
-      },
       "recruiters": [
         "Hospitals",
         "Schools",
@@ -1403,8 +1407,6 @@
         "Corporate Firms",
         "Research Organizations"
       ],
-      "futureScope": "Mental health awareness and behavioural science applications are increasing demand for psychology professionals.",
-      "aiImpact": "AI can assist assessment and analysis, but empathy, counselling, therapy and human understanding remain essential.",
       "pros": [
         "Meaningful career",
         "Growing demand",

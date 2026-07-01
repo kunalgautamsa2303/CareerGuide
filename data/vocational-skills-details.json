@@ -1,0 +1,1008 @@
+{
+  "domain": "Vocational & Skilled Careers",
+  "description": "Hands-on technical, service, trade, skill-development and applied careers.",
+  "careers": [
+    {
+      "id": "electrician",
+      "name": "Electrician",
+      "overview": "Electrician uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Electrician is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Automotive Technician",
+        "HVAC Technician",
+        "Welder"
+      ]
+    },
+    {
+      "id": "plumber",
+      "name": "Plumber",
+      "overview": "Plumber uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Plumber is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "HVAC Technician",
+        "Welder",
+        "Solar Panel Technician"
+      ]
+    },
+    {
+      "id": "automotive-technician",
+      "name": "Automotive Technician",
+      "overview": "Automotive Technician uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Automotive Technician is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Welder",
+        "Solar Panel Technician",
+        "Beauty and Wellness Professional"
+      ]
+    },
+    {
+      "id": "hvac-technician",
+      "name": "HVAC Technician",
+      "overview": "HVAC Technician uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "HVAC Technician is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Solar Panel Technician",
+        "Beauty and Wellness Professional",
+        "Retail Associate"
+      ]
+    },
+    {
+      "id": "welder",
+      "name": "Welder",
+      "overview": "Welder uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Welder is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Beauty and Wellness Professional",
+        "Retail Associate",
+        "Logistics Assistant"
+      ]
+    },
+    {
+      "id": "solar-panel-technician",
+      "name": "Solar Panel Technician",
+      "overview": "Solar Panel Technician uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Solar Panel Technician is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Retail Associate",
+        "Logistics Assistant",
+        "Medical Assistant"
+      ]
+    },
+    {
+      "id": "beauty-and-wellness-professional",
+      "name": "Beauty and Wellness Professional",
+      "overview": "Beauty and Wellness Professional uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Beauty and Wellness Professional is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Logistics Assistant",
+        "Medical Assistant",
+        "Lab Assistant"
+      ]
+    },
+    {
+      "id": "retail-associate",
+      "name": "Retail Associate",
+      "overview": "Retail Associate uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Retail Associate is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Medical Assistant",
+        "Lab Assistant",
+        "Graphic Production Operator"
+      ]
+    },
+    {
+      "id": "logistics-assistant",
+      "name": "Logistics Assistant",
+      "overview": "Logistics Assistant uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Logistics Assistant is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Lab Assistant",
+        "Graphic Production Operator",
+        "Food Processing Technician"
+      ]
+    },
+    {
+      "id": "medical-assistant",
+      "name": "Medical Assistant",
+      "overview": "Medical Assistant uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Medical Assistant is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Graphic Production Operator",
+        "Food Processing Technician",
+        "Apparel Production Supervisor"
+      ]
+    },
+    {
+      "id": "lab-assistant",
+      "name": "Lab Assistant",
+      "overview": "Lab Assistant uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Lab Assistant is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Food Processing Technician",
+        "Apparel Production Supervisor",
+        "CNC Machine Operator"
+      ]
+    },
+    {
+      "id": "graphic-production-operator",
+      "name": "Graphic Production Operator",
+      "overview": "Graphic Production Operator uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Graphic Production Operator is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Apparel Production Supervisor",
+        "CNC Machine Operator"
+      ]
+    },
+    {
+      "id": "food-processing-technician",
+      "name": "Food Processing Technician",
+      "overview": "Food Processing Technician uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Food Processing Technician is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "CNC Machine Operator"
+      ]
+    },
+    {
+      "id": "apparel-production-supervisor",
+      "name": "Apparel Production Supervisor",
+      "overview": "Apparel Production Supervisor uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "Apparel Production Supervisor is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Electrician",
+        "Plumber",
+        "Automotive Technician"
+      ]
+    },
+    {
+      "id": "cnc-machine-operator",
+      "name": "CNC Machine Operator",
+      "overview": "CNC Machine Operator uses practical, hands-on skills to solve technical, service, repair, production or applied workplace problems.",
+      "whyChoose": "CNC Machine Operator is useful because it gives employable skills, faster entry routes, entrepreneurship options and demand across local industries.",
+      "eligibility": "Class 10 or Class 12 depending on trade; ITI, diploma, NSQF, B.Voc or certification routes are common.",
+      "educationPath": "Class 10/12 -> ITI/diploma/B.Voc/certification -> Apprenticeship -> Skilled job or self-employment.",
+      "feeRange": "Rs 10,000-5 Lakhs",
+      "workEnvironment": "Workshops, factories, service centers, hospitals, retail units, field sites, studios and small businesses.",
+      "salary": {
+        "fresher": "Rs 1.8-4 LPA",
+        "midLevel": "Rs 4-10 LPA",
+        "seniorLevel": "Rs 10-25+ LPA"
+      },
+      "futureScope": "Strong due to manufacturing, repair services, renewable energy, healthcare support and skill-based entrepreneurship.",
+      "aiImpact": "AI will support diagnostics and workflow while hands-on execution and customer service remain important.",
+      "skills": [
+        "Practical Skills",
+        "Safety",
+        "Customer Service",
+        "Tool Handling",
+        "Discipline",
+        "Problem Solving"
+      ],
+      "entranceExams": [
+        "ITI Admissions",
+        "Polytechnic Entrance Tests",
+        "B.Voc Admissions",
+        "NSQF Certifications"
+      ],
+      "topColleges": [
+        "Government ITIs",
+        "Polytechnic Colleges",
+        "Community Colleges",
+        "Skill India Training Centres",
+        "B.Voc Institutes"
+      ],
+      "careerOpportunities": [
+        "Technician",
+        "Supervisor",
+        "Service Specialist",
+        "Entrepreneur",
+        "Production Assistant"
+      ],
+      "recruiters": [
+        "Manufacturing Units",
+        "Service Companies",
+        "Hospitals",
+        "Retail Brands",
+        "Local Enterprises"
+      ],
+      "pros": [
+        "Clear skill pathway",
+        "Growing professional options",
+        "Internship and project-based learning helps"
+      ],
+      "cons": [
+        "Requires continuous learning",
+        "Competition varies by location",
+        "Early career may need portfolio or training"
+      ],
+      "relatedCareers": [
+        "Electrician",
+        "Plumber",
+        "Automotive Technician"
+      ]
+    }
+  ]
+}

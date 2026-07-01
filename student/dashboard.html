@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard | USSC Connect</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/dashboard-suite.css">
+</head>
+<body class="suite-body">
+<div class="suite-shell">
+    <aside class="suite-sidebar">
+        <a class="suite-logo" href="../index.html">
+            <img src="../assets/images/logo.png" alt="USSC Connect Logo">
+            <div><strong>USSC Connect</strong><span>Student Workspace</span></div>
+        </a>
+        <nav class="suite-nav">
+            <a class="active" href="dashboard.html"><i class="bi bi-grid-fill"></i> Dashboard</a>
+            <a href="../careers/index.html"><i class="bi bi-journal-bookmark-fill"></i> Career Library</a>
+            <a href="../careers/exams.html"><i class="bi bi-journal-check"></i> Exams</a>
+            <a href="../careers/guide.html?guide=choose-after-class-10"><i class="bi bi-signpost-split-fill"></i> Planning Tools</a>
+            <a href="../index.html"><i class="bi bi-house-fill"></i> Home</a>
+        </nav>
+        <div class="suite-sidebar-card">
+            <strong>Today's Focus</strong>
+            <p>Complete one planning tool and shortlist three careers to compare this week.</p>
+        </div>
+    </aside>
+
+    <main class="suite-main">
+        <header class="suite-topbar">
+            <label class="suite-search">
+                <i class="bi bi-search"></i>
+                <input data-suite-search type="text" placeholder="Search careers, exams, tasks...">
+            </label>
+            <div class="suite-user">
+                <div class="suite-avatar">ST</div>
+                <div><strong>Student Profile</strong><span>Class 10-12 journey</span></div>
+            </div>
+        </header>
+
+        <div class="suite-content">
+            <section class="suite-hero">
+                <div class="suite-hero-card">
+                    <span class="suite-badge"><i class="bi bi-stars"></i> Student Dashboard</span>
+                    <h1>Your career journey, tasks, exams and recommended pathways in one place.</h1>
+                    <p>Track career exploration, planning guides, entrance exams, course tags and next actions. This dashboard is built for students who want a clear weekly direction instead of scattered notes.</p>
+                    <div class="suite-actions">
+                        <a class="suite-btn" href="../careers/guide.html?guide=choose-after-class-10"><i class="bi bi-compass-fill"></i> Start Planning Tool</a>
+                        <a class="suite-btn secondary" href="../careers/index.html"><i class="bi bi-search"></i> Explore Careers</a>
+                    </div>
+                </div>
+                <aside class="suite-panel">
+                    <h2>Next Steps</h2>
+                    <div class="suite-timeline">
+                        <article><i class="bi bi-1-circle-fill"></i><div><strong>Complete mini assessment</strong><span>Choose interest, work style and subject comfort.</span></div></article>
+                        <article><i class="bi bi-2-circle-fill"></i><div><strong>Save 5 careers</strong><span>Compare eligibility, scope, exams and courses.</span></div></article>
+                        <article><i class="bi bi-3-circle-fill"></i><div><strong>Check official exam pages</strong><span>Use NEET/JEE/CUET/CLAT official links.</span></div></article>
+                    </div>
+                </aside>
+            </section>
+
+            <section class="suite-stats">
+                <article class="suite-stat"><i class="bi bi-bookmark-check"></i><strong>12</strong><span>Saved careers</span></article>
+                <article class="suite-stat"><i class="bi bi-journal-text"></i><strong>4</strong><span>Planning tools</span></article>
+                <article class="suite-stat"><i class="bi bi-calendar-check"></i><strong>6</strong><span>Exam deadlines tracked</span></article>
+                <article class="suite-stat"><i class="bi bi-graph-up-arrow"></i><strong>68%</strong><span>Profile readiness</span></article>
+            </section>
+
+            <section class="suite-section">
+                <div class="suite-section-head">
+                    <div><h2>Recommended Actions</h2><p>Clickable student workflow cards.</p></div>
+                    <div class="suite-tabs" data-tab-group data-tab-target="#studentActions">
+                        <button class="active" data-tab-filter="all">All</button>
+                        <button data-tab-filter="career">Career</button>
+                        <button data-tab-filter="exam">Exam</button>
+                        <button data-tab-filter="course">Course</button>
+                    </div>
+                </div>
+                <div id="studentActions" class="suite-grid">
+                    <article class="suite-card" data-category="career" data-search-item="compare careers career profile eligibility salary ai impact">
+                        <div class="suite-card-icon"><i class="bi bi-columns-gap"></i></div>
+                        <h3>Compare Careers</h3>
+                        <p>Compare eligibility, skills, salary range, future scope, AI impact and entrance exams.</p>
+                        <a href="../careers/guide.html?guide=compare-careers">Open tool <i class="bi bi-arrow-right"></i></a>
+                    </article>
+                    <article class="suite-card" data-category="exam" data-search-item="entrance exam planning neet jee cuet clat">
+                        <div class="suite-card-icon"><i class="bi bi-journal-check"></i></div>
+                        <h3>Entrance Exam Planner</h3>
+                        <p>Find which exams connect to your target courses and official exam pages.</p>
+                        <a href="../careers/guide.html?guide=entrance-exam-planning">Plan exams <i class="bi bi-arrow-right"></i></a>
+                    </article>
+                    <article class="suite-card" data-category="course" data-search-item="course tags mbbs btech bba bdes llb">
+                        <div class="suite-card-icon"><i class="bi bi-mortarboard-fill"></i></div>
+                        <h3>Course Tags</h3>
+                        <p>Search MBBS, B.Tech, BBA, B.Des, LL.B and other course routes in the library.</p>
+                        <a href="../careers/index.html?search=B.Tech">Search courses <i class="bi bi-arrow-right"></i></a>
+                    </article>
+                </div>
+            </section>
+
+            <section class="suite-section">
+                <div class="suite-section-head"><div><h2>My Roadmap</h2><p>Simple progress tracker for student planning.</p></div></div>
+                <div class="suite-table">
+                    <div class="suite-row" data-search-item="stream selection science commerce humanities">
+                        <strong>Stream or subject decision</strong><span>Use Class 10 planning tool</span><span class="suite-pill blue">In progress</span><a href="../careers/guide.html?guide=choose-after-class-10">Open</a>
+                    </div>
+                    <div class="suite-row" data-search-item="career shortlist doctor engineer designer lawyer">
+                        <strong>Career shortlist</strong><span>Save 5 career options</span><span class="suite-pill gold">Pending</span><a href="../careers/index.html">Browse</a>
+                    </div>
+                    <div class="suite-row" data-search-item="exam shortlist neet jee cuet">
+                        <strong>Exam shortlist</strong><span>Check official exam links</span><span class="suite-pill">Ready</span><a href="../careers/exams.html">View</a>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+</div>
+<script src="../assets/js/dashboard-suite.js"></script>
+</body>
+</html>

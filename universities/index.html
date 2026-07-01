@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University & College Directory | USSC Connect</title>
+    <meta name="description" content="Search Indian universities and colleges by course, stream, entrance exam, state and official admission links.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/components.css">
+    <link rel="stylesheet" href="../assets/css/university-directory.css">
+</head>
+<body class="university-page">
+    <header class="uni-header">
+        <div class="uni-shell uni-nav">
+            <a class="uni-logo" href="../index.html">
+                <img src="../assets/images/logo.png" alt="USSC Connect Logo">
+                <span>
+                    <strong>USSC Connect</strong>
+                    <small>Career Discovery & Education Network</small>
+                </span>
+            </a>
+
+            <nav class="uni-links" aria-label="Primary navigation">
+                <a href="../index.html">Home</a>
+                <a href="../careers/index.html">Career Library</a>
+                <a href="index.html" class="active">University Directory</a>
+                <a href="../careers/guide.html?guide=compare-careers">Career Assessment</a>
+                <a href="../university-connect/index.html">University Connect</a>
+            </nav>
+
+            <div class="uni-header-search">
+                <i class="bi bi-search"></i>
+                <input id="headerUniversitySearch" type="search" placeholder="Search colleges, courses, states...">
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="uni-hero">
+            <div class="uni-shell uni-hero-grid">
+                <div class="uni-hero-copy">
+                    <span class="uni-kicker"><i class="bi bi-buildings"></i> College search hub</span>
+                    <h1>Find universities, colleges, courses and official admission links.</h1>
+                    <p>
+                        Explore public, private, deemed and national institutions with streams, programs,
+                        entrance exams, admission pages and official websites in one student-friendly directory.
+                    </p>
+                </div>
+
+                <div class="uni-search-panel">
+                    <label for="universitySearch">Search by college, course, exam, city or state</label>
+                    <div class="uni-search-box">
+                        <i class="bi bi-search"></i>
+                        <input id="universitySearch" type="search" placeholder="Try Rajasthan University, MBBS, CUET, design...">
+                        <button id="universitySearchBtn" type="button">Search</button>
+                    </div>
+                    <div class="uni-filter-row">
+                        <select id="stateFilter" aria-label="Filter by state">
+                            <option value="">All states</option>
+                        </select>
+                        <select id="typeFilter" aria-label="Filter by institution type">
+                            <option value="">All types</option>
+                        </select>
+                        <select id="streamFilter" aria-label="Filter by stream">
+                            <option value="">All streams</option>
+                        </select>
+                    </div>
+                    <div id="activeFilters" class="active-filter-row" aria-live="polite"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="uni-stats-band" aria-label="Directory summary">
+            <div class="uni-shell uni-stat-grid">
+                <article>
+                    <i class="bi bi-bank"></i>
+                    <span id="institutionCount">0</span>
+                    <small>Institutions</small>
+                </article>
+                <article>
+                    <i class="bi bi-journal-text"></i>
+                    <span id="programCount">0</span>
+                    <small>Program entries</small>
+                </article>
+                <article>
+                    <i class="bi bi-geo-alt"></i>
+                    <span id="stateCount">0</span>
+                    <small>States covered</small>
+                </article>
+                <article>
+                    <i class="bi bi-grid-3x3-gap"></i>
+                    <span id="streamCount">0</span>
+                    <small>Streams</small>
+                </article>
+            </div>
+        </section>
+
+        <section class="uni-directory-section">
+            <div class="uni-shell">
+                <div class="uni-section-head">
+                    <div>
+                        <span class="uni-kicker">Directory</span>
+                        <h2>Universities & Colleges</h2>
+                        <p id="resultsSummary">Loading institutions...</p>
+                    </div>
+                    <a class="uni-outline-link" href="../university-connect/index.html">
+                        Premium University Connect <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+
+                <div id="universityGrid" class="university-grid" aria-live="polite">
+                    <div class="uni-loading">
+                        <i class="bi bi-arrow-repeat"></i>
+                        Loading university directory...
+                    </div>
+                </div>
+                <div class="uni-load-row">
+                    <button id="loadMoreUniversities" class="uni-load-more" type="button" hidden>
+                        Load More Institutions
+                    </button>
+                </div>
+                <div id="universityEmpty" class="uni-empty" hidden>
+                    <i class="bi bi-search"></i>
+                    <h3>No institution found</h3>
+                    <p>Try a different college name, course, entrance exam, city or stream.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="../assets/js/university-directory.js" defer></script>
+</body>
+</html>

@@ -241,6 +241,111 @@
     color:#94A3B8;
 
 }
+
+.search-wrapper{
+
+    position:relative;
+
+    flex:1;
+
+    min-width:0;
+
+}
+
+.header-search .search-wrapper,
+.mobile-search .search-wrapper{
+
+    width:100%;
+
+}
+
+.search-wrapper input{
+
+    width:100%;
+
+}
+
+.live-search-results{
+
+    position:absolute;
+
+    top:calc(100% + 10px);
+
+    left:0;
+
+    right:0;
+
+    z-index:2000;
+
+    display:none;
+
+    max-height:320px;
+
+    overflow:auto;
+
+    padding:8px;
+
+    border:1px solid var(--border);
+
+    border-radius:16px;
+
+    background:#FFFFFF;
+
+    box-shadow:var(--shadow-lg);
+
+}
+
+.live-search-results.active{
+
+    display:block;
+
+}
+
+.live-search-item,
+.live-search-empty{
+
+    width:100%;
+
+    display:block;
+
+    padding:11px 12px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:transparent;
+
+    text-align:left;
+
+}
+
+.live-search-item:hover{
+
+    background:#EFF6FF;
+
+}
+
+.live-search-item span{
+
+    display:block;
+
+    color:var(--text);
+
+    font-size:13px;
+
+    font-weight:700;
+
+}
+
+.live-search-item small,
+.live-search-empty{
+
+    color:var(--text-light);
+
+    font-size:12px;
+
+}
 /* ==========================================================
    HERO
 ========================================================== */

@@ -1,0 +1,65 @@
+{
+  "domain": "Performing Arts",
+  "careers": [
+    {
+      "id": "actor",
+      "name": "Actor"
+    },
+    {
+      "id": "theatre-artist",
+      "name": "Theatre Artist"
+    },
+    {
+      "id": "dancer",
+      "name": "Dancer"
+    },
+    {
+      "id": "choreographer",
+      "name": "Choreographer"
+    },
+    {
+      "id": "musician",
+      "name": "Musician"
+    },
+    {
+      "id": "singer",
+      "name": "Singer"
+    },
+    {
+      "id": "music-producer",
+      "name": "Music Producer"
+    },
+    {
+      "id": "sound-designer",
+      "name": "Sound Designer"
+    },
+    {
+      "id": "theatre-director",
+      "name": "Theatre Director"
+    },
+    {
+      "id": "performing-arts-teacher",
+      "name": "Performing Arts Teacher"
+    },
+    {
+      "id": "voice-artist",
+      "name": "Voice Artist"
+    },
+    {
+      "id": "stage-manager",
+      "name": "Stage Manager"
+    },
+    {
+      "id": "classical-artist",
+      "name": "Classical Artist"
+    },
+    {
+      "id": "instrumentalist",
+      "name": "Instrumentalist"
+    },
+    {
+      "id": "arts-manager",
+      "name": "Arts Manager"
+    }
+  ]
+}
