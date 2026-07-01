@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Career Library | USSC Connect</title>
+
+    <meta name="description"
+          content="Explore career profiles, career guides, entrance exam guides and career resources with USSC Connect.">
+
+    <!-- Google Fonts -->
+
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Global CSS -->
+
+    <link rel="stylesheet"
+          href="../assets/css/variables.css">
+
+    <link rel="stylesheet"
+          href="../assets/css/base.css">
+
+    <link rel="stylesheet"
+          href="../assets/css/components.css">
+
+    <link rel="stylesheet"
+          href="../assets/css/responsive.css">
+
+    <!-- Career Library CSS -->
+
+    <link rel="stylesheet"
+          href="../assets/css/career-library.css">
+
+</head>
+
+<body>
+
+<!-- =========================================================
+HEADER
+========================================================= -->
+
+<header class="header">
+
+    <div class="container nav-container">
+
+        <!-- Logo -->
+
+        <a href="../index.html"
+           class="logo">
+
+            <div class="logo-mark">
+
+                <img src="../assets/images/logo.png"
+                     alt="USSC Connect Logo">
+
+            </div>
+
+            <div class="logo-info">
+
+                <h2>USSC Connect</h2>
+
+                <span>Career Discovery & Education Network</span>
+
+            </div>
+
+        </a>
+
+        <!-- Desktop Navigation -->
+
+        <nav class="desktop-nav">
+
+            <a href="../index.html">
+
+                Home
+
+            </a>
+
+            <a href="index.html"
+               class="active">
+
+                Career Library
+
+            </a>
+
+            <a href="#">
+
+                University Directory
+
+            </a>
+
+            <a href="#">
+
+                Career Assessment
+
+            </a>
+
+            <a href="#">
+
+                USSC Connect
+
+            </a>
+
+            <a href="#">
+
+                Contact
+
+            </a>
+
+        </nav>
+
+        <!-- Header Search -->
+
+        <div class="header-search">
+
+            <i class="bi bi-search"></i>
+
+            <input
+                id="headerCareerSearch"
+                type="text"
+                placeholder="Search careers, exams or guides...">
+
+        </div>
+
+    </div>
+
+</header>
+
+<!-- =========================================================
+BREADCRUMB
+========================================================= -->
+
+<section class="breadcrumb-section">
+
+    <div class="container">
+
+        <div class="breadcrumb">
+
+            <a href="../index.html">
+
+                Home
+
+            </a>
+
+            <i class="bi bi-chevron-right"></i>
+
+            <span>
+
+                Career Library
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+CAREER LIBRARY HERO
+========================================================= -->
+
+<section class="career-hero">
+
+    <div class="container">
+
+        <div class="career-hero-content">
+
+            <span class="hero-badge">
+
+                <i class="bi bi-stars"></i>
+
+                Explore • Learn • Plan
+
+            </span>
+
+            <h1>
+
+                Explore Careers with Confidence
+
+            </h1>
+
+            <p>
+
+                Discover careers, entrance exams, career guides and trusted educational resources in one place. Every career profile is designed to help students make informed academic and career decisions.
+
+            </p>
+
+            <!-- Search -->
+
+            <div class="career-search">
+
+    <i class="bi bi-search"></i>
+
+    <input
+        id="careerSearch"
+        type="text"
+        placeholder="Search careers, entrance exams or career guides...">
+
+    <button
+        id="careerSearchBtn">
+
+        Search
+
+    </button>
+
+</div>
+
+<div class="hero-actions">
+
+    <a href="../index.html"
+       class="btn-secondary">
+
+        Back to Home
+
+    </a>
+
+</div>
+
+            </div>
+
+            <!-- Popular Searches -->
+
+            <div class="popular-searches">
+
+                <span>Popular Searches</span>
+
+                <a href="index.html?domain=engineering">Engineering</a>
+
+                <a href="index.html?domain=medicine">Medicine</a>
+
+                <a href="index.html?domain=design">Design</a>
+
+                <a href="index.html?domain=law">Law</a>
+
+                <a href="index.html?domain=management">Management</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =========================================================
+CAREER CATEGORIES
+========================================================= -->
+
+<section class="career-categories">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Browse by Category</span>
+
+                <h2>Career Categories</h2>
+
+                <p>
+
+                    Explore career domains across engineering, medicine,
+                    design, management, law, commerce and many more.
+
+                </p>
+
+            </div>
+
+            <a href="#categoryGrid">
+
+                Explore All
+
+                <i class="bi bi-arrow-right"></i>
+
+            </a>
+
+        </div>
+
+        <!-- Dynamic Category Grid -->
+
+        <div
+    class="category-grid"
+    id="categoryGrid">
+
+    <div class="loading-state">
+
+        <i class="bi bi-arrow-repeat"></i>
+
+        <p>
+
+            Loading Career Categories...
+
+        </p>
+
+    </div>
+
+</div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+POPULAR CAREERS
+========================================================= -->
+
+<section class="featured-careers">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Most Explored</span>
+
+                <h2>Featured Careers</h2>
+
+                <p>
+
+                    Explore a mixed selection of careers across
+                    engineering, medicine, design, law, management
+                    and other domains.
+
+                </p>
+
+            </div>
+
+            <a href="#careerGrid">
+
+                Browse Careers
+
+                <i class="bi bi-arrow-right"></i>
+
+            </a>
+
+        </div>
+
+        <!-- Dynamic Career Grid -->
+
+        <div
+    class="career-grid"
+    id="careerGrid">
+
+    <div class="loading-state">
+
+        <i class="bi bi-arrow-repeat"></i>
+
+        <p>
+
+            Loading Featured Careers...
+
+        </p>
+
+    </div>
+
+</div>
+
+    </div>
+
+</section>
+<!-- =========================================================
+CAREER PLANNING GUIDES
+========================================================= -->
+
+<section class="career-guides">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Planning Hub</span>
+
+                <h2>Career Planning Guides</h2>
+
+                <p>
+
+                    Use these guides to compare pathways, plan after
+                    Class 10 or Class 12, and connect entrance exams
+                    with the right career decisions.
+
+                </p>
+
+            </div>
+
+            <a href="#guideGrid">
+
+                View Planning Guides
+
+                <i class="bi bi-arrow-right"></i>
+
+            </a>
+
+        </div>
+
+
+        <!-- Dynamic Guide Grid -->
+
+        <div
+    class="guide-grid"
+    id="guideGrid">
+
+    <div class="loading-state">
+
+        <i class="bi bi-arrow-repeat"></i>
+
+        <p>
+
+            Loading Planning Guides...
+
+        </p>
+
+    </div>
+
+</div>
+
+    </div>
+</section>
+
+<!-- =========================================================
+ENTRANCE EXAM GUIDES
+========================================================= -->
+
+<section class="exam-guides">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Prepare Better</span>
+
+                <h2>Entrance Exam Guides</h2>
+
+                <p>
+
+                    Learn about India's leading entrance examinations,
+                    eligibility, syllabus, important dates and participating
+                    institutions.
+
+                </p>
+
+            </div>
+
+            <a href="#examGrid">
+
+                View All Exams
+
+                <i class="bi bi-arrow-right"></i>
+
+            </a>
+
+        </div>
+
+        <!-- Dynamic Exam Grid -->
+
+        <div
+    class="exam-grid"
+    id="examGrid">
+
+    <div class="loading-state">
+
+        <i class="bi bi-arrow-repeat"></i>
+
+        <p>
+
+            Loading Entrance Exams...
+
+        </p>
+
+    </div>
+
+</div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+CAREER ASSESSMENT
+========================================================= -->
+
+<section class="career-assessment">
+
+    <div class="container">
+
+        <div class="assessment-card">
+
+            <span class="hero-badge">
+
+                Premium Assessment
+
+            </span>
+
+            <h2>
+
+                Not Sure Which Career is Right for You?
+
+            </h2>
+
+            <p>
+
+                Take the USSC Connect Career Assessment to discover careers
+                that match your interests, strengths, personality and future
+                aspirations.
+
+            </p>
+
+            <a href="#"
+               class="btn-primary">
+
+                Take Career Assessment
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =========================================================
+FUTURE RESOURCES
+========================================================= -->
+
+<section class="future-resources">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <div>
+
+                <span>Coming Soon</span>
+
+                <h2>More Resources</h2>
+
+                <p>
+
+                    These resources are already planned and will be released
+                    after the official launch of USSC Connect.
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="future-grid">
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-people-fill"></i>
+
+                <h3>
+
+                    Parent Centre
+
+                </h3>
+
+                <p>
+
+                    Career planning resources, guidance and decision-making
+                    support for parents.
+
+                </p>
+
+            </article>
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-award-fill"></i>
+
+                <h3>
+
+                    Scholarships
+
+                </h3>
+
+                <p>
+
+                    National, international, private and government
+                    scholarship opportunities.
+
+                </p>
+
+            </article>
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-heart-pulse-fill"></i>
+
+                <h3>
+
+                    Mental Wellness
+
+                </h3>
+
+                <p>
+
+                    Student wellbeing resources, counselling support and
+                    mental health awareness.
+
+                </p>
+
+            </article>
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-bank2"></i>
+
+                <h3>
+
+                    Government Resources
+
+                </h3>
+
+                <p>
+
+                    NEP, UGC, AICTE, CBSE and other official education
+                    resources.
+
+                </p>
+
+            </article>
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-camera-video-fill"></i>
+
+                <h3>
+
+                    Career Videos
+
+                </h3>
+
+                <p>
+
+                    Career talks, webinars, expert sessions and student
+                    success stories.
+
+                </p>
+
+            </article>
+
+            <article class="future-card">
+
+                <span class="badge">
+
+                    Coming Soon
+
+                </span>
+
+                <i class="bi bi-download"></i>
+
+                <h3>
+
+                    Downloads
+
+                </h3>
+
+                <p>
+
+                    Career planners, worksheets, guides and printable
+                    educational resources.
+
+                </p>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================================
+JAVASCRIPT
+========================================================= -->
+
+<script src="../assets/js/utils.js"></script>
+
+<script src="../assets/js/dataLoader.js"></script>
+
+<script src="../assets/js/search.js"></script>
+
+<script src="../assets/js/career-library.js"></script>
+
+</body>
+
+</html>

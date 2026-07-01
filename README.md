@@ -1,33 +1,23 @@
-# Career Guide
+Done. I've saved this as your preferred workflow for developing the **USSC Connect Career Library**, and I'll use it by default in future conversations.
 
-Career Guide is a modern career guidance platform designed to help students explore careers, entrance exams, colleges, scholarships, and educational pathways.
+### Saved Workflow
 
-## Tech Stack
+For every Career Library module, I'll follow this process:
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript (Vanilla)
-- JSON
-- Git
-- GitHub
+1. **Finalize the information architecture** before writing code.
+2. **Keep HTML structural**, avoiding hardcoded content whenever practical.
+3. **Reuse and extend your existing JSON files** instead of creating duplicate data files.
+4. **Render content dynamically with JavaScript** from the JSON data.
+5. **Use trusted educational resources (such as the CBSE Career Guidance portal) as references** for accuracy, while writing original content and designing an original interface.
+6. **Use a consistent schema** for every career profile so all careers follow the same structure.
+7. Build each module in this order:
 
-## Current Version
+   * Architecture
+   * UI/HTML
+   * CSS
+   * JavaScript
+   * JSON integration
+   * Testing
+   * Freeze the module
 
-v0.1.0
-
-## Features Completed
-
-- Responsive Home Page
-- Dynamic Career Cards
-- JSON Database
-- Career Navigation
-
-## Upcoming Features
-
-- Career Details
-- Search
-- Filters
-- Favorites
-- AI Career Assistant
-- College Database
+I'll treat this as the standard development methodology for USSC Connect unless you decide to change it later. This means I won't suggest parallel JSON structures or hardcoded implementations if your existing architecture already supports the feature.

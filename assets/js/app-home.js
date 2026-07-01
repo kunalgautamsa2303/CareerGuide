@@ -1,5 +1,5 @@
 /* ==========================================================
-   USCS Connect
+   USSC Connect
    Homepage
    app-home.js
    Part 1
@@ -230,7 +230,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 /* ==========================================================
-   USCS Connect
+   USSC Connect
    Homepage
    app-home.js
    Part 2
@@ -539,6 +539,6 @@ sections.forEach(section => {
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    console.log("USCS Connect Homepage Loaded Successfully");
+    console.log("USSC Connect Homepage Loaded Successfully");
 
 });
